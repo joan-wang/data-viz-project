@@ -1,0 +1,149 @@
+,id,name,num_territories,region,region_id
+0,1,Afghanistan,0,Asia & the Pacific,1
+1,10,Bangladesh,0,Asia & the Pacific,1
+2,13,Bhutan,0,Asia & the Pacific,1
+3,21,Burma,0,Asia & the Pacific,1
+4,24,Cambodia,0,Asia & the Pacific,1
+5,29,China,0,Asia & the Pacific,1
+6,30,Christmas Island,0,Asia & the Pacific,1
+7,31,Cocos (Keeling) Islands,0,Asia & the Pacific,1
+8,36,Cook Islands,0,Asia & the Pacific,1
+9,48,Fiji,0,Asia & the Pacific,1
+10,59,Heard and McDonald Islands,0,Asia & the Pacific,1
+11,61,India,0,Asia & the Pacific,1
+12,62,Indonesia,0,Asia & the Pacific,1
+13,67,Kazakhstan,0,Asia & the Pacific,1
+14,69,Kiribati,0,Asia & the Pacific,1
+15,71,Kyrgyz Republic,0,Asia & the Pacific,1
+16,78,Malaysia,0,Asia & the Pacific,1
+17,79,Maldives,0,Asia & the Pacific,1
+18,85,Mongolia,0,Asia & the Pacific,1
+19,91,Nepal,0,Asia & the Pacific,1
+20,95,Niue,0,Asia & the Pacific,1
+21,96,Norfolk Island,0,Asia & the Pacific,1
+22,97,North Korea,0,Asia & the Pacific,1
+23,99,Pakistan,5,Asia & the Pacific,1
+24,101,Papua New Guinea,0,Asia & the Pacific,1
+25,104,Philippines,0,Asia & the Pacific,1
+26,112,Samoa,0,Asia & the Pacific,1
+27,117,Solomon Islands,0,Asia & the Pacific,1
+28,122,Sri Lanka,0,Asia & the Pacific,1
+29,125,Tajikistan,0,Asia & the Pacific,1
+30,127,Thailand,0,Asia & the Pacific,1
+31,128,Timor-Leste,0,Asia & the Pacific,1
+32,130,Tokelau,0,Asia & the Pacific,1
+33,131,Tonga,0,Asia & the Pacific,1
+34,134,Turkmenistan,0,Asia & the Pacific,1
+35,135,Tuvalu,0,Asia & the Pacific,1
+36,139,Uzbekistan,0,Asia & the Pacific,1
+37,140,Vanuatu,0,Asia & the Pacific,1
+38,142,Vietnam,0,Asia & the Pacific,1
+39,2,Albania,0,Europe & Eurasia,2
+40,5,Anguilla,0,Europe & Eurasia,2
+41,7,Armenia,0,Europe & Eurasia,2
+42,8,Azerbaijan,0,Europe & Eurasia,2
+43,15,Bosnia and Herzegovina,4,Europe & Eurasia,2
+44,18,British Indian Ocean Territories,0,Europe & Eurasia,2
+45,19,British Virgin Islands,0,Europe & Eurasia,2
+46,47,Falkland Islands (Islas Malvinas),0,Europe & Eurasia,2
+47,51,Georgia,0,Europe & Eurasia,2
+48,70,Kosovo,0,Europe & Eurasia,2
+49,75,Macedonia,0,Europe & Eurasia,2
+50,84,"Moldova, Republic of",0,Europe & Eurasia,2
+51,86,Montenegro,0,Europe & Eurasia,2
+52,87,Montserrat,0,Europe & Eurasia,2
+53,105,Pitcairn Islands,0,Europe & Eurasia,2
+54,106,Russia,0,Europe & Eurasia,2
+55,108,"Saint Helena, Ascensi",0,Europe & Eurasia,2
+56,114,Serbia,0,Europe & Eurasia,2
+57,133,Turkey,0,Europe & Eurasia,2
+58,137,Ukraine,0,Europe & Eurasia,2
+59,143,Wallis and Futuna,0,Europe & Eurasia,2
+60,3,Algeria,0,Middle East & North Africa,3
+61,9,Bahrain,0,Middle East & North Africa,3
+62,43,Egypt,0,Middle East & North Africa,3
+63,63,Iran,0,Middle East & North Africa,3
+64,64,Iraq,2,Middle East & North Africa,3
+65,66,Jordan,0,Middle East & North Africa,3
+66,72,Lebanon,0,Middle East & North Africa,3
+67,88,Morocco,0,Middle East & North Africa,3
+68,98,Oman,0,Middle East & North Africa,3
+69,132,Tunisia,0,Middle East & North Africa,3
+70,144,West Bank and the Gaza Strip,0,Middle East & North Africa,3
+71,145,Western Sahara,0,Middle East & North Africa,3
+72,146,Yemen,0,Middle East & North Africa,3
+73,4,Angola,0,Sub-Saharan Africa,4
+74,12,Benin,0,Sub-Saharan Africa,4
+75,16,Botswana,0,Sub-Saharan Africa,4
+76,20,Burkina Faso,0,Sub-Saharan Africa,4
+77,22,Burundi,0,Sub-Saharan Africa,4
+78,23,Cabo Verde,0,Sub-Saharan Africa,4
+79,25,Cameroon,0,Sub-Saharan Africa,4
+80,26,Central African Republic,0,Sub-Saharan Africa,4
+81,27,Chad,0,Sub-Saharan Africa,4
+82,33,Comoros,0,Sub-Saharan Africa,4
+83,34,"Congo, Democratic Republic of the",0,Sub-Saharan Africa,4
+84,35,"Congo, Republic of the",0,Sub-Saharan Africa,4
+85,38,C,0,Sub-Saharan Africa,4
+86,39,Djibouti,0,Sub-Saharan Africa,4
+87,45,Eritrea,0,Sub-Saharan Africa,4
+88,46,Ethiopia,0,Sub-Saharan Africa,4
+89,49,Gabon,0,Sub-Saharan Africa,4
+90,50,Gambia,0,Sub-Saharan Africa,4
+91,52,Ghana,0,Sub-Saharan Africa,4
+92,55,Guinea-Bissau,0,Sub-Saharan Africa,4
+93,56,Guinea,0,Sub-Saharan Africa,4
+94,68,Kenya,0,Sub-Saharan Africa,4
+95,73,Lesotho,0,Sub-Saharan Africa,4
+96,74,Liberia,0,Sub-Saharan Africa,4
+97,76,Madagascar,0,Sub-Saharan Africa,4
+98,77,Malawi,0,Sub-Saharan Africa,4
+99,80,Mali,0,Sub-Saharan Africa,4
+100,81,Mauritania,0,Sub-Saharan Africa,4
+101,82,Mauritius,0,Sub-Saharan Africa,4
+102,89,Mozambique,0,Sub-Saharan Africa,4
+103,90,Namibia,0,Sub-Saharan Africa,4
+104,93,Niger,0,Sub-Saharan Africa,4
+105,94,Nigeria,0,Sub-Saharan Africa,4
+106,107,Rwanda,0,Sub-Saharan Africa,4
+107,111,S,0,Sub-Saharan Africa,4
+108,113,Senegal,0,Sub-Saharan Africa,4
+109,115,Seychelles,0,Sub-Saharan Africa,4
+110,116,Sierra Leone,0,Sub-Saharan Africa,4
+111,118,Somalia,3,Sub-Saharan Africa,4
+112,119,South Africa,0,Sub-Saharan Africa,4
+113,120,South Sudan,0,Sub-Saharan Africa,4
+114,121,Sudan,0,Sub-Saharan Africa,4
+115,124,Swaziland,0,Sub-Saharan Africa,4
+116,126,Tanzania,2,Sub-Saharan Africa,4
+117,129,Togo,0,Sub-Saharan Africa,4
+118,136,Uganda,0,Sub-Saharan Africa,4
+119,147,Zambia,0,Sub-Saharan Africa,4
+120,148,Zimbabwe,0,Sub-Saharan Africa,4
+121,6,Argentina,0,Latin America & the Caribbean,5
+122,11,Belize,0,Latin America & the Caribbean,5
+123,14,Bolivia,0,Latin America & the Caribbean,5
+124,17,Brazil,0,Latin America & the Caribbean,5
+125,28,Chile,0,Latin America & the Caribbean,5
+126,32,Colombia,0,Latin America & the Caribbean,5
+127,37,Costa Rica,0,Latin America & the Caribbean,5
+128,40,Dominica,0,Latin America & the Caribbean,5
+129,41,Dominican Republic,0,Latin America & the Caribbean,5
+130,42,Ecuador,0,Latin America & the Caribbean,5
+131,44,El Salvador,0,Latin America & the Caribbean,5
+132,53,Grenada,0,Latin America & the Caribbean,5
+133,54,Guatemala,0,Latin America & the Caribbean,5
+134,57,Guyana,0,Latin America & the Caribbean,5
+135,58,Haiti,0,Latin America & the Caribbean,5
+136,60,Honduras,0,Latin America & the Caribbean,5
+137,65,Jamaica,0,Latin America & the Caribbean,5
+138,83,Mexico,0,Latin America & the Caribbean,5
+139,92,Nicaragua,0,Latin America & the Caribbean,5
+140,100,Panama,0,Latin America & the Caribbean,5
+141,102,Paraguay,0,Latin America & the Caribbean,5
+142,103,Peru,0,Latin America & the Caribbean,5
+143,109,Saint Lucia,0,Latin America & the Caribbean,5
+144,110,Saint Vincent and the Grenadines,0,Latin America & the Caribbean,5
+145,123,Suriname,0,Latin America & the Caribbean,5
+146,138,Uruguay,0,Latin America & the Caribbean,5
+147,141,Venezuela,0,Latin America & the Caribbean,5

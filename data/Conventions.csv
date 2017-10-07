@@ -1,0 +1,411 @@
+,assessment_id,c_138_ratified,c_182_ratified,country,country_id,crc_ac_ratified,crc_csec_ratified,crc_ratified,id,palermo_ratified,year
+0,1105,Yes,Yes,Afghanistan,1,Yes,Yes,Yes,276,Yes,2016
+1,1106,Yes,Yes,Albania,2,Yes,Yes,Yes,277,Yes,2016
+2,1107,Yes,Yes,Algeria,3,Yes,Yes,Yes,278,Yes,2016
+3,1108,Yes,Yes,Angola,4,Yes,Yes,Yes,279,Yes,2016
+4,1109,No,No,Anguilla,5,No,No,Yes,280,No,2016
+5,1110,Yes,Yes,Argentina,6,Yes,Yes,Yes,281,Yes,2016
+6,1111,Yes,Yes,Armenia,7,Yes,Yes,Yes,282,Yes,2016
+7,1112,Yes,Yes,Azerbaijan,8,Yes,Yes,Yes,283,Yes,2016
+8,1113,Yes,Yes,Bahrain,9,Yes,Yes,Yes,284,Yes,2016
+9,1114,No,Yes,Bangladesh,10,Yes,Yes,Yes,285,No,2016
+10,1115,Yes,Yes,Belize,11,Yes,Yes,Yes,286,Yes,2016
+11,1116,Yes,Yes,Benin,12,Yes,Yes,Yes,287,Yes,2016
+12,1117,N/A,N/A,Bhutan,13,Yes,Yes,Yes,288,No,2016
+13,1118,Yes,Yes,Bolivia,14,Yes,Yes,Yes,289,Yes,2016
+14,1119,Yes,Yes,Bosnia and Herzegovina,15,Yes,Yes,Yes,290,Yes,2016
+15,1120,Yes,Yes,Botswana,16,Yes,Yes,Yes,291,Yes,2016
+16,1121,Yes,Yes,Brazil,17,Yes,Yes,Yes,292,Yes,2016
+17,1122,No,No,British Virgin Islands,19,No,No,Yes,293,No,2016
+18,1123,Yes,Yes,Burkina Faso,20,Yes,Yes,Yes,294,Yes,2016
+19,1124,No,Yes,Burma,21,No,Yes,Yes,295,Yes,2016
+20,1125,Yes,Yes,Burundi,22,Yes,Yes,Yes,296,Yes,2016
+21,1140,Yes,Yes,C,38,Yes,Yes,Yes,311,Yes,2016
+22,1126,Yes,Yes,Cabo Verde,23,Yes,Yes,Yes,297,Yes,2016
+23,1127,Yes,Yes,Cambodia,24,Yes,Yes,Yes,298,Yes,2016
+24,1128,Yes,Yes,Cameroon,25,Yes,No,Yes,299,Yes,2016
+25,1129,Yes,Yes,Central African Republic,26,No,Yes,Yes,300,Yes,2016
+26,1130,Yes,Yes,Chad,27,Yes,Yes,Yes,301,Yes,2016
+27,1131,Yes,Yes,Chile,28,Yes,Yes,Yes,302,Yes,2016
+28,1132,No,Yes,Christmas Island,30,Yes,Yes,Yes,303,Yes,2016
+29,1133,No,Yes,Cocos (Keeling) Islands,31,Yes,Yes,Yes,304,Yes,2016
+30,1134,Yes,Yes,Colombia,32,Yes,Yes,Yes,305,Yes,2016
+31,1135,Yes,Yes,Comoros,33,No,Yes,Yes,306,No,2016
+32,1136,Yes,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Yes,307,Yes,2016
+33,1137,Yes,Yes,"Congo, Republic of the",35,Yes,Yes,Yes,308,No,2016
+34,1138,No,No,Cook Islands,36,No,No,Yes,309,No,2016
+35,1139,Yes,Yes,Costa Rica,37,Yes,Yes,Yes,310,Yes,2016
+36,1141,Yes,Yes,Djibouti,39,Yes,Yes,Yes,312,Yes,2016
+37,1142,Yes,Yes,Dominica,40,Yes,Yes,Yes,313,Yes,2016
+38,1143,Yes,Yes,Dominican Republic,41,Yes,Yes,Yes,314,Yes,2016
+39,1144,Yes,Yes,Ecuador,42,Yes,Yes,Yes,315,Yes,2016
+40,1145,Yes,Yes,Egypt,43,Yes,Yes,Yes,316,Yes,2016
+41,1146,Yes,Yes,El Salvador,44,Yes,Yes,Yes,317,Yes,2016
+42,1147,Yes,No,Eritrea,45,Yes,Yes,Yes,318,Yes,2016
+43,1148,Yes,Yes,Ethiopia,46,Yes,Yes,Yes,319,Yes,2016
+44,1149,No,Yes,Falkland Islands (Islas Malvinas),47,No,No,Yes,320,No,2016
+45,1150,Yes,Yes,Fiji,48,No,No,Yes,321,No,2016
+46,1151,Yes,Yes,Gabon,49,Yes,Yes,Yes,322,Yes,2016
+47,1152,Yes,Yes,Gambia,50,No,Yes,Yes,323,Yes,2016
+48,1153,Yes,Yes,Georgia,51,Yes,Yes,Yes,324,Yes,2016
+49,1154,Yes,Yes,Ghana,52,Yes,No,Yes,325,Yes,2016
+50,1155,Yes,Yes,Grenada,53,Yes,Yes,Yes,326,Yes,2016
+51,1156,Yes,Yes,Guatemala,54,Yes,Yes,Yes,327,Yes,2016
+52,1157,Yes,Yes,Guinea,56,Yes,Yes,Yes,328,Yes,2016
+53,1158,Yes,Yes,Guinea-Bissau,55,Yes,Yes,Yes,329,Yes,2016
+54,1159,Yes,Yes,Guyana,57,Yes,Yes,Yes,330,Yes,2016
+55,1160,Yes,Yes,Haiti,58,Yes,Yes,Yes,331,Yes,2016
+56,1161,Yes,Yes,Honduras,60,Yes,Yes,Yes,332,Yes,2016
+57,1162,Yes,Yes,India,61,Yes,Yes,Yes,333,Yes,2016
+58,1163,Yes,Yes,Indonesia,62,Yes,Yes,Yes,334,Yes,2016
+59,1164,Yes,Yes,Iraq,64,Yes,Yes,Yes,335,Yes,2016
+60,1165,Yes,Yes,Jamaica,65,Yes,Yes,Yes,336,Yes,2016
+61,1166,Yes,Yes,Jordan,66,Yes,Yes,Yes,337,Yes,2016
+62,1167,Yes,Yes,Kazakhstan,67,Yes,Yes,Yes,338,Yes,2016
+63,1168,Yes,Yes,Kenya,68,Yes,No,Yes,339,Yes,2016
+64,1169,Yes,Yes,Kiribati,69,Yes,Yes,Yes,340,Yes,2016
+65,1170,N/A,N/A,Kosovo,70,N/A,N/A,N/A,341,N/A,2016
+66,1171,Yes,Yes,Kyrgyz Republic,71,Yes,Yes,Yes,342,Yes,2016
+67,1172,Yes,Yes,Lebanon,72,No,Yes,Yes,343,Yes,2016
+68,1173,Yes,Yes,Lesotho,73,Yes,Yes,Yes,344,Yes,2016
+69,1174,No,Yes,Liberia,74,No,No,Yes,345,Yes,2016
+70,1175,Yes,Yes,Macedonia,75,Yes,Yes,Yes,346,Yes,2016
+71,1176,Yes,Yes,Madagascar,76,Yes,Yes,Yes,347,Yes,2016
+72,1177,Yes,Yes,Malawi,77,Yes,Yes,Yes,348,Yes,2016
+73,1178,Yes,Yes,Maldives,79,Yes,Yes,Yes,349,Yes,2016
+74,1179,Yes,Yes,Mali,80,Yes,Yes,Yes,350,Yes,2016
+75,1180,Yes,Yes,Mauritania,81,No,Yes,Yes,351,Yes,2016
+76,1181,Yes,Yes,Mauritius,82,Yes,Yes,Yes,352,Yes,2016
+77,1182,Yes,Yes,"Moldova, Republic of",84,Yes,Yes,Yes,353,Yes,2016
+78,1183,Yes,Yes,Mongolia,85,Yes,Yes,Yes,354,Yes,2016
+79,1184,Yes,Yes,Montenegro,86,Yes,Yes,Yes,355,Yes,2016
+80,1185,No,No,Montserrat,87,No,No,No,356,No,2016
+81,1186,Yes,Yes,Morocco,88,Yes,Yes,Yes,357,Yes,2016
+82,1187,Yes,Yes,Mozambique,89,Yes,Yes,Yes,358,Yes,2016
+83,1188,Yes,Yes,Namibia,90,Yes,Yes,Yes,359,Yes,2016
+84,1189,Yes,Yes,Nepal,91,Yes,Yes,Yes,360,No,2016
+85,1190,Yes,Yes,Nicaragua,92,Yes,Yes,Yes,361,Yes,2016
+86,1191,Yes,Yes,Niger,93,Yes,Yes,Yes,362,Yes,2016
+87,1192,Yes,Yes,Nigeria,94,Yes,Yes,Yes,363,Yes,2016
+88,1193,No,No,Niue,95,No,No,Yes,364,No,2016
+89,1194,No,Yes,Norfolk Island,96,Yes,Yes,Yes,365,Yes,2016
+90,1195,Yes,Yes,Oman,98,Yes,Yes,Yes,366,Yes,2016
+91,1196,Yes,Yes,Pakistan,99,Yes,Yes,Yes,367,No,2016
+92,1197,Yes,Yes,Panama,100,Yes,Yes,Yes,368,Yes,2016
+93,1198,Yes,Yes,Papua New Guinea,101,No,No,Yes,369,No,2016
+94,1199,Yes,Yes,Paraguay,102,Yes,Yes,Yes,370,Yes,2016
+95,1200,Yes,Yes,Peru,103,Yes,Yes,Yes,371,Yes,2016
+96,1201,Yes,Yes,Philippines,104,Yes,Yes,Yes,372,Yes,2016
+97,1202,Yes,Yes,Rwanda,107,Yes,Yes,Yes,373,Yes,2016
+98,1205,Yes,Yes,S,111,No,No,Yes,376,Yes,2016
+99,1215,No,Yes,"Saint Helena, Ascensi",108,No,No,Yes,386,No,2016
+100,1203,No,Yes,Saint Lucia,109,Yes,Yes,Yes,374,Yes,2016
+101,1216,Yes,Yes,Saint Vincent and the Grenadines,110,Yes,Yes,Yes,387,Yes,2016
+102,1204,Yes,Yes,Samoa,112,Yes,Yes,Yes,375,No,2016
+103,1206,Yes,Yes,Senegal,113,Yes,Yes,Yes,377,Yes,2016
+104,1207,Yes,Yes,Serbia,114,Yes,Yes,Yes,378,Yes,2016
+105,1208,Yes,Yes,Seychelles,115,Yes,Yes,Yes,379,Yes,2016
+106,1209,Yes,Yes,Sierra Leone,116,Yes,Yes,Yes,380,Yes,2016
+107,1210,Yes,Yes,Solomon Islands,117,No,No,Yes,381,No,2016
+108,1211,No,Yes,Somalia,118,No,No,Yes,382,No,2016
+109,1212,Yes,Yes,South Africa,119,Yes,Yes,Yes,383,Yes,2016
+110,1213,Yes,Yes,South Sudan,120,No,No,Yes,384,No,2016
+111,1214,Yes,Yes,Sri Lanka,122,Yes,Yes,Yes,385,Yes,2016
+112,1217,No,Yes,Suriname,123,No,Yes,Yes,388,Yes,2016
+113,1218,Yes,Yes,Swaziland,124,Yes,Yes,Yes,389,Yes,2016
+114,1219,Yes,Yes,Tanzania,126,Yes,Yes,Yes,390,Yes,2016
+115,1220,Yes,Yes,Thailand,127,Yes,Yes,Yes,391,Yes,2016
+116,1221,No,Yes,Timor-Leste,128,Yes,Yes,Yes,392,Yes,2016
+117,1222,Yes,Yes,Togo,129,Yes,Yes,Yes,393,Yes,2016
+118,1223,No,No,Tokelau,130,No,No,No,394,No,2016
+119,1224,No,No,Tonga,131,No,No,Yes,395,No,2016
+120,1225,Yes,Yes,Tunisia,132,Yes,Yes,Yes,396,Yes,2016
+121,1226,Yes,Yes,Turkey,133,Yes,Yes,Yes,397,Yes,2016
+122,1227,No,No,Tuvalu,135,No,No,Yes,398,No,2016
+123,1228,Yes,Yes,Uganda,136,Yes,Yes,Yes,399,No,2016
+124,1229,Yes,Yes,Ukraine,137,Yes,Yes,Yes,400,Yes,2016
+125,1230,Yes,Yes,Uruguay,138,Yes,Yes,Yes,401,Yes,2016
+126,1231,Yes,Yes,Uzbekistan,139,Yes,Yes,Yes,402,Yes,2016
+127,1232,No,Yes,Vanuatu,140,Yes,Yes,Yes,403,No,2016
+128,1233,Yes,Yes,Venezuela,141,Yes,Yes,Yes,404,Yes,2016
+129,1234,Yes,Yes,Wallis and Futuna,143,Yes,Yes,Yes,405,Yes,2016
+130,1235,N/A,N/A,West Bank and the Gaza Strip,144,Yes,N/A,Yes,406,N/A,2016
+131,1236,Yes,Yes,Western Sahara,145,Yes,Yes,Yes,407,Yes,2016
+132,1237,Yes,Yes,Yemen,146,Yes,Yes,Yes,408,No,2016
+133,1238,Yes,Yes,Zambia,147,No,No,Yes,409,Yes,2016
+134,1239,Yes,Yes,Zimbabwe,148,Yes,Yes,Yes,410,Yes,2016
+135,1,Yes,Yes,Afghanistan,1,Yes,Yes,Yes,1,Yes,2015
+136,2,Yes,Yes,Albania,2,Yes,Yes,Yes,2,Yes,2015
+137,3,Yes,Yes,Algeria,3,Yes,Yes,Yes,3,Yes,2015
+138,4,Yes,Yes,Angola,4,Yes,Yes,Yes,4,Yes,2015
+139,5,No,No,Anguilla,5,No,No,Yes,5,No,2015
+140,6,Yes,Yes,Argentina,6,Yes,Yes,Yes,6,Yes,2015
+141,7,Yes,Yes,Armenia,7,Yes,Yes,Yes,7,Yes,2015
+142,8,Yes,Yes,Azerbaijan,8,Yes,Yes,Yes,8,Yes,2015
+143,9,Yes,Yes,Bahrain,9,Yes,Yes,Yes,9,Yes,2015
+144,10,No,Yes,Bangladesh,10,Yes,Yes,Yes,10,No,2015
+145,11,Yes,Yes,Belize,11,Yes,Yes,Yes,11,Yes,2015
+146,12,Yes,Yes,Benin,12,Yes,Yes,Yes,12,Yes,2015
+147,13,N/A,N/A,Bhutan,13,Yes,Yes,Yes,13,No,2015
+148,14,Yes,Yes,Bolivia,14,Yes,Yes,Yes,14,Yes,2015
+149,15,Yes,Yes,Bosnia and Herzegovina,15,Yes,Yes,Yes,15,Yes,2015
+150,16,Yes,Yes,Botswana,16,Yes,Yes,Yes,16,Yes,2015
+151,17,Yes,Yes,Brazil,17,Yes,Yes,Yes,17,Yes,2015
+152,18,,,British Indian Ocean Territories,18,,,,18,,2015
+153,19,N/A,N/A,British Virgin Islands,19,N/A,N/A,Yes,19,N/A,2015
+154,20,Yes,Yes,Burkina Faso,20,Yes,Yes,Yes,20,Yes,2015
+155,22,Yes,Yes,Burundi,22,Yes,Yes,Yes,21,Yes,2015
+156,38,Yes,Yes,C,38,Yes,Yes,Yes,36,Yes,2015
+157,23,Yes,Yes,Cabo Verde,23,Yes,Yes,Yes,22,Yes,2015
+158,24,Yes,Yes,Cambodia,24,Yes,Yes,Yes,23,Yes,2015
+159,25,Yes,Yes,Cameroon,25,Yes,No,Yes,24,Yes,2015
+160,26,Yes,Yes,Central African Republic,26,No,Yes,Yes,25,Yes,2015
+161,27,Yes,Yes,Chad,27,Yes,Yes,Yes,26,Yes,2015
+162,28,Yes,Yes,Chile,28,Yes,Yes,Yes,27,Yes,2015
+163,30,No,Yes,Christmas Island,30,Yes,Yes,Yes,28,Yes,2015
+164,31,No,Yes,Cocos (Keeling) Islands,31,Yes,Yes,Yes,29,Yes,2015
+165,32,Yes,Yes,Colombia,32,Yes,Yes,Yes,30,Yes,2015
+166,33,Yes,Yes,Comoros,33,No,Yes,Yes,31,No,2015
+167,34,Yes,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Yes,32,Yes,2015
+168,35,Yes,Yes,"Congo, Republic of the",35,Yes,Yes,Yes,33,No,2015
+169,36,No,No,Cook Islands,36,No,No,Yes,34,No,2015
+170,37,Yes,Yes,Costa Rica,37,Yes,Yes,Yes,35,Yes,2015
+171,39,Yes,Yes,Djibouti,39,Yes,Yes,Yes,37,Yes,2015
+172,40,Yes,Yes,Dominica,40,Yes,Yes,Yes,38,Yes,2015
+173,41,Yes,Yes,Dominican Republic,41,Yes,Yes,Yes,39,Yes,2015
+174,42,Yes,Yes,Ecuador,42,Yes,Yes,Yes,40,Yes,2015
+175,43,Yes,Yes,Egypt,43,Yes,Yes,Yes,41,Yes,2015
+176,44,Yes,Yes,El Salvador,44,Yes,Yes,Yes,42,Yes,2015
+177,45,Yes,No,Eritrea,45,Yes,Yes,Yes,43,Yes,2015
+178,46,Yes,Yes,Ethiopia,46,Yes,Yes,Yes,44,Yes,2015
+179,47,N/A,Yes,Falkland Islands (Islas Malvinas),47,N/A,N/A,Yes,45,N/A,2015
+180,48,Yes,Yes,Fiji,48,No,No,Yes,46,No,2015
+181,49,Yes,Yes,Gabon,49,Yes,Yes,Yes,47,Yes,2015
+182,50,Yes,Yes,Gambia,50,No,Yes,Yes,48,Yes,2015
+183,51,Yes,Yes,Georgia,51,Yes,Yes,Yes,49,Yes,2015
+184,52,Yes,Yes,Ghana,52,Yes,No,Yes,50,Yes,2015
+185,53,Yes,Yes,Grenada,53,Yes,Yes,Yes,51,Yes,2015
+186,54,Yes,Yes,Guatemala,54,Yes,Yes,Yes,52,Yes,2015
+187,56,Yes,Yes,Guinea,56,No,Yes,Yes,53,Yes,2015
+188,55,Yes,Yes,Guinea-Bissau,55,Yes,Yes,Yes,54,Yes,2015
+189,57,Yes,Yes,Guyana,57,Yes,Yes,Yes,55,Yes,2015
+190,58,Yes,Yes,Haiti,58,Yes,Yes,Yes,56,Yes,2015
+191,59,,,Heard and McDonald Islands,59,,,,57,,2015
+192,60,Yes,Yes,Honduras,60,Yes,Yes,Yes,58,Yes,2015
+193,61,No,No,India,61,Yes,Yes,Yes,59,Yes,2015
+194,62,Yes,Yes,Indonesia,62,Yes,Yes,Yes,60,Yes,2015
+195,64,Yes,Yes,Iraq,64,Yes,Yes,Yes,61,Yes,2015
+196,65,Yes,Yes,Jamaica,65,Yes,Yes,Yes,62,Yes,2015
+197,66,Yes,Yes,Jordan,66,Yes,Yes,Yes,63,Yes,2015
+198,67,Yes,Yes,Kazakhstan,67,Yes,Yes,Yes,64,Yes,2015
+199,68,Yes,Yes,Kenya,68,Yes,No,Yes,65,Yes,2015
+200,69,Yes,Yes,Kiribati,69,Yes,Yes,Yes,66,Yes,2015
+201,70,N/A,N/A,Kosovo,70,N/A,N/A,N/A,67,N/A,2015
+202,71,Yes,Yes,Kyrgyz Republic,71,Yes,Yes,Yes,68,Yes,2015
+203,72,Yes,Yes,Lebanon,72,No,Yes,Yes,69,Yes,2015
+204,73,Yes,Yes,Lesotho,73,Yes,Yes,Yes,70,Yes,2015
+205,74,No,Yes,Liberia,74,No,No,Yes,71,Yes,2015
+206,75,Yes,Yes,Macedonia,75,Yes,Yes,Yes,72,Yes,2015
+207,76,Yes,Yes,Madagascar,76,Yes,Yes,Yes,73,Yes,2015
+208,77,Yes,Yes,Malawi,77,Yes,Yes,Yes,74,Yes,2015
+209,79,Yes,Yes,Maldives,79,Yes,Yes,Yes,75,Yes,2015
+210,80,Yes,Yes,Mali,80,Yes,Yes,Yes,76,Yes,2015
+211,81,Yes,Yes,Mauritania,81,No,Yes,Yes,77,Yes,2015
+212,82,Yes,Yes,Mauritius,82,Yes,Yes,Yes,78,Yes,2015
+213,84,Yes,Yes,"Moldova, Republic of",84,Yes,Yes,Yes,79,Yes,2015
+214,85,Yes,Yes,Mongolia,85,Yes,Yes,Yes,80,Yes,2015
+215,86,Yes,Yes,Montenegro,86,Yes,Yes,Yes,81,Yes,2015
+216,87,N/A,N/A,Montserrat,87,N/A,N/A,Yes,82,N/A,2015
+217,88,Yes,Yes,Morocco,88,Yes,Yes,Yes,83,Yes,2015
+218,89,Yes,Yes,Mozambique,89,Yes,Yes,Yes,84,Yes,2015
+219,90,Yes,Yes,Namibia,90,Yes,Yes,Yes,85,Yes,2015
+220,91,Yes,Yes,Nepal,91,Yes,Yes,Yes,86,No,2015
+221,92,Yes,Yes,Nicaragua,92,Yes,Yes,Yes,87,Yes,2015
+222,93,Yes,Yes,Niger,93,Yes,Yes,Yes,88,Yes,2015
+223,94,Yes,Yes,Nigeria,94,Yes,Yes,Yes,89,Yes,2015
+224,95,N/A,N/A,Niue,95,No,No,Yes,90,No,2015
+225,96,No,Yes,Norfolk Island,96,Yes,Yes,Yes,91,Yes,2015
+226,98,Yes,Yes,Oman,98,Yes,Yes,Yes,92,Yes,2015
+227,99,Yes,Yes,Pakistan,99,No,Yes,Yes,93,No,2015
+228,100,Yes,Yes,Panama,100,Yes,Yes,Yes,94,Yes,2015
+229,101,Yes,Yes,Papua New Guinea,101,No,No,Yes,95,No,2015
+230,102,Yes,Yes,Paraguay,102,Yes,Yes,Yes,96,Yes,2015
+231,103,Yes,Yes,Peru,103,Yes,Yes,Yes,97,Yes,2015
+232,104,Yes,Yes,Philippines,104,Yes,Yes,Yes,98,Yes,2015
+233,105,,,Pitcairn Islands,105,,,,99,,2015
+234,107,Yes,Yes,Rwanda,107,Yes,Yes,Yes,100,Yes,2015
+235,111,Yes,Yes,S,111,No,No,Yes,105,Yes,2015
+236,108,No,Yes,"Saint Helena, Ascensi",108,No,No,Yes,101,No,2015
+237,109,No,Yes,Saint Lucia,109,Yes,Yes,Yes,102,Yes,2015
+238,110,Yes,Yes,Saint Vincent and the Grenadines,110,Yes,Yes,Yes,103,Yes,2015
+239,112,Yes,Yes,Samoa,112,No,No,Yes,104,No,2015
+240,113,Yes,Yes,Senegal,113,Yes,Yes,Yes,106,Yes,2015
+241,114,Yes,Yes,Serbia,114,Yes,Yes,Yes,107,Yes,2015
+242,115,Yes,Yes,Seychelles,115,Yes,Yes,Yes,108,Yes,2015
+243,116,Yes,Yes,Sierra Leone,116,Yes,Yes,Yes,109,Yes,2015
+244,117,Yes,Yes,Solomon Islands,117,No,No,Yes,110,No,2015
+245,118,No,Yes,Somalia,118,No,No,Yes,111,No,2015
+246,119,Yes,Yes,South Africa,119,Yes,Yes,Yes,112,Yes,2015
+247,120,Yes,Yes,South Sudan,120,No,No,Yes,113,No,2015
+248,122,Yes,Yes,Sri Lanka,122,Yes,Yes,Yes,114,Yes,2015
+249,123,No,Yes,Suriname,123,No,Yes,Yes,115,Yes,2015
+250,124,Yes,Yes,Swaziland,124,Yes,Yes,Yes,116,Yes,2015
+251,126,Yes,Yes,Tanzania,126,Yes,Yes,Yes,117,Yes,2015
+252,127,Yes,Yes,Thailand,127,Yes,Yes,Yes,118,Yes,2015
+253,128,No,Yes,Timor-Leste,128,Yes,Yes,Yes,119,Yes,2015
+254,129,Yes,Yes,Togo,129,Yes,Yes,Yes,120,Yes,2015
+255,130,Unknown,Unknown,Tokelau,130,Unknown,Unknown,Unknown,121,Unknown,2015
+256,131,N/A,N/A,Tonga,131,No,No,Yes,122,No,2015
+257,132,Yes,Yes,Tunisia,132,Yes,Yes,Yes,123,Yes,2015
+258,133,Yes,Yes,Turkey,133,Yes,Yes,Yes,124,Yes,2015
+259,135,No,No,Tuvalu,135,No,No,Yes,125,No,2015
+260,136,Yes,Yes,Uganda,136,Yes,Yes,Yes,126,No,2015
+261,137,Yes,Yes,Ukraine,137,Yes,Yes,Yes,127,Yes,2015
+262,138,Yes,Yes,Uruguay,138,Yes,Yes,Yes,128,Yes,2015
+263,139,Yes,Yes,Uzbekistan,139,Yes,Yes,Yes,129,Yes,2015
+264,140,No,Yes,Vanuatu,140,Yes,Yes,Yes,130,No,2015
+265,141,Yes,Yes,Venezuela,141,Yes,Yes,Yes,131,Yes,2015
+266,143,Yes,Yes,Wallis and Futuna,143,Yes,Yes,Yes,132,Yes,2015
+267,144,N/A,N/A,West Bank and the Gaza Strip,144,Yes,N/A,Yes,133,N/A,2015
+268,145,Yes,Yes,Western Sahara,145,Yes,Yes,Yes,134,Yes,2015
+269,146,Yes,Yes,Yemen,146,Yes,Yes,Yes,135,No,2015
+270,147,Yes,Yes,Zambia,147,No,No,Yes,136,Yes,2015
+271,148,Yes,Yes,Zimbabwe,148,Yes,Yes,Yes,137,Yes,2015
+272,149,Yes,Yes,Afghanistan,1,Yes,Yes,Yes,138,Yes,2014
+273,150,Yes,Yes,Albania,2,Yes,Yes,Yes,139,Yes,2014
+274,151,Yes,Yes,Algeria,3,Yes,Yes,Yes,140,Yes,2014
+275,152,Yes,Yes,Angola,4,Yes,Yes,Yes,141,Yes,2014
+276,153,No,No,Anguilla,5,No,No,Yes,142,No,2014
+277,154,Yes,Yes,Argentina,6,Yes,Yes,Yes,143,Yes,2014
+278,155,Yes,Yes,Armenia,7,Yes,Yes,Yes,144,Yes,2014
+279,156,Yes,Yes,Azerbaijan,8,Yes,Yes,Yes,145,Yes,2014
+280,157,Yes,Yes,Bahrain,9,Yes,Yes,Yes,146,Yes,2014
+281,158,No,Yes,Bangladesh,10,Yes,Yes,Yes,147,No,2014
+282,159,Yes,Yes,Belize,11,Yes,Yes,Yes,148,Yes,2014
+283,160,Yes,Yes,Benin,12,Yes,Yes,Yes,149,Yes,2014
+284,161,N/A,N/A,Bhutan,13,Yes,Yes,Yes,150,No,2014
+285,162,Yes,Yes,Bolivia,14,Yes,Yes,Yes,151,Yes,2014
+286,163,Yes,Yes,Bosnia and Herzegovina,15,Yes,Yes,Yes,152,Yes,2014
+287,164,Yes,Yes,Botswana,16,Yes,Yes,Yes,153,Yes,2014
+288,165,Yes,Yes,Brazil,17,Yes,Yes,Yes,154,Yes,2014
+289,166,,,British Indian Ocean Territories,18,,,,155,,2014
+290,167,No,No,British Virgin Islands,19,No,No,Yes,156,No,2014
+291,168,Yes,Yes,Burkina Faso,20,Yes,Yes,Yes,157,Yes,2014
+292,170,Yes,Yes,Burundi,22,Yes,Yes,Yes,158,Yes,2014
+293,186,Yes,Yes,C,38,Yes,Yes,Yes,173,Yes,2014
+294,171,Yes,Yes,Cabo Verde,23,Yes,Yes,Yes,159,Yes,2014
+295,172,Yes,Yes,Cambodia,24,Yes,Yes,Yes,160,Yes,2014
+296,173,Yes,Yes,Cameroon,25,Yes,No,Yes,161,Yes,2014
+297,174,Yes,Yes,Central African Republic,26,No,Yes,Yes,162,Yes,2014
+298,175,Yes,Yes,Chad,27,Yes,Yes,Yes,163,Yes,2014
+299,176,Yes,Yes,Chile,28,Yes,Yes,Yes,164,Yes,2014
+300,178,No,Yes,Christmas Island,30,Yes,Yes,Yes,165,Yes,2014
+301,179,No,Yes,Cocos (Keeling) Islands,31,Yes,Yes,Yes,166,Yes,2014
+302,180,Yes,Yes,Colombia,32,Yes,Yes,Yes,167,Yes,2014
+303,181,Yes,Yes,Comoros,33,No,Yes,Yes,168,No,2014
+304,182,Yes,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Yes,169,Yes,2014
+305,183,Yes,Yes,"Congo, Republic of the",35,Yes,Yes,Yes,170,Yes,2014
+306,184,N/A,N/A,Cook Islands,36,No,No,Yes,171,No,2014
+307,185,Yes,Yes,Costa Rica,37,Yes,Yes,Yes,172,Yes,2014
+308,187,Yes,Yes,Djibouti,39,Yes,Yes,Yes,174,Yes,2014
+309,188,Yes,Yes,Dominica,40,Yes,Yes,Yes,175,Yes,2014
+310,189,Yes,Yes,Dominican Republic,41,Yes,Yes,Yes,176,Yes,2014
+311,190,Yes,Yes,Ecuador,42,Yes,Yes,Yes,177,Yes,2014
+312,191,Yes,Yes,Egypt,43,Yes,Yes,Yes,178,Yes,2014
+313,192,Yes,Yes,El Salvador,44,Yes,Yes,Yes,179,Yes,2014
+314,193,Yes,No,Eritrea,45,Yes,Yes,Yes,180,Yes,2014
+315,194,Yes,Yes,Ethiopia,46,Yes,Yes,Yes,181,Yes,2014
+316,195,No,Yes,Falkland Islands (Islas Malvinas),47,No,No,Yes,182,No,2014
+317,196,Yes,Yes,Fiji,48,No,No,Yes,183,No,2014
+318,197,Yes,Yes,Gabon,49,Yes,Yes,Yes,184,Yes,2014
+319,198,Yes,Yes,Gambia,50,No,Yes,Yes,185,Yes,2014
+320,199,Yes,Yes,Georgia,51,Yes,Yes,Yes,186,Yes,2014
+321,200,Yes,Yes,Ghana,52,Yes,No,Yes,187,Yes,2014
+322,201,Yes,Yes,Grenada,53,Yes,Yes,Yes,188,Yes,2014
+323,202,Yes,Yes,Guatemala,54,Yes,Yes,Yes,189,Yes,2014
+324,203,Yes,Yes,Guinea,56,No,Yes,Yes,190,Yes,2014
+325,204,Yes,Yes,Guinea-Bissau,55,Yes,Yes,Yes,191,Yes,2014
+326,205,Yes,Yes,Guyana,57,Yes,Yes,Yes,192,Yes,2014
+327,206,Yes,Yes,Haiti,58,Yes,Yes,Yes,193,Yes,2014
+328,207,,,Heard and McDonald Islands,59,,,,194,,2014
+329,208,Yes,Yes,Honduras,60,Yes,Yes,Yes,195,Yes,2014
+330,209,No,No,India,61,Yes,Yes,Yes,196,Yes,2014
+331,210,Yes,Yes,Indonesia,62,Yes,Yes,Yes,197,Yes,2014
+332,212,Yes,Yes,Iraq,64,Yes,Yes,Yes,198,Yes,2014
+333,213,Yes,Yes,Jamaica,65,Yes,Yes,Yes,199,Yes,2014
+334,214,Yes,Yes,Jordan,66,Yes,Yes,Yes,200,Yes,2014
+335,215,Yes,Yes,Kazakhstan,67,Yes,Yes,Yes,201,Yes,2014
+336,216,Yes,Yes,Kenya,68,Yes,No,Yes,202,Yes,2014
+337,217,Yes,Yes,Kiribati,69,No,No,Yes,203,Yes,2014
+338,218,N/A,N/A,Kosovo,70,N/A,N/A,N/A,204,N/A,2014
+339,219,Yes,Yes,Kyrgyz Republic,71,Yes,Yes,Yes,205,Yes,2014
+340,220,Yes,Yes,Lebanon,72,No,Yes,Yes,206,Yes,2014
+341,221,Yes,Yes,Lesotho,73,Yes,Yes,Yes,207,Yes,2014
+342,222,No,Yes,Liberia,74,No,No,Yes,208,Yes,2014
+343,223,Yes,Yes,Macedonia,75,Yes,Yes,Yes,209,Yes,2014
+344,224,Yes,Yes,Madagascar,76,Yes,Yes,Yes,210,Yes,2014
+345,225,Yes,Yes,Malawi,77,Yes,Yes,Yes,211,Yes,2014
+346,227,Yes,Yes,Maldives,79,Yes,Yes,Yes,212,No,2014
+347,228,Yes,Yes,Mali,80,Yes,Yes,Yes,213,Yes,2014
+348,229,Yes,Yes,Mauritania,81,No,Yes,Yes,214,Yes,2014
+349,230,Yes,Yes,Mauritius,82,Yes,Yes,Yes,215,Yes,2014
+350,232,Yes,Yes,"Moldova, Republic of",84,Yes,Yes,Yes,216,Yes,2014
+351,233,Yes,Yes,Mongolia,85,Yes,Yes,Yes,217,Yes,2014
+352,234,Yes,Yes,Montenegro,86,Yes,Yes,Yes,218,Yes,2014
+353,235,No,No,Montserrat,87,No,No,Yes,219,No,2014
+354,236,Yes,Yes,Morocco,88,Yes,Yes,Yes,220,Yes,2014
+355,237,Yes,Yes,Mozambique,89,Yes,Yes,Yes,221,Yes,2014
+356,238,Yes,Yes,Namibia,90,Yes,Yes,Yes,222,Yes,2014
+357,239,Yes,Yes,Nepal,91,Yes,Yes,Yes,223,No,2014
+358,240,Yes,Yes,Nicaragua,92,Yes,Yes,Yes,224,Yes,2014
+359,241,Yes,Yes,Niger,93,Yes,Yes,Yes,225,Yes,2014
+360,242,Yes,Yes,Nigeria,94,Yes,Yes,Yes,226,Yes,2014
+361,243,N/A,N/A,Niue,95,No,No,Yes,227,No,2014
+362,244,No,Yes,Norfolk Island,96,Yes,Yes,Yes,228,Yes,2014
+363,246,Yes,Yes,Oman,98,Yes,Yes,Yes,229,Yes,2014
+364,247,Yes,Yes,Pakistan,99,No,Yes,Yes,230,No,2014
+365,248,Yes,Yes,Panama,100,Yes,Yes,Yes,231,Yes,2014
+366,249,Yes,Yes,Papua New Guinea,101,No,No,Yes,232,No,2014
+367,250,Yes,Yes,Paraguay,102,Yes,Yes,Yes,233,Yes,2014
+368,251,Yes,Yes,Peru,103,Yes,Yes,Yes,234,Yes,2014
+369,252,Yes,Yes,Philippines,104,Yes,Yes,Yes,235,Yes,2014
+370,253,,,Pitcairn Islands,105,,,,236,,2014
+371,254,Yes,Yes,Russia,106,Yes,Yes,Yes,237,Yes,2014
+372,255,Yes,Yes,Rwanda,107,Yes,Yes,Yes,238,Yes,2014
+373,260,Yes,Yes,S,111,No,No,Yes,243,Yes,2014
+374,256,No,Yes,"Saint Helena, Ascensi",108,No,No,Yes,239,No,2014
+375,257,No,Yes,Saint Lucia,109,Yes,Yes,Yes,240,Yes,2014
+376,258,Yes,Yes,Saint Vincent and the Grenadines,110,Yes,Yes,Yes,241,Yes,2014
+377,259,Yes,Yes,Samoa,112,No,No,Yes,242,No,2014
+378,261,Yes,Yes,Senegal,113,Yes,Yes,Yes,244,Yes,2014
+379,262,Yes,Yes,Serbia,114,Yes,Yes,Yes,245,Yes,2014
+380,263,Yes,Yes,Seychelles,115,Yes,Yes,Yes,246,Yes,2014
+381,264,Yes,Yes,Sierra Leone,116,Yes,Yes,Yes,247,Yes,2014
+382,265,Yes,Yes,Solomon Islands,117,No,No,Yes,248,No,2014
+383,266,No,Yes,Somalia,118,No,No,No,249,No,2014
+384,267,Yes,Yes,South Africa,119,Yes,Yes,Yes,250,Yes,2014
+385,268,Yes,Yes,South Sudan,120,No,No,No,251,No,2014
+386,269,Yes,Yes,Sri Lanka,122,Yes,Yes,Yes,252,No,2014
+387,270,No,Yes,Suriname,123,No,Yes,Yes,253,Yes,2014
+388,271,Yes,Yes,Swaziland,124,Yes,Yes,Yes,254,Yes,2014
+389,273,Yes,Yes,Tanzania,126,Yes,Yes,Yes,255,Yes,2014
+390,274,Yes,Yes,Thailand,127,Yes,Yes,Yes,256,Yes,2014
+391,275,No,Yes,Timor-Leste,128,Yes,Yes,Yes,257,Yes,2014
+392,276,Yes,Yes,Togo,129,Yes,Yes,Yes,258,Yes,2014
+393,277,Unknown,Unknown,Tokelau,130,Unknown,Unknown,Unknown,259,Unknown,2014
+394,278,No,No,Tonga,131,No,No,Yes,260,No,2014
+395,279,Yes,Yes,Tunisia,132,Yes,Yes,Yes,261,Yes,2014
+396,280,Yes,Yes,Turkey,133,Yes,Yes,Yes,262,Yes,2014
+397,282,No,No,Tuvalu,135,No,No,Yes,263,No,2014
+398,283,Yes,Yes,Uganda,136,Yes,Yes,Yes,264,No,2014
+399,284,Yes,Yes,Ukraine,137,Yes,Yes,Yes,265,Yes,2014
+400,285,Yes,Yes,Uruguay,138,Yes,Yes,Yes,266,Yes,2014
+401,286,Yes,Yes,Uzbekistan,139,Yes,Yes,Yes,267,Yes,2014
+402,287,No,Yes,Vanuatu,140,Yes,Yes,Yes,268,No,2014
+403,288,Yes,Yes,Venezuela,141,Yes,Yes,Yes,269,Yes,2014
+404,290,Yes,Yes,Wallis and Futuna,143,Yes,Yes,Yes,270,Yes,2014
+405,291,N/A,N/A,West Bank and the Gaza Strip,144,Yes,N/A,Yes,271,N/A,2014
+406,292,Yes,Yes,Western Sahara,145,Yes,Yes,Yes,272,Yes,2014
+407,293,Yes,Yes,Yemen,146,Yes,Yes,Yes,273,No,2014
+408,294,Yes,Yes,Zambia,147,No,No,Yes,274,Yes,2014
+409,295,Yes,Yes,Zimbabwe,148,Yes,Yes,Yes,275,Yes,2014

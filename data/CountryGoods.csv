@@ -1,0 +1,733 @@
+,assessment_id,child_labor,country,country_id,forced_child_labor,forced_labor,good,good_id,id,regionname,year
+0,1,Yes,Afghanistan,1,No,No,Flowers (poppies),50,4,Asia & the Pacific,2015
+1,1,Yes,Afghanistan,1,Yes,Yes,Bricks,13,1,Asia & the Pacific,2015
+2,1,Yes,Afghanistan,1,No,No,Carpets,16,2,Asia & the Pacific,2015
+3,1,Yes,Afghanistan,1,No,No,Coal,28,3,Asia & the Pacific,2015
+4,4,Yes,Angola,4,No,Yes,Diamonds,40,5,Sub-Saharan Africa,2015
+5,6,Yes,Argentina,6,Yes,Yes,Garments,57,10,Latin America & the Caribbean,2015
+6,6,Yes,Argentina,6,No,No,Tomatoes,133,15,Latin America & the Caribbean,2015
+7,6,Yes,Argentina,6,No,No,Blueberries,10,6,Latin America & the Caribbean,2015
+8,6,Yes,Argentina,6,No,No,Grapes,65,11,Latin America & the Caribbean,2015
+9,6,Yes,Argentina,6,No,No,Yerba Mate (stimulant plant),139,16,Latin America & the Caribbean,2015
+10,6,Yes,Argentina,6,No,No,Bricks,13,7,Latin America & the Caribbean,2015
+11,6,Yes,Argentina,6,No,No,Olives,86,12,Latin America & the Caribbean,2015
+12,6,Yes,Argentina,6,No,No,Cotton,36,8,Latin America & the Caribbean,2015
+13,6,Yes,Argentina,6,No,No,Strawberries,117,13,Latin America & the Caribbean,2015
+14,6,Yes,Argentina,6,No,No,Garlic,56,9,Latin America & the Caribbean,2015
+15,6,Yes,Argentina,6,No,No,Tobacco,132,14,Latin America & the Caribbean,2015
+16,8,Yes,Azerbaijan,8,No,No,Cotton,36,17,Europe & Eurasia,2015
+17,10,Yes,Bangladesh,10,No,No,Shrimp,106,29,Asia & the Pacific,2015
+18,10,Yes,Bangladesh,10,Yes,Yes,Dried Fish,41,20,Asia & the Pacific,2015
+19,10,Yes,Bangladesh,10,No,No,Leather,74,25,Asia & the Pacific,2015
+20,10,Yes,Bangladesh,10,No,No,Soap,112,30,Asia & the Pacific,2015
+21,10,Yes,Bangladesh,10,No,No,Footwear,52,21,Asia & the Pacific,2015
+22,10,Yes,Bangladesh,10,No,No,Matches,79,26,Asia & the Pacific,2015
+23,10,Yes,Bangladesh,10,No,No,Textiles,125,31,Asia & the Pacific,2015
+24,10,Yes,Bangladesh,10,No,No,Furniture (steel),55,22,Asia & the Pacific,2015
+25,10,Yes,Bangladesh,10,No,No,Poultry,95,27,Asia & the Pacific,2015
+26,10,Yes,Bangladesh,10,No,No,Bidis (hand-rolled cigarettes),9,18,Asia & the Pacific,2015
+27,10,Yes,Bangladesh,10,No,No,Textiles (jute),127,32,Asia & the Pacific,2015
+28,10,Yes,Bangladesh,10,No,No,Garments,57,23,Asia & the Pacific,2015
+29,10,Yes,Bangladesh,10,No,No,Salt,101,28,Asia & the Pacific,2015
+30,10,Yes,Bangladesh,10,No,No,Bricks,13,19,Asia & the Pacific,2015
+31,10,Yes,Bangladesh,10,No,No,Glass,59,24,Asia & the Pacific,2015
+32,11,Yes,Belize,11,No,No,Bananas,5,33,Latin America & the Caribbean,2015
+33,11,Yes,Belize,11,No,No,Citrus Fruits,26,34,Latin America & the Caribbean,2015
+34,11,Yes,Belize,11,No,No,Sugarcane,119,35,Latin America & the Caribbean,2015
+35,12,Yes,Benin,12,Yes,Yes,Cotton,36,36,Sub-Saharan Africa,2015
+36,12,Yes,Benin,12,No,No,Granite (crushed),64,37,Sub-Saharan Africa,2015
+37,14,Yes,Bolivia,14,No,No,Zinc,140,47,Latin America & the Caribbean,2015
+38,14,Yes,Bolivia,14,Yes,Yes,Brazil Nuts/Chestnuts,12,38,Latin America & the Caribbean,2015
+39,14,No,Bolivia,14,No,Yes,Peanuts,89,43,Latin America & the Caribbean,2015
+40,14,Yes,Bolivia,14,No,No,Bricks,13,39,Latin America & the Caribbean,2015
+41,14,Yes,Bolivia,14,No,No,Silver,110,44,Latin America & the Caribbean,2015
+42,14,No,Bolivia,14,No,Yes,Cattle,20,40,Latin America & the Caribbean,2015
+43,14,Yes,Bolivia,14,Yes,Yes,Sugarcane,119,45,Latin America & the Caribbean,2015
+44,14,Yes,Bolivia,14,No,Yes,Corn,35,41,Latin America & the Caribbean,2015
+45,14,Yes,Bolivia,14,No,No,Tin,131,46,Latin America & the Caribbean,2015
+46,14,Yes,Bolivia,14,No,No,Gold,62,42,Latin America & the Caribbean,2015
+47,17,Yes,Brazil,17,No,No,Tobacco,132,63,Latin America & the Caribbean,2015
+48,17,Yes,Brazil,17,No,No,Cotton,36,54,Latin America & the Caribbean,2015
+49,17,Yes,Brazil,17,No,No,Rice,98,59,Latin America & the Caribbean,2015
+50,17,Yes,Brazil,17,No,No,Cashews,17,50,Latin America & the Caribbean,2015
+51,17,Yes,Brazil,17,No,No,Footwear,52,55,Latin America & the Caribbean,2015
+52,17,Yes,Brazil,17,No,No,Sisal,111,60,Latin America & the Caribbean,2015
+53,17,Yes,Brazil,17,No,Yes,Cattle,20,51,Latin America & the Caribbean,2015
+54,17,No,Brazil,17,No,Yes,Garments,57,56,Latin America & the Caribbean,2015
+55,17,No,Brazil,17,No,Yes,Sugarcane,119,61,Latin America & the Caribbean,2015
+56,17,Yes,Brazil,17,No,No,Ceramics,22,52,Latin America & the Caribbean,2015
+57,17,Yes,Brazil,17,No,No,Manioc/Cassava,78,57,Latin America & the Caribbean,2015
+58,17,Yes,Brazil,17,No,No,Beef,8,48,Latin America & the Caribbean,2015
+59,17,No,Brazil,17,No,Yes,Timber,130,62,Latin America & the Caribbean,2015
+60,17,Yes,Brazil,17,No,Yes,Charcoal,23,53,Latin America & the Caribbean,2015
+61,17,Yes,Brazil,17,No,No,Pineapples,92,58,Latin America & the Caribbean,2015
+62,17,Yes,Brazil,17,No,No,Bricks,13,49,Latin America & the Caribbean,2015
+63,20,Yes,Burkina Faso,20,Yes,Yes,Cotton,36,64,Sub-Saharan Africa,2015
+64,20,Yes,Burkina Faso,20,Yes,Yes,Gold,62,65,Sub-Saharan Africa,2015
+65,20,Yes,Burkina Faso,20,No,No,Granite,63,66,Sub-Saharan Africa,2015
+66,21,No,Burma,21,No,Yes,Physic Nuts/Castor Beans,91,72,Asia & the Pacific,2015
+67,21,No,Burma,21,No,Yes,Shrimp,106,77,Asia & the Pacific,2015
+68,21,Yes,Burma,21,Yes,Yes,"Beans (green, soy, yellow)",7,68,Asia & the Pacific,2015
+69,21,Yes,Burma,21,Yes,Yes,Rice,98,73,Asia & the Pacific,2015
+70,21,Yes,Burma,21,Yes,Yes,Sugarcane,119,78,Asia & the Pacific,2015
+71,21,Yes,Burma,21,Yes,Yes,Bricks,13,69,Asia & the Pacific,2015
+72,21,Yes,Burma,21,Yes,Yes,Rubber,99,74,Asia & the Pacific,2015
+73,21,No,Burma,21,No,Yes,Sunflowers,120,79,Asia & the Pacific,2015
+74,21,Yes,Burma,21,No,Yes,Jade,73,70,Asia & the Pacific,2015
+75,21,Yes,Burma,21,No,Yes,Rubies,100,75,Asia & the Pacific,2015
+76,21,Yes,Burma,21,Yes,Yes,Teak,124,80,Asia & the Pacific,2015
+77,21,No,Burma,21,No,Yes,Palm Thatch,88,71,Asia & the Pacific,2015
+78,21,No,Burma,21,No,Yes,Sesame,104,76,Asia & the Pacific,2015
+79,21,Yes,Burma,21,Yes,Yes,Bamboo,4,67,Asia & the Pacific,2015
+80,38,Yes,C,38,Yes,Yes,Coffee,32,119,Sub-Saharan Africa,2015
+81,38,Yes,C,38,Yes,Yes,Cocoa,30,118,Sub-Saharan Africa,2015
+82,24,Yes,Cambodia,24,No,No,Shrimp,106,88,Asia & the Pacific,2015
+83,24,Yes,Cambodia,24,No,No,Manioc/Cassava,78,84,Asia & the Pacific,2015
+84,24,Yes,Cambodia,24,No,No,Sugarcane,119,89,Asia & the Pacific,2015
+85,24,Yes,Cambodia,24,No,No,Meat,80,85,Asia & the Pacific,2015
+86,24,Yes,Cambodia,24,No,No,Textiles,125,90,Asia & the Pacific,2015
+87,24,Yes,Cambodia,24,No,No,Alcoholic Beverages,1,81,Asia & the Pacific,2015
+88,24,Yes,Cambodia,24,No,No,Rubber,99,86,Asia & the Pacific,2015
+89,24,Yes,Cambodia,24,No,No,Timber,130,91,Asia & the Pacific,2015
+90,24,Yes,Cambodia,24,No,No,Bricks,13,82,Asia & the Pacific,2015
+91,24,Yes,Cambodia,24,No,No,Salt,101,87,Asia & the Pacific,2015
+92,24,Yes,Cambodia,24,No,No,Tobacco,132,92,Asia & the Pacific,2015
+93,24,Yes,Cambodia,24,No,No,Fish,48,83,Asia & the Pacific,2015
+94,25,Yes,Cameroon,25,No,No,Cocoa,30,93,Sub-Saharan Africa,2015
+95,26,Yes,Central African Republic,26,No,No,Diamonds,40,94,Sub-Saharan Africa,2015
+96,27,Yes,Chad,27,No,No,Cattle,20,95,Sub-Saharan Africa,2015
+97,29,Yes,China,29,No,Yes,Fireworks,47,102,Asia & the Pacific,2015
+98,29,Yes,China,29,Yes,Yes,Toys,134,107,Asia & the Pacific,2015
+99,29,No,China,29,No,Yes,Christmas Decorations,25,98,Asia & the Pacific,2015
+100,29,No,China,29,No,Yes,Footwear,52,103,Asia & the Pacific,2015
+101,29,No,China,29,No,Yes,Coal,28,99,Asia & the Pacific,2015
+102,29,No,China,29,No,Yes,Garments,57,104,Asia & the Pacific,2015
+103,29,Yes,China,29,Yes,Yes,Cotton,36,100,Asia & the Pacific,2015
+104,29,No,China,29,No,Yes,Nails,83,105,Asia & the Pacific,2015
+105,29,No,China,29,No,Yes,Artificial Flowers,2,96,Asia & the Pacific,2015
+106,29,Yes,China,29,Yes,Yes,Electronics,43,101,Asia & the Pacific,2015
+107,29,Yes,China,29,No,No,Textiles,125,106,Asia & the Pacific,2015
+108,29,Yes,China,29,Yes,Yes,Bricks,13,97,Asia & the Pacific,2015
+109,32,Yes,Colombia,32,No,No,Bricks (clay),14,108,Latin America & the Caribbean,2015
+110,32,Yes,Colombia,32,No,No,Gold,62,113,Latin America & the Caribbean,2015
+111,32,Yes,Colombia,32,No,No,Coal,28,109,Latin America & the Caribbean,2015
+112,32,Yes,Colombia,32,No,No,Pornography,94,114,Latin America & the Caribbean,2015
+113,32,Yes,Colombia,32,Yes,Yes,Coca (stimulant plant),29,110,Latin America & the Caribbean,2015
+114,32,Yes,Colombia,32,No,No,Sugarcane,119,115,Latin America & the Caribbean,2015
+115,32,Yes,Colombia,32,No,No,Coffee,32,111,Latin America & the Caribbean,2015
+116,32,Yes,Colombia,32,No,No,Emeralds,45,112,Latin America & the Caribbean,2015
+117,34,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tantalum ore (coltan),33,121,Sub-Saharan Africa,2015
+118,34,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tungsten ore (wolframite),138,126,Sub-Saharan Africa,2015
+119,34,Yes,"Congo, Democratic Republic of the",34,No,No,Copper,34,122,Sub-Saharan Africa,2015
+120,34,Yes,"Congo, Democratic Republic of the",34,No,No,Diamonds,40,123,Sub-Saharan Africa,2015
+121,34,Yes,"Congo, Democratic Republic of the",34,No,No,Cobalt ore (heterogenite),69,124,Sub-Saharan Africa,2015
+122,34,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tin ore (cassiterite),19,120,Sub-Saharan Africa,2015
+123,34,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Gold,62,125,Sub-Saharan Africa,2015
+124,37,Yes,Costa Rica,37,No,No,Coffee,32,117,Latin America & the Caribbean,2015
+125,37,Yes,Costa Rica,37,No,No,Cattle,20,116,Latin America & the Caribbean,2015
+126,41,Yes,Dominican Republic,41,No,No,Tomatoes,133,131,Latin America & the Caribbean,2015
+127,41,Yes,Dominican Republic,41,No,No,Baked Goods,3,127,Latin America & the Caribbean,2015
+128,41,Yes,Dominican Republic,41,No,No,Coffee,32,128,Latin America & the Caribbean,2015
+129,41,Yes,Dominican Republic,41,No,No,Rice,98,129,Latin America & the Caribbean,2015
+130,41,Yes,Dominican Republic,41,No,Yes,Sugarcane,119,130,Latin America & the Caribbean,2015
+131,42,Yes,Ecuador,42,No,No,Bananas,5,132,Latin America & the Caribbean,2015
+132,42,Yes,Ecuador,42,No,No,Bricks,13,133,Latin America & the Caribbean,2015
+133,42,Yes,Ecuador,42,No,No,Flowers,49,134,Latin America & the Caribbean,2015
+134,42,Yes,Ecuador,42,No,No,Gold,62,135,Latin America & the Caribbean,2015
+135,43,Yes,Egypt,43,No,No,Cotton,36,136,Middle East & North Africa,2015
+136,43,Yes,Egypt,43,No,No,Stones (limestone),115,137,Middle East & North Africa,2015
+137,44,Yes,El Salvador,44,No,No,Coffee,32,138,Latin America & the Caribbean,2015
+138,44,Yes,El Salvador,44,No,No,Fireworks,47,139,Latin America & the Caribbean,2015
+139,44,Yes,El Salvador,44,No,No,Shellfish,105,140,Latin America & the Caribbean,2015
+140,44,Yes,El Salvador,44,No,No,Sugarcane,119,141,Latin America & the Caribbean,2015
+141,46,Yes,Ethiopia,46,No,No,Gold,62,143,Sub-Saharan Africa,2015
+142,46,Yes,Ethiopia,46,Yes,Yes,Textiles (hand-woven),126,144,Sub-Saharan Africa,2015
+143,46,Yes,Ethiopia,46,No,No,Cattle,20,142,Sub-Saharan Africa,2015
+144,52,Yes,Ghana,52,Yes,Yes,Tilapia (fish),129,148,Sub-Saharan Africa,2015
+145,52,Yes,Ghana,52,No,No,Cocoa,30,145,Sub-Saharan Africa,2015
+146,52,Yes,Ghana,52,Yes,Yes,Fish,48,146,Sub-Saharan Africa,2015
+147,52,Yes,Ghana,52,No,No,Gold,62,147,Sub-Saharan Africa,2015
+148,54,Yes,Guatemala,54,No,No,Gravel (crushed stones),66,153,Latin America & the Caribbean,2015
+149,54,Yes,Guatemala,54,No,No,Broccoli,15,149,Latin America & the Caribbean,2015
+150,54,Yes,Guatemala,54,No,No,Sugarcane,119,154,Latin America & the Caribbean,2015
+151,54,Yes,Guatemala,54,No,No,Coffee,32,150,Latin America & the Caribbean,2015
+152,54,Yes,Guatemala,54,No,No,Corn,35,151,Latin America & the Caribbean,2015
+153,54,Yes,Guatemala,54,No,No,Fireworks,47,152,Latin America & the Caribbean,2015
+154,56,Yes,Guinea,56,No,No,Diamonds,40,158,Sub-Saharan Africa,2015
+155,56,Yes,Guinea,56,No,No,Gold,62,159,Sub-Saharan Africa,2015
+156,56,Yes,Guinea,56,No,No,Cashews,17,155,Sub-Saharan Africa,2015
+157,56,Yes,Guinea,56,No,No,Cocoa,30,156,Sub-Saharan Africa,2015
+158,56,Yes,Guinea,56,No,No,Coffee,32,157,Sub-Saharan Africa,2015
+159,60,Yes,Honduras,60,No,No,Coffee,32,160,Latin America & the Caribbean,2015
+160,60,Yes,Honduras,60,No,No,Lobsters,76,161,Latin America & the Caribbean,2015
+161,60,Yes,Honduras,60,No,No,Melons,81,162,Latin America & the Caribbean,2015
+162,61,Yes,India,61,No,No,Sugarcane,119,184,Asia & the Pacific,2015
+163,61,Yes,India,61,No,No,Incense (agarbatti),71,175,Asia & the Pacific,2015
+164,61,Yes,India,61,No,Yes,Carpets,16,166,Asia & the Pacific,2015
+165,61,Yes,India,61,No,No,Silk Fabric,107,180,Asia & the Pacific,2015
+166,61,Yes,India,61,No,No,Footwear,52,171,Asia & the Pacific,2015
+167,61,Yes,India,61,No,No,Thread/Yarn,128,185,Asia & the Pacific,2015
+168,61,Yes,India,61,No,No,Leather Goods/Accessories,75,176,Asia & the Pacific,2015
+169,61,Yes,India,61,No,No,Cotton,36,167,Asia & the Pacific,2015
+170,61,Yes,India,61,No,No,Silk Thread,108,181,Asia & the Pacific,2015
+171,61,Yes,India,61,Yes,Yes,Garments,57,172,Asia & the Pacific,2015
+172,61,Yes,India,61,No,No,Bidis (hand-rolled cigarettes),9,163,Asia & the Pacific,2015
+173,61,Yes,India,61,No,No,Locks,77,177,Asia & the Pacific,2015
+174,61,Yes,India,61,Yes,Yes,Cottonseed (hybrid),37,168,Asia & the Pacific,2015
+175,61,Yes,India,61,No,No,Soccer Balls,113,182,Asia & the Pacific,2015
+176,61,Yes,India,61,No,No,Gems,58,173,Asia & the Pacific,2015
+177,61,Yes,India,61,No,No,Brassware,11,164,Asia & the Pacific,2015
+178,61,Yes,India,61,No,No,Matches,79,178,Asia & the Pacific,2015
+179,61,Yes,India,61,Yes,Yes,Embellished Textiles,44,169,Asia & the Pacific,2015
+180,61,Yes,India,61,Yes,Yes,Stones,114,183,Asia & the Pacific,2015
+181,61,Yes,India,61,No,No,Glass Bangles,60,174,Asia & the Pacific,2015
+182,61,Yes,India,61,Yes,Yes,Bricks,13,165,Asia & the Pacific,2015
+183,61,Yes,India,61,Yes,Yes,Rice,98,179,Asia & the Pacific,2015
+184,61,Yes,India,61,No,No,Fireworks,47,170,Asia & the Pacific,2015
+185,62,Yes,Indonesia,62,No,No,Footwear (sandals),53,187,Asia & the Pacific,2015
+186,62,Yes,Indonesia,62,No,No,Tobacco,132,192,Asia & the Pacific,2015
+187,62,Yes,Indonesia,62,No,No,Gold,62,188,Asia & the Pacific,2015
+188,62,Yes,Indonesia,62,No,No,Oil (Palm),85,189,Asia & the Pacific,2015
+189,62,Yes,Indonesia,62,No,No,Rubber,99,190,Asia & the Pacific,2015
+190,62,Yes,Indonesia,62,No,Yes,Fish,48,186,Asia & the Pacific,2015
+191,62,Yes,Indonesia,62,No,No,Tin,131,191,Asia & the Pacific,2015
+192,63,Yes,Iran,63,No,No,Carpets,16,194,Middle East & North Africa,2015
+193,63,Yes,Iran,63,No,No,Bricks,13,193,Middle East & North Africa,2015
+194,67,Yes,Kazakhstan,67,No,Yes,Cotton,36,195,Asia & the Pacific,2015
+195,68,Yes,Kenya,68,No,No,Tobacco,132,204,Sub-Saharan Africa,2015
+196,68,Yes,Kenya,68,No,No,Sand,102,200,Sub-Saharan Africa,2015
+197,68,Yes,Kenya,68,No,No,Coffee,32,196,Sub-Saharan Africa,2015
+198,68,Yes,Kenya,68,No,No,Sisal,111,201,Sub-Saharan Africa,2015
+199,68,Yes,Kenya,68,No,No,Fish,48,197,Sub-Saharan Africa,2015
+200,68,Yes,Kenya,68,No,No,Sugarcane,119,202,Sub-Saharan Africa,2015
+201,68,Yes,Kenya,68,No,No,Miraa (stimulant plant),82,198,Sub-Saharan Africa,2015
+202,68,Yes,Kenya,68,No,No,Tea,123,203,Sub-Saharan Africa,2015
+203,68,Yes,Kenya,68,No,No,Rice,98,199,Sub-Saharan Africa,2015
+204,71,Yes,Kyrgyz Republic,71,No,No,Cotton,36,205,Asia & the Pacific,2015
+205,71,Yes,Kyrgyz Republic,71,No,No,Tobacco,132,206,Asia & the Pacific,2015
+206,72,Yes,Lebanon,72,No,No,Potatoes,93,207,Middle East & North Africa,2015
+207,72,Yes,Lebanon,72,No,No,Tobacco,132,208,Middle East & North Africa,2015
+208,73,Yes,Lesotho,73,No,No,Cattle,20,209,Sub-Saharan Africa,2015
+209,74,Yes,Liberia,74,No,No,Diamonds,40,210,Sub-Saharan Africa,2015
+210,74,Yes,Liberia,74,No,No,Rubber,99,211,Sub-Saharan Africa,2015
+211,76,Yes,Madagascar,76,No,No,Sapphires,103,212,Sub-Saharan Africa,2015
+212,76,Yes,Madagascar,76,No,No,Stones,114,213,Sub-Saharan Africa,2015
+213,76,Yes,Madagascar,76,No,No,Vanilla,136,214,Sub-Saharan Africa,2015
+214,77,Yes,Malawi,77,No,No,Tea,123,215,Sub-Saharan Africa,2015
+215,77,Yes,Malawi,77,Yes,Yes,Tobacco,132,216,Sub-Saharan Africa,2015
+216,78,No,Malaysia,78,No,Yes,Electronics,43,217,Asia & the Pacific,2015
+217,78,No,Malaysia,78,No,Yes,Garments,57,218,Asia & the Pacific,2015
+218,78,Yes,Malaysia,78,No,Yes,Oil (Palm),85,219,Asia & the Pacific,2015
+219,80,Yes,Mali,80,No,No,Cotton,36,220,Sub-Saharan Africa,2015
+220,80,Yes,Mali,80,No,No,Gold,62,221,Sub-Saharan Africa,2015
+221,80,Yes,Mali,80,Yes,Yes,Rice,98,222,Sub-Saharan Africa,2015
+222,81,Yes,Mauritania,81,No,No,Cattle,20,223,Sub-Saharan Africa,2015
+223,81,Yes,Mauritania,81,No,No,Goats,61,224,Sub-Saharan Africa,2015
+224,83,Yes,Mexico,83,No,No,Sugarcane,119,233,Latin America & the Caribbean,2015
+225,83,Yes,Mexico,83,No,No,Eggplants,42,229,Latin America & the Caribbean,2015
+226,83,Yes,Mexico,83,No,No,Tobacco,132,234,Latin America & the Caribbean,2015
+227,83,Yes,Mexico,83,No,No,Beans (green beans),6,225,Latin America & the Caribbean,2015
+228,83,Yes,Mexico,83,No,No,Melons,81,230,Latin America & the Caribbean,2015
+229,83,Yes,Mexico,83,No,No,Tomatoes,133,235,Latin America & the Caribbean,2015
+230,83,Yes,Mexico,83,No,No,Chile Peppers,24,226,Latin America & the Caribbean,2015
+231,83,Yes,Mexico,83,No,No,Onions,87,231,Latin America & the Caribbean,2015
+232,83,Yes,Mexico,83,No,No,Coffee,32,227,Latin America & the Caribbean,2015
+233,83,Yes,Mexico,83,No,No,Pornography,94,232,Latin America & the Caribbean,2015
+234,83,Yes,Mexico,83,No,No,Cucumbers,38,228,Latin America & the Caribbean,2015
+235,85,Yes,Mongolia,85,No,No,Gold,62,238,Asia & the Pacific,2015
+236,85,Yes,Mongolia,85,No,No,Coal,28,236,Asia & the Pacific,2015
+237,85,Yes,Mongolia,85,No,No,Fluorspar (mineral),51,237,Asia & the Pacific,2015
+238,89,Yes,Mozambique,89,No,No,Tobacco,132,239,Sub-Saharan Africa,2015
+239,90,Yes,Namibia,90,No,No,Cattle,20,240,Sub-Saharan Africa,2015
+240,91,Yes,Nepal,91,Yes,Yes,Bricks,13,241,Asia & the Pacific,2015
+241,91,Yes,Nepal,91,Yes,Yes,Carpets,16,242,Asia & the Pacific,2015
+242,91,Yes,Nepal,91,Yes,Yes,Embellished Textiles,44,243,Asia & the Pacific,2015
+243,91,Yes,Nepal,91,Yes,Yes,Stones,114,244,Asia & the Pacific,2015
+244,92,Yes,Nicaragua,92,No,No,Shellfish,105,249,Latin America & the Caribbean,2015
+245,92,Yes,Nicaragua,92,No,No,Bananas,5,245,Latin America & the Caribbean,2015
+246,92,Yes,Nicaragua,92,No,No,Stones (pumice),116,250,Latin America & the Caribbean,2015
+247,92,Yes,Nicaragua,92,No,No,Coffee,32,246,Latin America & the Caribbean,2015
+248,92,Yes,Nicaragua,92,No,No,Tobacco,132,251,Latin America & the Caribbean,2015
+249,92,Yes,Nicaragua,92,No,No,Gold,62,247,Latin America & the Caribbean,2015
+250,92,Yes,Nicaragua,92,No,No,Gravel (crushed stones),66,248,Latin America & the Caribbean,2015
+251,93,Yes,Niger,93,No,No,Gold,62,253,Sub-Saharan Africa,2015
+252,93,Yes,Niger,93,No,No,Gypsum (mineral),67,254,Sub-Saharan Africa,2015
+253,93,Yes,Niger,93,No,No,Salt,101,255,Sub-Saharan Africa,2015
+254,93,Yes,Niger,93,No,No,Trona (mineral),135,256,Sub-Saharan Africa,2015
+255,93,No,Niger,93,No,Yes,Cattle,20,252,Sub-Saharan Africa,2015
+256,94,Yes,Nigeria,94,No,No,Manioc/Cassava,78,261,Sub-Saharan Africa,2015
+257,94,Yes,Nigeria,94,Yes,Yes,Cocoa,30,257,Sub-Saharan Africa,2015
+258,94,Yes,Nigeria,94,No,No,Sand,102,262,Sub-Saharan Africa,2015
+259,94,Yes,Nigeria,94,No,No,Gold,62,258,Sub-Saharan Africa,2015
+260,94,Yes,Nigeria,94,Yes,Yes,Granite,63,259,Sub-Saharan Africa,2015
+261,94,Yes,Nigeria,94,Yes,Yes,Gravel (crushed stones),66,260,Sub-Saharan Africa,2015
+262,97,No,North Korea,97,No,Yes,Coal,28,265,Asia & the Pacific,2015
+263,97,No,North Korea,97,No,Yes,Gold,62,266,Asia & the Pacific,2015
+264,97,No,North Korea,97,No,Yes,Iron,72,267,Asia & the Pacific,2015
+265,97,No,North Korea,97,No,Yes,Bricks,13,263,Asia & the Pacific,2015
+266,97,No,North Korea,97,No,Yes,Textiles,125,268,Asia & the Pacific,2015
+267,97,No,North Korea,97,No,Yes,Cement,21,264,Asia & the Pacific,2015
+268,97,No,North Korea,97,No,Yes,Timber,130,269,Asia & the Pacific,2015
+269,99,Yes,Pakistan,99,Yes,Yes,Bricks,13,270,Asia & the Pacific,2015
+270,99,Yes,Pakistan,99,No,No,Leather,74,275,Asia & the Pacific,2015
+271,99,Yes,Pakistan,99,Yes,Yes,Carpets,16,271,Asia & the Pacific,2015
+272,99,No,Pakistan,99,No,Yes,Sugarcane,119,276,Asia & the Pacific,2015
+273,99,Yes,Pakistan,99,Yes,Yes,Coal,28,272,Asia & the Pacific,2015
+274,99,Yes,Pakistan,99,No,No,Surgical Instruments,121,277,Asia & the Pacific,2015
+275,99,No,Pakistan,99,No,Yes,Cotton,36,273,Asia & the Pacific,2015
+276,99,No,Pakistan,99,No,Yes,Wheat,137,278,Asia & the Pacific,2015
+277,99,Yes,Pakistan,99,No,No,Glass Bangles,60,274,Asia & the Pacific,2015
+278,100,Yes,Panama,100,No,No,Coffee,32,279,Latin America & the Caribbean,2015
+279,100,Yes,Panama,100,No,No,Melons,81,280,Latin America & the Caribbean,2015
+280,100,Yes,Panama,100,No,No,Sugarcane,119,281,Latin America & the Caribbean,2015
+281,102,Yes,Paraguay,102,No,No,Pornography,94,285,Latin America & the Caribbean,2015
+282,102,Yes,Paraguay,102,No,No,Stones (limestone),115,286,Latin America & the Caribbean,2015
+283,102,Yes,Paraguay,102,No,No,Bricks,13,282,Latin America & the Caribbean,2015
+284,102,Yes,Paraguay,102,No,No,Sugarcane,119,287,Latin America & the Caribbean,2015
+285,102,No,Paraguay,102,No,Yes,Cattle,20,283,Latin America & the Caribbean,2015
+286,102,Yes,Paraguay,102,No,No,Cotton,36,284,Latin America & the Caribbean,2015
+287,103,Yes,Peru,103,No,No,Fish,48,292,Latin America & the Caribbean,2015
+288,103,No,Peru,103,No,Yes,Brazil Nuts/Chestnuts,12,288,Latin America & the Caribbean,2015
+289,103,Yes,Peru,103,No,Yes,Gold,62,293,Latin America & the Caribbean,2015
+290,103,Yes,Peru,103,No,No,Bricks,13,289,Latin America & the Caribbean,2015
+291,103,No,Peru,103,No,Yes,Timber,130,294,Latin America & the Caribbean,2015
+292,103,Yes,Peru,103,No,No,Coca (stimulant plant),29,290,Latin America & the Caribbean,2015
+293,103,Yes,Peru,103,No,No,Fireworks,47,291,Latin America & the Caribbean,2015
+294,104,Yes,Philippines,104,No,No,Gold,62,300,Asia & the Pacific,2015
+295,104,Yes,Philippines,104,No,No,Rubber,99,305,Asia & the Pacific,2015
+296,104,Yes,Philippines,104,No,No,Coconuts,31,296,Asia & the Pacific,2015
+297,104,Yes,Philippines,104,No,No,Hogs,70,301,Asia & the Pacific,2015
+298,104,Yes,Philippines,104,No,No,Sugarcane,119,306,Asia & the Pacific,2015
+299,104,Yes,Philippines,104,No,No,Corn,35,297,Asia & the Pacific,2015
+300,104,Yes,Philippines,104,No,No,Pornography,94,302,Asia & the Pacific,2015
+301,104,Yes,Philippines,104,No,No,Tobacco,132,307,Asia & the Pacific,2015
+302,104,Yes,Philippines,104,No,No,Fashion Accessories,46,298,Asia & the Pacific,2015
+303,104,Yes,Philippines,104,No,No,Pyrotechnics,97,303,Asia & the Pacific,2015
+304,104,Yes,Philippines,104,No,No,Fish,48,299,Asia & the Pacific,2015
+305,104,Yes,Philippines,104,No,No,Rice,98,304,Asia & the Pacific,2015
+306,104,Yes,Philippines,104,No,No,Bananas,5,295,Asia & the Pacific,2015
+307,106,Yes,Russia,106,No,Yes,Pornography,94,308,Europe & Eurasia,2015
+308,107,Yes,Rwanda,107,No,No,Tea,123,309,Sub-Saharan Africa,2015
+309,113,Yes,Senegal,113,No,No,Gold,62,310,Sub-Saharan Africa,2015
+310,116,Yes,Sierra Leone,116,No,No,Granite,63,314,Sub-Saharan Africa,2015
+311,116,Yes,Sierra Leone,116,No,No,Oil (Palm),85,315,Sub-Saharan Africa,2015
+312,116,Yes,Sierra Leone,116,No,No,Cocoa,30,311,Sub-Saharan Africa,2015
+313,116,Yes,Sierra Leone,116,No,No,Coffee,32,312,Sub-Saharan Africa,2015
+314,116,Yes,Sierra Leone,116,Yes,Yes,Diamonds,40,313,Sub-Saharan Africa,2015
+315,120,Yes,South Sudan,120,Yes,Yes,Cattle,20,316,Sub-Saharan Africa,2015
+316,121,Yes,Sudan,121,No,No,Gold,62,317,Sub-Saharan Africa,2015
+317,123,Yes,Suriname,123,No,No,Gold,62,318,Latin America & the Caribbean,2015
+318,125,Yes,Tajikistan,125,Yes,Yes,Cotton,36,319,Asia & the Pacific,2015
+319,126,Yes,Tanzania,126,No,No,Tanzanite (gems),122,325,Sub-Saharan Africa,2015
+320,126,Yes,Tanzania,126,No,No,Coffee,32,321,Sub-Saharan Africa,2015
+321,126,Yes,Tanzania,126,No,No,Tea,123,326,Sub-Saharan Africa,2015
+322,126,Yes,Tanzania,126,No,No,Gold,62,322,Sub-Saharan Africa,2015
+323,126,Yes,Tanzania,126,No,No,Tobacco,132,327,Sub-Saharan Africa,2015
+324,126,Yes,Tanzania,126,No,No,Nile Perch (fish),84,323,Sub-Saharan Africa,2015
+325,126,Yes,Tanzania,126,No,No,Sisal,111,324,Sub-Saharan Africa,2015
+326,126,Yes,Tanzania,126,No,No,Cloves,27,320,Sub-Saharan Africa,2015
+327,127,Yes,Thailand,127,No,No,Sugarcane,119,332,Asia & the Pacific,2015
+328,127,No,Thailand,127,No,Yes,Fish,48,328,Asia & the Pacific,2015
+329,127,Yes,Thailand,127,Yes,Yes,Garments,57,329,Asia & the Pacific,2015
+330,127,Yes,Thailand,127,No,No,Pornography,94,330,Asia & the Pacific,2015
+331,127,Yes,Thailand,127,Yes,Yes,Shrimp,106,331,Asia & the Pacific,2015
+332,133,Yes,Turkey,133,No,No,Citrus Fruits,26,333,Europe & Eurasia,2015
+333,133,Yes,Turkey,133,No,No,Peanuts,89,338,Europe & Eurasia,2015
+334,133,Yes,Turkey,133,No,No,Cotton,36,334,Europe & Eurasia,2015
+335,133,Yes,Turkey,133,No,No,Pulses (legumes),96,339,Europe & Eurasia,2015
+336,133,Yes,Turkey,133,No,No,Cumin,39,335,Europe & Eurasia,2015
+337,133,Yes,Turkey,133,No,No,Sugar Beets,118,340,Europe & Eurasia,2015
+338,133,Yes,Turkey,133,No,No,Furniture,54,336,Europe & Eurasia,2015
+339,133,Yes,Turkey,133,No,No,Hazelnuts,68,337,Europe & Eurasia,2015
+340,134,Yes,Turkmenistan,134,No,Yes,Cotton,36,341,Asia & the Pacific,2015
+341,136,Yes,Uganda,136,No,No,Tobacco,132,352,Sub-Saharan Africa,2015
+342,136,Yes,Uganda,136,No,No,Cattle,20,343,Sub-Saharan Africa,2015
+343,136,Yes,Uganda,136,No,No,Rice,98,348,Sub-Saharan Africa,2015
+344,136,Yes,Uganda,136,No,No,Vanilla,136,353,Sub-Saharan Africa,2015
+345,136,Yes,Uganda,136,No,No,Charcoal,23,344,Sub-Saharan Africa,2015
+346,136,Yes,Uganda,136,No,No,Stones,114,349,Sub-Saharan Africa,2015
+347,136,Yes,Uganda,136,No,No,Coffee,32,345,Sub-Saharan Africa,2015
+348,136,Yes,Uganda,136,No,No,Sugarcane,119,350,Sub-Saharan Africa,2015
+349,136,Yes,Uganda,136,No,No,Fish,48,346,Sub-Saharan Africa,2015
+350,136,Yes,Uganda,136,No,No,Tea,123,351,Sub-Saharan Africa,2015
+351,136,Yes,Uganda,136,No,No,Bricks,13,342,Sub-Saharan Africa,2015
+352,136,Yes,Uganda,136,No,No,Gold,62,347,Sub-Saharan Africa,2015
+353,137,Yes,Ukraine,137,No,No,Coal,28,354,Europe & Eurasia,2015
+354,137,Yes,Ukraine,137,No,No,Pornography,94,355,Europe & Eurasia,2015
+355,139,Yes,Uzbekistan,139,Yes,Yes,Cotton,36,356,Asia & the Pacific,2015
+356,139,No,Uzbekistan,139,No,Yes,Silk Cocoons,109,357,Asia & the Pacific,2015
+357,142,Yes,Vietnam,142,No,No,Timber,130,372,Asia & the Pacific,2015
+358,142,Yes,Vietnam,142,No,No,Furniture,54,363,Asia & the Pacific,2015
+359,142,Yes,Vietnam,142,No,No,Rubber,99,368,Asia & the Pacific,2015
+360,142,Yes,Vietnam,142,No,No,Cashews,17,359,Asia & the Pacific,2015
+361,142,Yes,Vietnam,142,No,No,Tobacco,132,373,Asia & the Pacific,2015
+362,142,Yes,Vietnam,142,Yes,Yes,Garments,57,364,Asia & the Pacific,2015
+363,142,Yes,Vietnam,142,No,No,Sugarcane,119,369,Asia & the Pacific,2015
+364,142,Yes,Vietnam,142,No,No,Coffee,32,360,Asia & the Pacific,2015
+365,142,Yes,Vietnam,142,No,No,Leather,74,365,Asia & the Pacific,2015
+366,142,Yes,Vietnam,142,No,No,Fish,48,361,Asia & the Pacific,2015
+367,142,Yes,Vietnam,142,No,No,Tea,123,370,Asia & the Pacific,2015
+368,142,Yes,Vietnam,142,No,No,Pepper,90,366,Asia & the Pacific,2015
+369,142,Yes,Vietnam,142,No,No,Textiles,125,371,Asia & the Pacific,2015
+370,142,Yes,Vietnam,142,No,No,Footwear,52,362,Asia & the Pacific,2015
+371,142,Yes,Vietnam,142,No,No,Rice,98,367,Asia & the Pacific,2015
+372,142,Yes,Vietnam,142,No,No,Bricks,13,358,Asia & the Pacific,2015
+373,146,Yes,Yemen,146,No,No,Fish,48,374,Middle East & North Africa,2015
+374,147,Yes,Zambia,147,No,No,Gems,58,377,Sub-Saharan Africa,2015
+375,147,Yes,Zambia,147,No,No,Stones,114,378,Sub-Saharan Africa,2015
+376,147,Yes,Zambia,147,No,No,Tobacco,132,379,Sub-Saharan Africa,2015
+377,147,Yes,Zambia,147,No,No,Cattle,20,375,Sub-Saharan Africa,2015
+378,147,Yes,Zambia,147,No,No,Cotton,36,376,Sub-Saharan Africa,2015
+379,149,Yes,Afghanistan,1,No,No,Coal,28,382,Asia & the Pacific,2014
+380,149,Yes,Afghanistan,1,No,No,Flowers (poppies),50,383,Asia & the Pacific,2014
+381,149,Yes,Afghanistan,1,Yes,Yes,Bricks,13,380,Asia & the Pacific,2014
+382,149,Yes,Afghanistan,1,No,No,Carpets,16,381,Asia & the Pacific,2014
+383,152,Yes,Angola,4,No,Yes,Diamonds,40,384,Sub-Saharan Africa,2014
+384,154,Yes,Argentina,6,No,No,Olives,86,391,Latin America & the Caribbean,2014
+385,154,Yes,Argentina,6,No,No,Cotton,36,387,Latin America & the Caribbean,2014
+386,154,Yes,Argentina,6,No,No,Strawberries,117,392,Latin America & the Caribbean,2014
+387,154,Yes,Argentina,6,No,No,Garlic,56,388,Latin America & the Caribbean,2014
+388,154,Yes,Argentina,6,No,No,Tobacco,132,393,Latin America & the Caribbean,2014
+389,154,Yes,Argentina,6,Yes,Yes,Garments,57,389,Latin America & the Caribbean,2014
+390,154,Yes,Argentina,6,No,No,Tomatoes,133,394,Latin America & the Caribbean,2014
+391,154,Yes,Argentina,6,No,No,Blueberries,10,385,Latin America & the Caribbean,2014
+392,154,Yes,Argentina,6,No,No,Grapes,65,390,Latin America & the Caribbean,2014
+393,154,Yes,Argentina,6,No,No,Yerba Mate (stimulant plant),139,395,Latin America & the Caribbean,2014
+394,154,Yes,Argentina,6,No,No,Bricks,13,386,Latin America & the Caribbean,2014
+395,156,Yes,Azerbaijan,8,No,No,Cotton,36,396,Europe & Eurasia,2014
+396,158,Yes,Bangladesh,10,No,No,Matches,79,405,Asia & the Pacific,2014
+397,158,Yes,Bangladesh,10,No,No,Textiles,125,410,Asia & the Pacific,2014
+398,158,Yes,Bangladesh,10,No,No,Furniture (steel),55,401,Asia & the Pacific,2014
+399,158,Yes,Bangladesh,10,No,No,Poultry,95,406,Asia & the Pacific,2014
+400,158,Yes,Bangladesh,10,No,No,Salt,101,407,Asia & the Pacific,2014
+401,158,Yes,Bangladesh,10,No,No,Bricks,13,398,Asia & the Pacific,2014
+402,158,Yes,Bangladesh,10,No,No,Glass,59,403,Asia & the Pacific,2014
+403,158,Yes,Bangladesh,10,No,No,Shrimp,106,408,Asia & the Pacific,2014
+404,158,Yes,Bangladesh,10,Yes,Yes,Dried Fish,41,399,Asia & the Pacific,2014
+405,158,Yes,Bangladesh,10,No,No,Leather,74,404,Asia & the Pacific,2014
+406,158,Yes,Bangladesh,10,No,No,Soap,112,409,Asia & the Pacific,2014
+407,158,Yes,Bangladesh,10,No,No,Footwear,52,400,Asia & the Pacific,2014
+408,158,Yes,Bangladesh,10,No,No,Matches,79,405,Asia & the Pacific,2014
+409,158,Yes,Bangladesh,10,No,No,Textiles,125,410,Asia & the Pacific,2014
+410,158,Yes,Bangladesh,10,No,No,Furniture (steel),55,401,Asia & the Pacific,2014
+411,159,Yes,Belize,11,No,No,Bananas,5,412,Latin America & the Caribbean,2014
+412,159,Yes,Belize,11,No,No,Citrus Fruits,26,413,Latin America & the Caribbean,2014
+413,159,Yes,Belize,11,No,No,Sugarcane,119,414,Latin America & the Caribbean,2014
+414,160,Yes,Benin,12,Yes,Yes,Cotton,36,415,Sub-Saharan Africa,2014
+415,160,Yes,Benin,12,No,No,Granite (crushed),64,416,Sub-Saharan Africa,2014
+416,162,No,Bolivia,14,No,Yes,Cattle,20,419,Latin America & the Caribbean,2014
+417,162,Yes,Bolivia,14,Yes,Yes,Sugarcane,119,424,Latin America & the Caribbean,2014
+418,162,Yes,Bolivia,14,No,Yes,Corn,35,420,Latin America & the Caribbean,2014
+419,162,Yes,Bolivia,14,No,No,Tin,131,425,Latin America & the Caribbean,2014
+420,162,Yes,Bolivia,14,No,No,Gold,62,421,Latin America & the Caribbean,2014
+421,162,Yes,Bolivia,14,No,No,Zinc,140,426,Latin America & the Caribbean,2014
+422,162,Yes,Bolivia,14,Yes,Yes,Brazil Nuts/Chestnuts,12,417,Latin America & the Caribbean,2014
+423,162,No,Bolivia,14,No,Yes,Peanuts,89,422,Latin America & the Caribbean,2014
+424,162,Yes,Bolivia,14,No,No,Bricks,13,418,Latin America & the Caribbean,2014
+425,162,Yes,Bolivia,14,No,No,Silver,110,423,Latin America & the Caribbean,2014
+426,165,Yes,Brazil,17,No,Yes,Charcoal,23,432,Latin America & the Caribbean,2014
+427,165,No,Brazil,17,No,Yes,Timber,130,441,Latin America & the Caribbean,2014
+428,165,Yes,Brazil,17,No,No,Bricks,13,428,Latin America & the Caribbean,2014
+429,165,Yes,Brazil,17,No,No,Pineapples,92,437,Latin America & the Caribbean,2014
+430,165,Yes,Brazil,17,No,No,Tobacco,132,442,Latin America & the Caribbean,2014
+431,165,Yes,Brazil,17,No,No,Cotton,36,433,Latin America & the Caribbean,2014
+432,165,Yes,Brazil,17,No,No,Cashews,17,429,Latin America & the Caribbean,2014
+433,165,Yes,Brazil,17,No,No,Rice,98,438,Latin America & the Caribbean,2014
+434,165,Yes,Brazil,17,No,No,Footwear,52,434,Latin America & the Caribbean,2014
+435,165,Yes,Brazil,17,No,Yes,Cattle,20,430,Latin America & the Caribbean,2014
+436,165,Yes,Brazil,17,No,No,Sisal,111,439,Latin America & the Caribbean,2014
+437,165,No,Brazil,17,No,Yes,Garments,57,435,Latin America & the Caribbean,2014
+438,165,Yes,Brazil,17,No,No,Ceramics,22,431,Latin America & the Caribbean,2014
+439,165,No,Brazil,17,No,Yes,Sugarcane,119,440,Latin America & the Caribbean,2014
+440,165,Yes,Brazil,17,No,No,Beef,8,427,Latin America & the Caribbean,2014
+441,165,Yes,Brazil,17,No,No,Manioc/Cassava,78,436,Latin America & the Caribbean,2014
+442,168,Yes,Burkina Faso,20,Yes,Yes,Cotton,36,443,Sub-Saharan Africa,2014
+443,168,Yes,Burkina Faso,20,Yes,Yes,Gold,62,444,Sub-Saharan Africa,2014
+444,169,Yes,Burma,21,Yes,Yes,Sugarcane,119,456,Asia & the Pacific,2014
+445,169,Yes,Burma,21,Yes,Yes,Bricks,13,447,Asia & the Pacific,2014
+446,169,Yes,Burma,21,Yes,Yes,Rubber,99,452,Asia & the Pacific,2014
+447,169,No,Burma,21,No,Yes,Sunflowers,120,457,Asia & the Pacific,2014
+448,169,Yes,Burma,21,No,Yes,Jade,73,448,Asia & the Pacific,2014
+449,169,Yes,Burma,21,No,Yes,Rubies,100,453,Asia & the Pacific,2014
+450,169,Yes,Burma,21,Yes,Yes,Teak,124,458,Asia & the Pacific,2014
+451,169,No,Burma,21,No,Yes,Palm Thatch,88,449,Asia & the Pacific,2014
+452,169,No,Burma,21,No,Yes,Sesame,104,454,Asia & the Pacific,2014
+453,169,Yes,Burma,21,Yes,Yes,Bamboo,4,445,Asia & the Pacific,2014
+454,169,No,Burma,21,No,Yes,Physic Nuts/Castor Beans,91,450,Asia & the Pacific,2014
+455,169,No,Burma,21,No,Yes,Shrimp,106,455,Asia & the Pacific,2014
+456,169,Yes,Burma,21,Yes,Yes,"Beans (green, soy, yellow)",7,446,Asia & the Pacific,2014
+457,169,Yes,Burma,21,Yes,Yes,Rice,98,451,Asia & the Pacific,2014
+458,186,Yes,C,38,Yes,Yes,Cocoa,30,500,Sub-Saharan Africa,2014
+459,186,Yes,C,38,Yes,Yes,Coffee,32,501,Sub-Saharan Africa,2014
+460,172,Yes,Cambodia,24,No,No,Bricks,13,460,Asia & the Pacific,2014
+461,172,Yes,Cambodia,24,No,No,Salt,101,465,Asia & the Pacific,2014
+462,172,Yes,Cambodia,24,No,No,Manioc/Cassava,78,461,Asia & the Pacific,2014
+463,172,Yes,Cambodia,24,No,No,Shrimp,106,466,Asia & the Pacific,2014
+464,172,Yes,Cambodia,24,No,No,Fish,48,462,Asia & the Pacific,2014
+465,172,Yes,Cambodia,24,No,No,Textiles,125,467,Asia & the Pacific,2014
+466,172,Yes,Cambodia,24,No,No,Meat,80,463,Asia & the Pacific,2014
+467,172,Yes,Cambodia,24,No,No,Timber,130,468,Asia & the Pacific,2014
+468,172,Yes,Cambodia,24,No,No,Alcoholic Beverages,1,459,Asia & the Pacific,2014
+469,172,Yes,Cambodia,24,No,No,Rubber,99,464,Asia & the Pacific,2014
+470,172,Yes,Cambodia,24,No,No,Tobacco,132,469,Asia & the Pacific,2014
+471,173,Yes,Cameroon,25,No,No,Cocoa,30,470,Sub-Saharan Africa,2014
+472,174,Yes,Central African Republic,26,No,No,Diamonds,40,471,Sub-Saharan Africa,2014
+473,175,Yes,Chad,27,No,No,Cattle,20,472,Sub-Saharan Africa,2014
+474,177,Yes,China,29,No,No,Textiles,125,483,Asia & the Pacific,2014
+475,177,Yes,China,29,Yes,Yes,Bricks,13,474,Asia & the Pacific,2014
+476,177,Yes,China,29,No,Yes,Fireworks,47,479,Asia & the Pacific,2014
+477,177,Yes,China,29,Yes,Yes,Toys,134,484,Asia & the Pacific,2014
+478,177,No,China,29,No,Yes,Christmas Decorations,25,475,Asia & the Pacific,2014
+479,177,No,China,29,No,Yes,Footwear,52,480,Asia & the Pacific,2014
+480,177,No,China,29,No,Yes,Coal,28,476,Asia & the Pacific,2014
+481,177,No,China,29,No,Yes,Garments,57,481,Asia & the Pacific,2014
+482,177,Yes,China,29,Yes,Yes,Cotton,36,477,Asia & the Pacific,2014
+483,177,No,China,29,No,Yes,Nails,83,482,Asia & the Pacific,2014
+484,177,No,China,29,No,Yes,Artificial Flowers,2,473,Asia & the Pacific,2014
+485,177,Yes,China,29,Yes,Yes,Electronics,43,478,Asia & the Pacific,2014
+486,180,Yes,Colombia,32,No,No,Bricks (clay),14,485,Latin America & the Caribbean,2014
+487,180,Yes,Colombia,32,No,No,Gold,62,490,Latin America & the Caribbean,2014
+488,180,Yes,Colombia,32,No,No,Coal,28,486,Latin America & the Caribbean,2014
+489,180,Yes,Colombia,32,No,No,Pornography,94,491,Latin America & the Caribbean,2014
+490,180,Yes,Colombia,32,Yes,Yes,Coca (stimulant plant),29,487,Latin America & the Caribbean,2014
+491,180,Yes,Colombia,32,No,No,Sugarcane,119,492,Latin America & the Caribbean,2014
+492,180,Yes,Colombia,32,No,No,Coffee,32,488,Latin America & the Caribbean,2014
+493,180,Yes,Colombia,32,No,No,Emeralds,45,489,Latin America & the Caribbean,2014
+494,182,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tin ore (cassiterite),19,493,Sub-Saharan Africa,2014
+495,182,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Gold,62,498,Sub-Saharan Africa,2014
+496,182,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tantalum ore (coltan),33,494,Sub-Saharan Africa,2014
+497,182,Yes,"Congo, Democratic Republic of the",34,Yes,Yes,Tungsten ore (wolframite),138,499,Sub-Saharan Africa,2014
+498,182,Yes,"Congo, Democratic Republic of the",34,No,No,Copper,34,495,Sub-Saharan Africa,2014
+499,182,Yes,"Congo, Democratic Republic of the",34,No,No,Diamonds,40,496,Sub-Saharan Africa,2014
+500,182,Yes,"Congo, Democratic Republic of the",34,No,No,Cobalt ore (heterogenite),69,497,Sub-Saharan Africa,2014
+501,189,Yes,Dominican Republic,41,No,No,Coffee,32,503,Latin America & the Caribbean,2014
+502,189,Yes,Dominican Republic,41,No,No,Rice,98,504,Latin America & the Caribbean,2014
+503,189,Yes,Dominican Republic,41,No,Yes,Sugarcane,119,505,Latin America & the Caribbean,2014
+504,189,Yes,Dominican Republic,41,No,No,Tomatoes,133,506,Latin America & the Caribbean,2014
+505,189,Yes,Dominican Republic,41,No,No,Baked Goods,3,502,Latin America & the Caribbean,2014
+506,190,Yes,Ecuador,42,No,No,Bananas,5,507,Latin America & the Caribbean,2014
+507,190,Yes,Ecuador,42,No,No,Bricks,13,508,Latin America & the Caribbean,2014
+508,190,Yes,Ecuador,42,No,No,Flowers,49,509,Latin America & the Caribbean,2014
+509,190,Yes,Ecuador,42,No,No,Gold,62,510,Latin America & the Caribbean,2014
+510,191,Yes,Egypt,43,No,No,Cotton,36,511,Middle East & North Africa,2014
+511,191,Yes,Egypt,43,No,No,Stones (limestone),115,512,Middle East & North Africa,2014
+512,192,Yes,El Salvador,44,No,No,Fireworks,47,514,Latin America & the Caribbean,2014
+513,192,Yes,El Salvador,44,No,No,Shellfish,105,515,Latin America & the Caribbean,2014
+514,192,Yes,El Salvador,44,No,No,Sugarcane,119,516,Latin America & the Caribbean,2014
+515,192,Yes,El Salvador,44,No,No,Coffee,32,513,Latin America & the Caribbean,2014
+516,194,Yes,Ethiopia,46,No,No,Gold,62,518,Sub-Saharan Africa,2014
+517,194,Yes,Ethiopia,46,Yes,Yes,Textiles (hand-woven),126,519,Sub-Saharan Africa,2014
+518,194,Yes,Ethiopia,46,No,No,Cattle,20,517,Sub-Saharan Africa,2014
+519,200,Yes,Ghana,52,No,No,Cocoa,30,520,Sub-Saharan Africa,2014
+520,200,Yes,Ghana,52,Yes,Yes,Fish,48,521,Sub-Saharan Africa,2014
+521,200,Yes,Ghana,52,No,No,Gold,62,522,Sub-Saharan Africa,2014
+522,200,Yes,Ghana,52,Yes,Yes,Tilapia (fish),129,523,Sub-Saharan Africa,2014
+523,202,Yes,Guatemala,54,No,No,Corn,35,526,Latin America & the Caribbean,2014
+524,202,Yes,Guatemala,54,No,No,Fireworks,47,527,Latin America & the Caribbean,2014
+525,202,Yes,Guatemala,54,No,No,Gravel (crushed stones),66,528,Latin America & the Caribbean,2014
+526,202,Yes,Guatemala,54,No,No,Broccoli,15,524,Latin America & the Caribbean,2014
+527,202,Yes,Guatemala,54,No,No,Sugarcane,119,529,Latin America & the Caribbean,2014
+528,202,Yes,Guatemala,54,No,No,Coffee,32,525,Latin America & the Caribbean,2014
+529,203,Yes,Guinea,56,No,No,Cashews,17,530,Sub-Saharan Africa,2014
+530,203,Yes,Guinea,56,No,No,Cocoa,30,531,Sub-Saharan Africa,2014
+531,203,Yes,Guinea,56,No,No,Coffee,32,532,Sub-Saharan Africa,2014
+532,203,Yes,Guinea,56,No,No,Diamonds,40,533,Sub-Saharan Africa,2014
+533,203,Yes,Guinea,56,No,No,Gold,62,534,Sub-Saharan Africa,2014
+534,208,Yes,Honduras,60,No,No,Coffee,32,535,Latin America & the Caribbean,2014
+535,208,Yes,Honduras,60,No,No,Lobsters,76,536,Latin America & the Caribbean,2014
+536,208,Yes,Honduras,60,No,No,Melons,81,537,Latin America & the Caribbean,2014
+537,209,Yes,India,61,No,No,Soccer Balls,113,556,Asia & the Pacific,2014
+538,209,Yes,India,61,No,No,Gems,58,547,Asia & the Pacific,2014
+539,209,Yes,India,61,No,No,Bidis (hand-rolled cigarettes),9,538,Asia & the Pacific,2014
+540,209,Yes,India,61,Yes,Yes,Embellished Textiles,44,543,Asia & the Pacific,2014
+541,209,Yes,India,61,No,No,Matches,79,552,Asia & the Pacific,2014
+542,209,Yes,India,61,Yes,Yes,Stones,114,557,Asia & the Pacific,2014
+543,209,Yes,India,61,No,No,Brassware,11,539,Asia & the Pacific,2014
+544,209,Yes,India,61,No,No,Glass Bangles,60,548,Asia & the Pacific,2014
+545,209,Yes,India,61,Yes,Yes,Rice,98,553,Asia & the Pacific,2014
+546,209,Yes,India,61,No,No,Fireworks,47,544,Asia & the Pacific,2014
+547,209,Yes,India,61,No,No,Sugarcane,119,558,Asia & the Pacific,2014
+548,209,Yes,India,61,Yes,Yes,Bricks,13,540,Asia & the Pacific,2014
+549,209,Yes,India,61,No,No,Incense (agarbatti),71,549,Asia & the Pacific,2014
+550,209,Yes,India,61,No,No,Silk Fabric,107,554,Asia & the Pacific,2014
+551,209,Yes,India,61,No,No,Footwear,52,545,Asia & the Pacific,2014
+552,209,Yes,India,61,No,No,Thread/Yarn,128,559,Asia & the Pacific,2014
+553,209,Yes,India,61,No,Yes,Carpets,16,541,Asia & the Pacific,2014
+554,209,Yes,India,61,No,No,Leather Goods/Accessories,75,550,Asia & the Pacific,2014
+555,209,Yes,India,61,No,No,Silk Thread,108,555,Asia & the Pacific,2014
+556,209,Yes,India,61,Yes,Yes,Garments,57,546,Asia & the Pacific,2014
+557,209,Yes,India,61,No,No,Cotton,36,560,Asia & the Pacific,2014
+558,209,Yes,India,61,Yes,Yes,Cottonseed (hybrid),37,542,Asia & the Pacific,2014
+559,209,Yes,India,61,No,No,Locks,77,551,Asia & the Pacific,2014
+560,210,Yes,Indonesia,62,No,No,Rubber,99,565,Asia & the Pacific,2014
+561,210,Yes,Indonesia,62,No,No,Fish,48,561,Asia & the Pacific,2014
+562,210,Yes,Indonesia,62,No,No,Tobacco,132,566,Asia & the Pacific,2014
+563,210,Yes,Indonesia,62,No,No,Footwear (sandals),53,562,Asia & the Pacific,2014
+564,210,Yes,Indonesia,62,No,No,Gold,62,563,Asia & the Pacific,2014
+565,210,Yes,Indonesia,62,No,No,Oil (Palm),85,564,Asia & the Pacific,2014
+566,211,Yes,Iran,63,No,No,Carpets,16,567,Middle East & North Africa,2014
+567,214,No,Jordan,66,No,Yes,Garments,57,568,Middle East & North Africa,2014
+568,215,Yes,Kazakhstan,67,No,Yes,Cotton,36,569,Asia & the Pacific,2014
+569,216,Yes,Kenya,68,No,No,Sisal,111,574,Sub-Saharan Africa,2014
+570,216,Yes,Kenya,68,No,No,Coffee,32,570,Sub-Saharan Africa,2014
+571,216,Yes,Kenya,68,No,No,Sugarcane,119,575,Sub-Saharan Africa,2014
+572,216,Yes,Kenya,68,No,No,Fish,48,571,Sub-Saharan Africa,2014
+573,216,Yes,Kenya,68,No,No,Tea,123,576,Sub-Saharan Africa,2014
+574,216,Yes,Kenya,68,No,No,Miraa (stimulant plant),82,572,Sub-Saharan Africa,2014
+575,216,Yes,Kenya,68,No,No,Tobacco,132,577,Sub-Saharan Africa,2014
+576,216,Yes,Kenya,68,No,No,Rice,98,573,Sub-Saharan Africa,2014
+577,219,Yes,Kyrgyz Republic,71,No,No,Cotton,36,578,Asia & the Pacific,2014
+578,219,Yes,Kyrgyz Republic,71,No,No,Tobacco,132,579,Asia & the Pacific,2014
+579,220,Yes,Lebanon,72,No,No,Tobacco,132,580,Middle East & North Africa,2014
+580,221,Yes,Lesotho,73,No,No,Cattle,20,581,Sub-Saharan Africa,2014
+581,222,Yes,Liberia,74,No,No,Diamonds,40,582,Sub-Saharan Africa,2014
+582,222,Yes,Liberia,74,No,No,Rubber,99,583,Sub-Saharan Africa,2014
+583,224,Yes,Madagascar,76,No,No,Sapphires,103,584,Sub-Saharan Africa,2014
+584,224,Yes,Madagascar,76,No,No,Stones,114,585,Sub-Saharan Africa,2014
+585,224,Yes,Madagascar,76,No,No,Vanilla,136,586,Sub-Saharan Africa,2014
+586,225,Yes,Malawi,77,No,No,Tea,123,587,Sub-Saharan Africa,2014
+587,225,Yes,Malawi,77,Yes,Yes,Tobacco,132,588,Sub-Saharan Africa,2014
+588,226,No,Malaysia,78,No,Yes,Electronics,43,589,Asia & the Pacific,2014
+589,226,No,Malaysia,78,No,Yes,Garments,57,590,Asia & the Pacific,2014
+590,226,Yes,Malaysia,78,No,Yes,Oil (Palm),85,591,Asia & the Pacific,2014
+591,228,Yes,Mali,80,No,No,Cotton,36,592,Sub-Saharan Africa,2014
+592,228,Yes,Mali,80,No,No,Gold,62,593,Sub-Saharan Africa,2014
+593,228,Yes,Mali,80,Yes,Yes,Rice,98,594,Sub-Saharan Africa,2014
+594,229,Yes,Mauritania,81,No,No,Goats,61,596,Sub-Saharan Africa,2014
+595,229,Yes,Mauritania,81,No,No,Cattle,20,595,Sub-Saharan Africa,2014
+596,231,Yes,Mexico,83,No,No,Coffee,32,599,Latin America & the Caribbean,2014
+597,231,Yes,Mexico,83,No,No,Pornography,94,604,Latin America & the Caribbean,2014
+598,231,Yes,Mexico,83,No,No,Cucumbers,38,600,Latin America & the Caribbean,2014
+599,231,Yes,Mexico,83,No,No,Sugarcane,119,605,Latin America & the Caribbean,2014
+600,231,Yes,Mexico,83,No,No,Tomatoes,133,607,Latin America & the Caribbean,2014
+601,231,Yes,Mexico,83,No,No,Chile Peppers,24,598,Latin America & the Caribbean,2014
+602,231,Yes,Mexico,83,No,No,Onions,87,603,Latin America & the Caribbean,2014
+603,231,Yes,Mexico,83,No,No,Coffee,32,599,Latin America & the Caribbean,2014
+604,231,Yes,Mexico,83,No,No,Pornography,94,604,Latin America & the Caribbean,2014
+605,231,Yes,Mexico,83,No,No,Cucumbers,38,600,Latin America & the Caribbean,2014
+606,231,Yes,Mexico,83,No,No,Sugarcane,119,605,Latin America & the Caribbean,2014
+607,233,Yes,Mongolia,85,No,No,Coal,28,608,Asia & the Pacific,2014
+608,233,Yes,Mongolia,85,No,No,Fluorspar (mineral),51,609,Asia & the Pacific,2014
+609,233,Yes,Mongolia,85,No,No,Gold,62,610,Asia & the Pacific,2014
+610,237,Yes,Mozambique,89,No,No,Tobacco,132,611,Sub-Saharan Africa,2014
+611,238,Yes,Namibia,90,No,No,Cattle,20,612,Sub-Saharan Africa,2014
+612,239,Yes,Nepal,91,Yes,Yes,Stones,114,616,Asia & the Pacific,2014
+613,239,Yes,Nepal,91,Yes,Yes,Bricks,13,613,Asia & the Pacific,2014
+614,239,Yes,Nepal,91,Yes,Yes,Carpets,16,614,Asia & the Pacific,2014
+615,239,Yes,Nepal,91,Yes,Yes,Embellished Textiles,44,615,Asia & the Pacific,2014
+616,240,Yes,Nicaragua,92,No,No,Stones (pumice),116,622,Latin America & the Caribbean,2014
+617,240,Yes,Nicaragua,92,No,No,Coffee,32,618,Latin America & the Caribbean,2014
+618,240,Yes,Nicaragua,92,No,No,Tobacco,132,623,Latin America & the Caribbean,2014
+619,240,Yes,Nicaragua,92,No,No,Gold,62,619,Latin America & the Caribbean,2014
+620,240,Yes,Nicaragua,92,No,No,Gravel (crushed stones),66,620,Latin America & the Caribbean,2014
+621,240,Yes,Nicaragua,92,No,No,Shellfish,105,621,Latin America & the Caribbean,2014
+622,240,Yes,Nicaragua,92,No,No,Bananas,5,617,Latin America & the Caribbean,2014
+623,241,No,Niger,93,No,Yes,Cattle,20,624,Sub-Saharan Africa,2014
+624,241,Yes,Niger,93,No,No,Gold,62,625,Sub-Saharan Africa,2014
+625,241,Yes,Niger,93,No,No,Gypsum (mineral),67,626,Sub-Saharan Africa,2014
+626,241,Yes,Niger,93,No,No,Salt,101,627,Sub-Saharan Africa,2014
+627,241,Yes,Niger,93,No,No,Trona (mineral),135,628,Sub-Saharan Africa,2014
+628,242,Yes,Nigeria,94,No,No,Sand,102,633,Sub-Saharan Africa,2014
+629,242,Yes,Nigeria,94,Yes,Yes,Cocoa,30,629,Sub-Saharan Africa,2014
+630,242,Yes,Nigeria,94,Yes,Yes,Granite,63,630,Sub-Saharan Africa,2014
+631,242,Yes,Nigeria,94,Yes,Yes,Gravel (crushed stones),66,631,Sub-Saharan Africa,2014
+632,242,Yes,Nigeria,94,No,No,Manioc/Cassava,78,632,Sub-Saharan Africa,2014
+633,245,No,North Korea,97,No,Yes,Iron,72,638,Asia & the Pacific,2014
+634,245,No,North Korea,97,No,Yes,Bricks,13,634,Asia & the Pacific,2014
+635,245,No,North Korea,97,No,Yes,Textiles,125,639,Asia & the Pacific,2014
+636,245,No,North Korea,97,No,Yes,Cement,21,635,Asia & the Pacific,2014
+637,245,No,North Korea,97,No,Yes,Timber,130,640,Asia & the Pacific,2014
+638,245,No,North Korea,97,No,Yes,Coal,28,636,Asia & the Pacific,2014
+639,245,No,North Korea,97,No,Yes,Gold,62,637,Asia & the Pacific,2014
+640,247,No,Pakistan,99,No,Yes,Cotton,36,644,Asia & the Pacific,2014
+641,247,No,Pakistan,99,No,Yes,Wheat,137,649,Asia & the Pacific,2014
+642,247,Yes,Pakistan,99,No,No,Glass Bangles,60,645,Asia & the Pacific,2014
+643,247,Yes,Pakistan,99,Yes,Yes,Bricks,13,641,Asia & the Pacific,2014
+644,247,Yes,Pakistan,99,No,No,Leather,74,646,Asia & the Pacific,2014
+645,247,Yes,Pakistan,99,Yes,Yes,Carpets,16,642,Asia & the Pacific,2014
+646,247,No,Pakistan,99,No,Yes,Sugarcane,119,647,Asia & the Pacific,2014
+647,247,Yes,Pakistan,99,Yes,Yes,Coal,28,643,Asia & the Pacific,2014
+648,247,Yes,Pakistan,99,No,No,Surgical Instruments,121,648,Asia & the Pacific,2014
+649,248,Yes,Panama,100,No,No,Coffee,32,650,Latin America & the Caribbean,2014
+650,248,Yes,Panama,100,No,No,Melons,81,651,Latin America & the Caribbean,2014
+651,248,Yes,Panama,100,No,No,Sugarcane,119,652,Latin America & the Caribbean,2014
+652,250,Yes,Paraguay,102,No,No,Pornography,94,656,Latin America & the Caribbean,2014
+653,250,Yes,Paraguay,102,No,No,Stones (limestone),115,657,Latin America & the Caribbean,2014
+654,250,Yes,Paraguay,102,No,No,Bricks,13,653,Latin America & the Caribbean,2014
+655,250,Yes,Paraguay,102,No,No,Sugarcane,119,658,Latin America & the Caribbean,2014
+656,250,No,Paraguay,102,No,Yes,Cattle,20,654,Latin America & the Caribbean,2014
+657,250,Yes,Paraguay,102,No,No,Cotton,36,655,Latin America & the Caribbean,2014
+658,251,Yes,Peru,103,No,Yes,Gold,62,664,Latin America & the Caribbean,2014
+659,251,Yes,Peru,103,No,No,Bricks,13,660,Latin America & the Caribbean,2014
+660,251,No,Peru,103,No,Yes,Timber,130,665,Latin America & the Caribbean,2014
+661,251,Yes,Peru,103,No,No,Coca (stimulant plant),29,661,Latin America & the Caribbean,2014
+662,251,Yes,Peru,103,No,No,Fireworks,47,662,Latin America & the Caribbean,2014
+663,251,Yes,Peru,103,No,No,Fish,48,663,Latin America & the Caribbean,2014
+664,251,No,Peru,103,No,Yes,Brazil Nuts/Chestnuts,12,659,Latin America & the Caribbean,2014
+665,252,Yes,Philippines,104,No,No,Pyrotechnics,97,674,Asia & the Pacific,2014
+666,252,Yes,Philippines,104,No,No,Fish,48,670,Asia & the Pacific,2014
+667,252,Yes,Philippines,104,No,No,Rice,98,675,Asia & the Pacific,2014
+668,252,Yes,Philippines,104,No,No,Bananas,5,666,Asia & the Pacific,2014
+669,252,Yes,Philippines,104,No,No,Gold,62,671,Asia & the Pacific,2014
+670,252,Yes,Philippines,104,No,No,Rubber,99,676,Asia & the Pacific,2014
+671,252,Yes,Philippines,104,No,No,Coconuts,31,667,Asia & the Pacific,2014
+672,252,Yes,Philippines,104,No,No,Hogs,70,672,Asia & the Pacific,2014
+673,252,Yes,Philippines,104,No,No,Sugarcane,119,677,Asia & the Pacific,2014
+674,252,Yes,Philippines,104,No,No,Corn,35,668,Asia & the Pacific,2014
+675,252,Yes,Philippines,104,No,No,Pornography,94,673,Asia & the Pacific,2014
+676,252,Yes,Philippines,104,No,No,Tobacco,132,678,Asia & the Pacific,2014
+677,252,Yes,Philippines,104,No,No,Fashion Accessories,46,669,Asia & the Pacific,2014
+678,254,Yes,Russia,106,Yes,Yes,Pornography,94,679,Europe & Eurasia,2014
+679,255,Yes,Rwanda,107,No,No,Tea,123,680,Sub-Saharan Africa,2014
+680,261,Yes,Senegal,113,No,No,Gold,62,681,Sub-Saharan Africa,2014
+681,264,Yes,Sierra Leone,116,Yes,Yes,Diamonds,40,684,Sub-Saharan Africa,2014
+682,264,Yes,Sierra Leone,116,No,No,Granite,63,685,Sub-Saharan Africa,2014
+683,264,Yes,Sierra Leone,116,No,No,Oil (Palm),85,686,Sub-Saharan Africa,2014
+684,264,Yes,Sierra Leone,116,No,No,Cocoa,30,682,Sub-Saharan Africa,2014
+685,264,Yes,Sierra Leone,116,No,No,Coffee,32,683,Sub-Saharan Africa,2014
+686,268,Yes,South Sudan,120,Yes,Yes,Cattle,20,687,Sub-Saharan Africa,2014
+687,270,Yes,Suriname,123,No,No,Gold,62,688,Latin America & the Caribbean,2014
+688,272,Yes,Tajikistan,125,Yes,Yes,Cotton,36,689,Asia & the Pacific,2014
+689,273,Yes,Tanzania,126,No,No,Nile Perch (fish),84,693,Sub-Saharan Africa,2014
+690,273,Yes,Tanzania,126,No,No,Sisal,111,694,Sub-Saharan Africa,2014
+691,273,Yes,Tanzania,126,No,No,Cloves,27,690,Sub-Saharan Africa,2014
+692,273,Yes,Tanzania,126,No,No,Tanzanite (gems),122,695,Sub-Saharan Africa,2014
+693,273,Yes,Tanzania,126,No,No,Coffee,32,691,Sub-Saharan Africa,2014
+694,273,Yes,Tanzania,126,No,No,Tea,123,696,Sub-Saharan Africa,2014
+695,273,Yes,Tanzania,126,No,No,Gold,62,692,Sub-Saharan Africa,2014
+696,273,Yes,Tanzania,126,No,No,Tobacco,132,697,Sub-Saharan Africa,2014
+697,274,Yes,Thailand,127,Yes,Yes,Shrimp,106,701,Asia & the Pacific,2014
+698,274,Yes,Thailand,127,No,No,Sugarcane,119,702,Asia & the Pacific,2014
+699,274,No,Thailand,127,No,Yes,Fish,48,698,Asia & the Pacific,2014
+700,274,Yes,Thailand,127,Yes,Yes,Garments,57,699,Asia & the Pacific,2014
+701,274,Yes,Thailand,127,No,No,Pornography,94,700,Asia & the Pacific,2014
+702,280,Yes,Turkey,133,No,No,Cumin,39,705,Europe & Eurasia,2014
+703,280,Yes,Turkey,133,No,No,Sugar Beets,118,710,Europe & Eurasia,2014
+704,280,Yes,Turkey,133,No,No,Furniture,54,706,Europe & Eurasia,2014
+705,280,Yes,Turkey,133,No,No,Hazelnuts,68,707,Europe & Eurasia,2014
+706,280,Yes,Turkey,133,No,No,Citrus Fruits,26,703,Europe & Eurasia,2014
+707,280,Yes,Turkey,133,No,No,Peanuts,89,708,Europe & Eurasia,2014
+708,280,Yes,Turkey,133,No,No,Cotton,36,704,Europe & Eurasia,2014
+709,280,Yes,Turkey,133,No,No,Pulses (legumes),96,709,Europe & Eurasia,2014
+710,281,Yes,Turkmenistan,134,No,Yes,Cotton,36,711,Asia & the Pacific,2014
+711,283,Yes,Uganda,136,No,No,Rice,98,717,Sub-Saharan Africa,2014
+712,283,Yes,Uganda,136,No,No,Cattle,20,713,Sub-Saharan Africa,2014
+713,283,Yes,Uganda,136,No,No,Sugarcane,119,718,Sub-Saharan Africa,2014
+714,283,Yes,Uganda,136,No,No,Charcoal,23,714,Sub-Saharan Africa,2014
+715,283,Yes,Uganda,136,No,No,Tea,123,719,Sub-Saharan Africa,2014
+716,283,Yes,Uganda,136,No,No,Coffee,32,715,Sub-Saharan Africa,2014
+717,283,Yes,Uganda,136,No,No,Tobacco,132,720,Sub-Saharan Africa,2014
+718,283,Yes,Uganda,136,No,No,Fish,48,716,Sub-Saharan Africa,2014
+719,283,Yes,Uganda,136,No,No,Vanilla,136,721,Sub-Saharan Africa,2014
+720,283,Yes,Uganda,136,No,No,Bricks,13,712,Sub-Saharan Africa,2014
+721,284,Yes,Ukraine,137,No,No,Coal,28,722,Europe & Eurasia,2014
+722,284,Yes,Ukraine,137,No,No,Pornography,94,723,Europe & Eurasia,2014
+723,286,Yes,Uzbekistan,139,Yes,Yes,Cotton,36,724,Asia & the Pacific,2014
+724,289,Yes,Vietnam,142,No,No,Bricks,13,725,Asia & the Pacific,2014
+725,289,Yes,Vietnam,142,Yes,Yes,Garments,57,726,Asia & the Pacific,2014
+726,293,Yes,Yemen,146,No,No,Fish,48,727,Middle East & North Africa,2014
+727,294,Yes,Zambia,147,No,No,Gems,58,730,Sub-Saharan Africa,2014
+728,294,Yes,Zambia,147,No,No,Stones,114,731,Sub-Saharan Africa,2014
+729,294,Yes,Zambia,147,No,No,Tobacco,132,732,Sub-Saharan Africa,2014
+730,294,Yes,Zambia,147,No,No,Cattle,20,728,Sub-Saharan Africa,2014
+731,294,Yes,Zambia,147,No,No,Cotton,36,729,Sub-Saharan Africa,2014
