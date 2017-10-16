@@ -1,412 +1,412 @@
-,age_range_of_children_attending_school,age_range_of_children_working_and_studying,age_range_of_working_children,assessment_id,country,country_id,id,percent_of_children_attending_school,percent_of_children_working_and_studying,percent_of_working_children,percent_of_working_children_agriculture,percent_of_working_children_industry,percent_of_working_children_services,population_of_working_children,primary_completion_rate,year
-0,14-May,14-Jul,14-May,1105,Afghanistan,1,277,0.418,0.046,0.075,Unavailable,Unavailable,Unavailable,673949,Unavailable,2016
-1,14-May,14-Jul,14-May,1106,Albania,2,278,0.925,0.052,0.046,0.875,0.029,0.096,23665,1.064,2016
-2,14-May,14-Jul,14-May,1107,Algeria,3,279,0.923,0.072,0.067,Unavailable,Unavailable,Unavailable,413729,1.058,2016
-3,14-May,14-Jul,14-May,1108,Angola,4,280,0.654,0.221,0.257,Unavailable,Unavailable,Unavailable,694458,0.497,2016
-4,14-May,14-Jul,14-May,1109,Anguilla,5,281,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-5,14-May,14-Jul,14-May,1110,Argentina,6,282,0.985,0.048,0.042,Unavailable,Unavailable,Unavailable,258286,1.018,2016
-6,14-May,14-Jul,14-May,1111,Armenia,7,283,0.954,0.086,0.07,0.939,0.005,0.057,24602,0.991,2016
-7,14-Jun,14-Jul,14-May,1112,Azerbaijan,8,284,0.943,0.049,0.045,0.919,0.008,0.072,70034,1.033,2016
-8,14-May,14-Jul,14-May,1113,Bahrain,9,285,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-9,14-May,14-Jul,14-May,1114,Bangladesh,10,286,0.894,0.019,0.043,0.397,0.294,0.309,1326411,0.985,2016
-10,14-May,14-Jul,14-May,1115,Belize,11,287,0.945,0.012,0.016,0.246,0.105,0.649,1405,1.044,2016
-11,14-May,14-Jul,14-May,1116,Benin,12,288,0.71,0.163,0.209,Unavailable,Unavailable,Unavailable,680004,0.78,2016
-12,14-May,14-Jul,14-May,1117,Bhutan,13,289,0.847,0.033,0.038,Unavailable,Unavailable,Unavailable,6338,0.97,2016
-13,14-May,14-Jul,14-Jul,1118,Bolivia,14,290,0.937,0.187,0.202,0.79,0.074,0.136,355206,0.905,2016
-14,14-May,14-Jul,14-May,1119,Bosnia and Herzegovina,15,291,0.837,0.106,0.089,Unavailable,Unavailable,Unavailable,44017,Unavailable,2016
-15,14-May,14-Jul,14-May,1120,Botswana,16,292,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.997,2016
-16,14-May,14-Jul,14-May,1121,Brazil,17,293,0.978,0.034,0.029,0.556,0.104,0.339,897018,Unavailable,2016
-17,14-May,14-Jul,14-May,1122,British Virgin Islands,19,294,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.881,2016
-18,14-May,14-Jul,14-May,1123,Burkina Faso,20,295,0.419,0.217,0.421,Unavailable,Unavailable,Unavailable,2116752,0.616,2016
-19,14-May,14-Jul,14-May,1124,Burma,21,296,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.851,2016
-20,14-May,14-Jul,14-May,1125,Burundi,22,297,0.609,0.26,0.272,Unavailable,Unavailable,Unavailable,633126,0.617,2016
-21,14-May,14-Jul,14-May,1140,C,38,312,0.635,0.215,0.315,Unavailable,Unavailable,Unavailable,1682754,0.63,2016
-22,14-May,14-Oct,14-Oct,1126,Cabo Verde,23,298,0.901,0.017,0.032,0.792,0.072,0.137,2392,1.022,2016
-23,14-May,14-Jul,14-May,1127,Cambodia,24,299,0.854,0.091,0.094,0.621,0.157,0.222,276583,0.952,2016
-24,14-May,14-Jul,14-May,1128,Cameroon,25,300,0.797,0.527,0.562,Unavailable,Unavailable,Unavailable,,0.739,2016
-25,14-May,14-Jul,14-May,1129,Central African Republic,26,301,0.631,0.28,0.31,Unavailable,Unavailable,Unavailable,373742,0.444,2016
-26,14-May,14-Jul,14-May,1130,Chad,27,302,0.495,0.284,0.488,Unavailable,Unavailable,Unavailable,,0.381,2016
-27,14-May,14-Jul,14-May,1131,Chile,28,303,0.995,0.045,0.038,0.293,0.103,0.604,94025,0.95,2016
-28,N/A,N/A,N/A,1132,Christmas Island,30,304,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2016
-29,N/A,N/A,N/A,1133,Cocos (Keeling) Islands,31,305,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2016
-30,14-May,14-Jul,14-May,1134,Colombia,32,306,0.947,0.048,0.046,0.436,0.154,0.41,392515,1.005,2016
-31,14-May,14-Jul,14-May,1135,Comoros,33,307,0.815,0.208,0.23,Unavailable,Unavailable,Unavailable,42145,0.764,2016
-32,14-May,14-Jul,14-May,1136,"Congo, Democratic Republic of the",34,308,0.773,0.371,0.358,Unavailable,Unavailable,Unavailable,,0.668,2016
-33,14-May,14-Jul,14-May,1137,"Congo, Republic of the",35,309,0.902,0.299,0.279,Unavailable,Unavailable,Unavailable,286137,0.743,2016
-34,14-May,14-Jul,14-May,1138,Cook Islands,36,310,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.938,2016
-35,14-May,14-Jul,14-May,1139,Costa Rica,37,311,0.922,0.042,0.044,Unavailable,Unavailable,Unavailable,34494,0.995,2016
-36,14-May,14-Jul,14-May,1141,Djibouti,39,313,0.674,0.102,0.123,Unavailable,Unavailable,Unavailable,23693,0.643,2016
-37,14-May,14-Jul,14-May,1142,Dominica,40,314,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.111,2016
-38,14-Oct,14-Oct,14-Oct,1143,Dominican Republic,41,315,0.984,0.02,0.021,0.281,0.086,0.634,21968,0.942,2016
-39,14-May,14-Jul,14-May,1144,Ecuador,42,316,0.975,0.038,0.035,0.823,0.039,0.138,115930,1.088,2016
-40,14-Oct,14-Oct,14-Oct,1145,Egypt,43,317,0.938,0.013,0.029,0.532,0.165,0.304,246179,1.038,2016
-41,14-May,14-Jul,14-May,1146,El Salvador,44,318,0.923,0.061,0.059,0.475,0.142,0.382,68431,1.046,2016
-42,14-May,14-Jul,14-May,1147,Eritrea,45,319,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.391,2016
-43,14-May,14-Jul,14-May,1148,Ethiopia,46,320,0.54,0.17,0.22,Unavailable,Unavailable,Unavailable,5545319,0.537,2016
-44,Unavailable,Unavailable,Unavailable,1149,Falkland Islands (Islas Malvinas),47,321,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-45,14-May,14-Jul,14-May,1150,Fiji,48,322,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.064,2016
-46,14-May,14-Jul,14-May,1151,Gabon,49,323,0.944,0.233,0.223,Unavailable,Unavailable,Unavailable,83073,Unavailable,2016
-47,14-May,14-Jul,14-May,1152,Gambia,50,324,0.657,0.296,0.364,Unavailable,Unavailable,Unavailable,180954,0.705,2016
-48,14-May,14-Jul,14-May,1153,Georgia,51,325,0.969,0.037,0.029,0.955,0.023,0.022,13547,1.207,2016
-49,14-May,14-Jul,14-May,1154,Ghana,52,326,0.917,0.253,0.247,0.787,0.037,0.176,1721914,1.011,2016
-50,Unavailable,Unavailable,Unavailable,1155,Grenada,53,327,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-51,14-Jul,14-Jul,14-Jul,1156,Guatemala,54,328,0.899,0.035,0.063,0.588,0.093,0.32,193917,0.866,2016
-52,14-May,14-Jul,14-May,1157,Guinea,56,329,0.496,0.192,0.323,Unavailable,Unavailable,Unavailable,1152064,0.618,2016
-53,14-May,14-Jul,14-May,1158,Guinea-Bissau,55,330,0.681,0.484,0.574,Unavailable,Unavailable,Unavailable,Unavailable,0.622,2016
-54,14-May,14-Jul,14-May,1159,Guyana,57,331,0.971,0.221,0.201,Unavailable,Unavailable,Unavailable,,0.841,2016
-55,14-May,14-Jul,14-May,1160,Haiti,58,332,0.924,0.349,0.344,Unavailable,Unavailable,Unavailable,815993,Unavailable,2016
-56,14-May,14-Jul,14-May,1161,Honduras,60,333,0.877,0.061,0.086,0.575,0.103,0.322,158891,0.925,2016
-57,14-May,14-Jul,14-May,1162,India,61,334,0.907,0.003,0.014,0.564,0.331,0.104,3253202,0.975,2016
-58,14-Oct,14-Oct,14-Oct,1163,Indonesia,62,335,0.924,0.021,0.037,0.616,0.12,0.265,816363,1.029,2016
-59,14-May,14-Jul,14-May,1164,Iraq,64,336,0.75,0.042,0.053,Unavailable,Unavailable,Unavailable,454330,0.667,2016
-60,14-May,14-Jul,14-May,1165,Jamaica,65,337,0.994,0.062,0.054,Unavailable,Unavailable,Unavailable,28298,Unavailable,2016
-61,14-May,14-Jul,14-May,1166,Jordan,66,338,0.949,0.007,0.008,0.405,0.112,0.484,11255,0.91,2016
-62,14-May,14-Jul,14-May,1167,Kazakhstan,67,339,0.907,0.036,0.032,Unavailable,Unavailable,Unavailable,76690,1.092,2016
-63,14-May,14-Jul,14-May,1168,Kenya,68,340,0.858,0.23,0.356,Unavailable,Unavailable,Unavailable,3736030,1.052,2016
-64,14-May,14-Jul,14-May,1169,Kiribati,69,341,Unavailable,Unavailable,Unavailable,N/A,N/A,N/A,Unavailable,1.124,2016
-65,14-May,14-Jul,14-May,1170,Kosovo,70,342,0.954,0.131,0.117,Unavailable,Unavailable,Unavailable,324764,Unavailable,2016
-66,14-May,14-Jul,14-May,1171,Kyrgyz Republic,71,343,0.865,0.41,0.339,0.99,0.003,0.008,397407,1.05,2016
-67,14-May,14-Jul,14-May,1172,Lebanon,72,344,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.719,2016
-68,14-May,14-Jul,14-May,1173,Lesotho,73,345,0.807,0.253,0.281,Unavailable,Unavailable,Unavailable,124632,0.768,2016
-69,14-May,14-Jul,14-May,1174,Liberia,74,346,0.759,0.14,0.166,0.784,0.042,0.174,136340,0.588,2016
-70,14-May,14-Jul,14-May,1175,Macedonia,75,347,0.868,0.195,0.183,Unavailable,Unavailable,Unavailable,44161,0.883,2016
-71,14-May,14-Jul,14-May,1176,Madagascar,76,348,0.691,0.154,0.221,0.874,0.042,0.084,1206992,0.693,2016
-72,14-May,14-Jul,14-May,1177,Malawi,77,349,0.896,0.391,0.34,Unavailable,Unavailable,Unavailable,,0.793,2016
-73,14-May,14-Jul,14-May,1178,Maldives,79,350,0.795,0.04,0.039,Unavailable,Unavailable,Unavailable,2364,1.144,2016
-74,14-May,14-Jul,14-May,1179,Mali,80,351,0.46,0.134,0.251,Unavailable,Unavailable,Unavailable,1216300,0.509,2016
-75,14-May,14-Jul,14-May,1180,Mauritania,81,352,0.535,0.082,0.125,Unavailable,Unavailable,Unavailable,131552,0.683,2016
-76,14-May,14-Jul,14-May,1181,Mauritius,82,353,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.011,2016
-77,14-May,14-Jul,14-May,1182,"Moldova, Republic of",84,354,0.921,0.29,0.243,0.973,0.006,0.022,102105,0.909,2016
-78,14-May,14-Jul,14-May,1183,Mongolia,85,355,0.876,0.151,0.138,Unavailable,Unavailable,Unavailable,60246,0.983,2016
-79,14-May,14-Jul,14-May,1184,Montenegro,86,356,0.916,0.199,0.183,Unavailable,Unavailable,Unavailable,77591,0.926,2016
-80,14-May,14-Jul,14-May,1185,Montserrat,87,357,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.689,2016
-81,14-Jun,14-Oct,14-Oct,1186,Morocco,88,358,0.829,0.007,0.045,Unavailable,Unavailable,Unavailable,150178,1.029,2016
-82,14-May,14-Jul,14-May,1187,Mozambique,89,359,0.695,0.224,0.225,Unavailable,Unavailable,Unavailable,1526560,0.479,2016
-83,14-May,14-Jul,14-May,1188,Namibia,90,360,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.865,2016
-84,14-May,14-Jul,14-May,1189,Nepal,91,361,0.917,0.391,0.372,Unavailable,Unavailable,Unavailable,6755852,1.102,2016
-85,14-Oct,14-Oct,14-Oct,1190,Nicaragua,92,362,0.883,0.403,0.477,0.535,0.087,0.378,342076,0.854,2016
-86,14-Jul,14-Jul,14-May,1191,Niger,93,363,0.48,0.221,0.429,Unavailable,Unavailable,Unavailable,2516191,0.69,2016
-87,14-May,14-Jul,14-May,1192,Nigeria,94,364,0.762,0.268,0.311,Unavailable,Unavailable,Unavailable,13924739,0.76,2016
-88,14-May,14-Jul,14-May,1193,Niue,95,365,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-89,N/A,N/A,N/A,1194,Norfolk Island,96,366,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2016
-90,14-May,14-Jul,14-May,1195,Oman,98,367,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.052,2016
-91,14-May,14-Jul,14-May,1196,Pakistan,99,368,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-92,14-May,14-Jul,14-May,1197,Panama,100,369,0.949,0.049,0.047,0.686,0.054,0.26,32858,1.02,2016
-93,14-May,14-Jul,14-May,1198,Papua New Guinea,101,370,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.786,2016
-94,14-May,14-Oct,14-Oct,1199,Paraguay,102,371,0.942,0.095,0.104,0.55,0.104,0.346,72036,0.891,2016
-95,14-May,14-Jul,14-May,1200,Peru,103,372,0.976,0.25,0.218,0.638,0.061,0.302,1261484,0.994,2016
-96,14-May,14-Jul,14-May,1201,Philippines,104,373,0.937,0.078,0.075,0.541,0.053,0.405,1549677,1.01,2016
-97,14-Jun,14-Jul,14-Jun,1202,Rwanda,107,374,0.886,0.046,0.052,0.69,0.087,0.223,151257,0.605,2016
-98,14-May,14-Jul,14-May,1205,S,111,377,0.892,0.249,0.226,Unavailable,Unavailable,Unavailable,Unavailable,0.829,2016
-99,Unavailable,N/A,Unavailable,1215,"Saint Helena, Ascensi",108,387,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-100,14-May,14-Jul,14-May,1203,Saint Lucia,109,375,0.997,0.082,0.075,Unavailable,Unavailable,Unavailable,2017,1.076,2016
-101,14-May,14-Jul,14-May,1216,Saint Vincent and the Grenadines,110,388,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.982,2016
-102,14-May,14-Jul,14-May,1204,Samoa,112,376,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.035,2016
-103,14-May,14-Jul,14-May,1206,Senegal,113,378,0.53,0.139,0.223,Unavailable,Unavailable,Unavailable,4255365,0.572,2016
-104,14-May,14-Jul,14-May,1207,Serbia,114,379,0.977,0.174,0.151,Unavailable,Unavailable,Unavailable,725227,1.01,2016
-105,14-May,14-Jul,14-May,1208,Seychelles,115,380,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.088,2016
-106,14-May,14-Jul,14-May,1209,Sierra Leone,116,381,0.67,0.433,0.513,Unavailable,Unavailable,Unavailable,897142,0.66,2016
-107,14-May,14-Jul,14-May,1210,Solomon Islands,117,382,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.886,2016
-108,14-May,14-Jul,14-May,1211,Somalia,118,383,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-109,14-May,14-Jul,14-Jul,1212,South Africa,119,384,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-110,14-Jun,14-Oct,14-Oct,1213,South Sudan,120,385,0.315,0.109,0.456,0.602,0.382,0.016,463624,0.367,2016
-111,14-May,14-Jul,14-May,1214,Sri Lanka,122,386,0.978,0.104,0.092,0.67,0.16,0.171,302865,0.98,2016
-112,14-May,14-Jul,14-May,1217,Suriname,123,389,0.958,0.066,0.064,Unavailable,Unavailable,Unavailable,6671,0.946,2016
-113,14-May,14-Jul,14-May,1218,Swaziland,124,390,0.925,0.13,0.117,Unavailable,Unavailable,Unavailable,35368,0.79,2016
-114,14-May,14-Jul,14-May,1219,Tanzania,126,391,0.743,0.246,0.293,0.941,0.01,0.049,3573467,0.737,2016
-115,14-May,14-Jul,14-May,1220,Thailand,127,392,0.963,0.144,0.13,Unavailable,Unavailable,Unavailable,1302267,0.933,2016
-116,14-Jul,14-Oct,14-Oct,1221,Timor-Leste,128,393,0.697,0.126,0.199,0.976,0.014,0.01,26268,1.061,2016
-117,14-May,14-Jul,14-May,1222,Togo,129,394,0.861,0.295,0.296,Unavailable,Unavailable,Unavailable,N/A,0.843,2016
-118,14-May,14-Jul,14-May,1223,Tokelau,130,395,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-119,14-May,14-Jul,14-May,1224,Tonga,131,396,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,1.109,2016
-120,14-May,14-Jul,14-May,1225,Tunisia,132,397,0.942,0.028,0.03,Unavailable,Unavailable,Unavailable,50364,0.997,2016
-121,14-Jun,14-Jun,14-Jun,1226,Turkey,133,398,0.924,0.016,0.026,0.571,0.158,0.271,320254,0.998,2016
-122,14-May,14-Jul,14-May,1227,Tuvalu,135,399,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.978,2016
-123,14-May,14-Jul,14-May,1228,Uganda,136,400,0.887,0.344,0.309,0.954,0.015,0.031,3034126,0.531,2016
-124,14-May,14-Jul,14-May,1229,Ukraine,137,401,0.965,0.05,0.044,Unavailable,Unavailable,Unavailable,182714,1.104,2016
-125,14-May,14-Jul,14-May,1230,Uruguay,138,402,0.978,0.065,0.061,0.284,0.125,0.591,31955,1.033,2016
-126,14-May,14-Jul,14-May,1231,Uzbekistan,139,403,0.841,0.05,0.043,Unavailable,Unavailable,Unavailable,244095,0.989,2016
-127,14-May,14-Jul,14-May,1232,Vanuatu,140,404,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.938,2016
-128,14-Oct,14-Oct,14-Oct,1233,Venezuela,141,405,0.962,0.027,0.039,0.309,0.118,0.573,108124,0.952,2016
-129,N/A,N/A,N/A,1234,Wallis and Futuna,143,406,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-130,14-May,14-Jul,14-May,1235,West Bank and the Gaza Strip,144,407,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.955,2016
-131,Unavailable,Unavailable,Unavailable,1236,Western Sahara,145,408,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,2016
-132,14-May,14-Jul,14-May,1237,Yemen,146,409,0.68,0.103,0.136,0.7,0.022,0.278,834866,0.692,2016
-133,14-May,14-Jul,14-May,1238,Zambia,147,410,0.652,0.276,0.281,0.918,0.012,0.07,992722,0.81,2016
-134,14-May,14-May,14-May,1239,Zimbabwe,148,411,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,Unavailable,0.902,2016
-135,14-May,14-Jul,14-May,1,Afghanistan,1,1,0.418,0.046,0.075,,,,6739.49,,2015
-136,14-May,14-Jul,14-May,2,Albania,2,2,0.925,0.052,0.046,0.875,0.029,0.096,236.65,107.8,2015
-137,14-May,14-Jul,14-May,3,Algeria,3,3,,,,,,,,108.6,2015
-138,14-May,14-Jul,14-May,4,Angola,4,4,0.654,0.221,0.257,,,,6944.58,49.7,2015
-139,14-May,14-Jul,14-May,5,Anguilla,5,5,,,,,,,,,2015
-140,14-May,14-Jul,14-May,6,Argentina,6,6,0.985,0.048,0.042,,,,2582.86,100.9,2015
-141,14-May,14-Jul,14-May,7,Armenia,7,7,0.898,0.099,0.081,,,,304.94,100.1,2015
-142,14-Jun,14-Jul,14-May,8,Azerbaijan,8,8,0.943,0.049,0.045,0.919,0.008,0.072,700.34,98.1,2015
-143,14-May,14-Jul,14-May,9,Bahrain,9,9,,,,,,,,,2015
-144,14-May,14-Jul,14-May,10,Bangladesh,10,10,0.812,0.068,0.043,0.397,0.294,0.309,13264.11,73.5,2015
-145,14-May,14-Jul,14-May,11,Belize,11,11,0.945,0.012,0.016,0.246,0.105,0.649,14.05,102.1,2015
-146,14-May,14-Jul,14-May,12,Benin,12,12,0.71,0.163,0.209,,,,6800.04,76.3,2015
-147,14-May,14-Jul,14-May,13,Bhutan,13,13,0.847,0.033,0.038,,,,63.38,97,2015
-148,14-May,14-Jul,14-Jul,14,Bolivia,14,14,0.937,0.187,0.202,0.79,0.074,0.136,3552.06,96,2015
-149,14-May,14-Jul,14-May,15,Bosnia and Herzegovina,15,15,0.837,0.106,0.089,,,,440.17,,2015
-150,14-May,14-May,14-May,16,Botswana,16,16,,,,,,,,99.7,2015
-151,14-May,14-Jul,14-May,17,Brazil,17,17,0.976,0.031,0.027,0.553,0.093,0.354,8396.2,,2015
-152,,,,18,British Indian Ocean Territories,18,18,,,,,,,,,2015
-153,N/A,N/A,N/A,19,British Virgin Islands,19,19,,,,,,,,,2015
-154,14-May,14-Jul,14-May,20,Burkina Faso,20,20,0.419,0.217,0.421,,,,21167.52,60.5,2015
-155,14-May,14-Jul,14-May,22,Burundi,22,21,0.609,0.26,0.272,,,,6331.26,66.6,2015
-156,14-May,14-Jul,14-May,38,C,38,36,0.635,0.215,0.315,,,,16827.54,56.9,2015
-157,14-May,14-Oct,14-Oct,23,Cabo Verde,23,22,0.901,0.017,0.032,0.792,0.072,0.137,23.92,99.8,2015
-158,14-May,14-Jul,14-May,24,Cambodia,24,23,0.854,0.091,0.094,0.621,0.157,0.222,2765.83,96.3,2015
-159,14-May,14-Jul,14-May,25,Cameroon,25,24,0.797,0.527,0.562,,,,,72.2,2015
-160,14-May,14-Jul,14-May,26,Central African Republic,26,25,0.631,0.28,0.31,,,,3737.42,44.4,2015
-161,14-May,14-Jul,14-May,27,Chad,27,26,0.477,0.184,0.296,,,,10732.82,38.1,2015
-162,14-May,14-Jul,14-May,28,Chile,28,27,0.995,0.045,0.038,0.293,0.103,0.604,940.25,96.6,2015
-163,N/A,N/A,N/A,30,Christmas Island,30,28,,,,,,,,,2015
-164,N/A,N/A,N/A,31,Cocos (Keeling) Islands,31,29,,,,,,,,,2015
-165,14-May,14-Jul,14-May,32,Colombia,32,30,0.947,0.048,0.046,0.436,0.154,0.41,3925.15,100.6,2015
-166,14-May,14-Jul,14-May,33,Comoros,33,31,0.815,0.208,0.23,,,,421.45,73.6,2015
-167,14-May,14-Jul,14-May,34,"Congo, Democratic Republic of the",34,32,0.671,0.162,0.169,,,,33278.06,66.8,2015
-168,14-May,14-Jul,14-May,35,"Congo, Republic of the",35,33,0.902,0.299,0.279,,,,2861.37,74.3,2015
-169,N/A,N/A,N/A,36,Cook Islands,36,34,,,,,,,,103.5,2015
-170,14-May,14-Jul,14-May,37,Costa Rica,37,35,0.922,0.042,0.044,,,,344.94,98.7,2015
-171,14-May,14-Jul,14-May,39,Djibouti,39,37,0.674,0.102,0.123,,,,236.93,63.7,2015
-172,N/A,N/A,N/A,40,Dominica,40,38,,N/A,N/A,N/A,N/A,N/A,N/A,,2015
-173,14-May,14-Oct,14-Oct,41,Dominican Republic,41,39,0.961,0.048,0.053,0.291,0.085,0.624,548.5,90.9,2015
-174,14-May,14-Jul,14-May,42,Ecuador,42,40,0.969,0.024,0.027,0.71,0.081,0.21,756.89,112.6,2015
-175,14-Jun,14-Jul,14-May,43,Egypt,43,41,0.881,0.063,0.067,,,,9934.17,103.8,2015
-176,14-May,14-Jul,14-May,44,El Salvador,44,42,0.924,0.066,0.065,0.503,0.122,0.375,807.04,106.8,2015
-177,14-May,14-Jul,14-May,45,Eritrea,45,43,,,,,,,,36.8,2015
-178,14-May,14-Jul,14-May,46,Ethiopia,46,44,0.54,0.17,0.22,,,,55453.19,47.4,2015
-179,N/A,N/A,N/A,47,Falkland Islands (Islas Malvinas),47,45,,,,,,,,,2015
-180,14-May,14-Jul,14-May,48,Fiji,48,46,,,,,,,,102.9,2015
-181,14-May,14-Jul,14-May,49,Gabon,49,47,0.944,0.233,0.223,,,,830.73,,2015
-182,14-May,14-Jul,14-May,50,Gambia,50,48,0.657,0.296,0.364,,,,1809.54,67.3,2015
-183,14-May,14-Jul,14-May,51,Georgia,51,49,0.921,0.315,0.291,,,,1723.78,116.5,2015
-184,14-May,14-Jul,14-May,52,Ghana,52,50,0.917,0.253,0.247,0.787,0.037,0.176,17219.14,101.1,2015
-185,N/A,N/A,N/A,53,Grenada,53,51,,,N/A,N/A,N/A,N/A,N/A,94.5,2015
-186,14-Jul,14-Jul,14-Jul,54,Guatemala,54,52,0.884,0.079,0.106,0.644,0.103,0.253,3119.4,86.6,2015
-187,14-May,14-Jul,14-May,56,Guinea,56,53,0.496,0.192,0.323,,,,11520.64,49.5,2015
-188,14-May,14-Jul,14-May,55,Guinea-Bissau,55,54,0.569,0.346,0.473,,,,2197.34,62.2,2015
-189,14-May,14-Jul,14-May,57,Guyana,57,55,0.945,0.232,0.23,,,,447.87,84.1,2015
-190,14-May,14-Jul,14-May,58,Haiti,58,56,0.924,0.349,0.344,,,,8159.93,,2015
-191,,,,59,Heard and McDonald Islands,59,57,,,,,,,,,2015
-192,14-May,14-Jul,14-May,60,Honduras,60,58,0.846,0.044,0.078,0.653,0.123,0.224,1535.36,90.7,2015
-193,14-May,14-Jul,14-May,61,India,61,59,0.907,0.003,0.014,0.564,0.331,0.104,32532.02,96.2,2015
-194,14-Oct,14-Oct,14-Oct,62,Indonesia,62,60,0.924,0.021,0.037,0.616,0.12,0.265,8163.63,100.6,2015
-195,14-May,14-Jul,14-May,64,Iraq,64,61,0.75,0.042,0.053,,,,4543.3,66.7,2015
-196,14-May,14-Jul,14-May,65,Jamaica,65,62,0.994,0.062,0.054,0,0,0,282.98,96.6,2015
-197,14-May,14-Jul,14-May,66,Jordan,66,63,0.949,0.007,0.008,0.405,0.112,0.484,112.55,86,2015
-198,14-May,14-Jul,14-May,67,Kazakhstan,67,64,0.907,0.036,0.032,,,,796.9,113,2015
-199,14-May,14-Jul,14-Jun,68,Kenya,68,65,0.749,0.323,0.325,,,,29433.1,103.5,2015
-200,14-May,14-Jul,14-May,69,Kiribati,69,66,,,,,,,,112.4,2015
-201,14-May,14-Jul,14-May,70,Kosovo,70,67,,,,,,,,,2015
-202,14-May,14-Jul,14-May,71,Kyrgyz Republic,71,68,0.865,0.41,0.339,0.99,0.003,0.008,3974.07,105,2015
-203,14-May,14-Jul,14-May,72,Lebanon,72,69,,,,,,,,78.1,2015
-204,14-May,14-Jul,14-May,73,Lesotho,73,70,0.807,0.253,0.281,0,0,0,1246.32,75.7,2015
-205,14-May,14-Jul,14-May,74,Liberia,74,71,0.759,0.14,0.166,0.784,0.042,0.174,1363.4,58.8,2015
-206,14-May,14-Jul,14-May,75,Macedonia,75,72,0.868,0.195,0.183,,,,441.61,89.9,2015
-207,14-May,14-Jul,14-May,76,Madagascar,76,73,0.691,0.154,0.221,0.874,0.042,0.084,12069.92,68.8,2015
-208,14-May,14-Jul,14-May,77,Malawi,77,74,0.813,0.222,0.206,,,,8853.33,79.3,2015
-209,14-May,14-Jul,14-May,79,Maldives,79,75,0.795,0.04,0.039,,,,23.64,114.4,2015
-210,14-May,14-Jul,14-May,80,Mali,80,76,0.46,0.134,0.251,,,,12163,53.1,2015
-211,14-May,14-Jul,14-May,81,Mauritania,81,77,0.486,0.108,0.182,,,,1729.36,67.5,2015
-212,14-May,14-Jul,14-May,82,Mauritius,82,78,,,,,,,,97.5,2015
-213,14-May,14-Jul,14-May,84,"Moldova, Republic of",84,79,0.921,0.29,0.243,0.973,0.006,0.022,1021.05,93,2015
-214,14-May,14-Jul,14-May,85,Mongolia,85,80,0.876,0.151,0.138,0.858,0.025,0.117,602.46,109.9,2015
-215,14-May,14-Jul,14-May,86,Montenegro,86,81,0.877,0.144,0.129,,,,128.67,92.6,2015
-216,N/A,N/A,N/A,87,Montserrat,87,82,,,,,,,,68.9,2015
-217,14-Jun,14-Oct,14-Oct,88,Morocco,88,83,0.829,0.007,0.045,,,,1501.78,101.7,2015
-218,14-May,14-Jul,14-May,89,Mozambique,89,84,0.695,0.224,0.225,,,,15265.6,47.6,2015
-219,14-May,14-Jul,14-May,90,Namibia,90,85,,,,,,,,86.5,2015
-220,14-May,14-Jul,14-May,91,Nepal,91,86,0.895,0.352,0.337,0.888,0.081,0.031,20971.63,105.7,2015
-221,14-Oct,14-Oct,14-Oct,92,Nicaragua,92,87,0.883,0.403,0.477,0.535,0.087,0.378,3420.76,85.4,2015
-222,14-Jul,14-Jul,14-May,93,Niger,93,88,0.48,0.221,0.429,,,,25161.91,58.6,2015
-223,14-May,14-Jul,14-May,94,Nigeria,94,89,0.762,0.268,0.311,,,,139247.39,76,2015
-224,N/A,N/A,N/A,95,Niue,95,90,,,,,,,,,2015
-225,N/A,N/A,N/A,96,Norfolk Island,96,91,,,,,,,,,2015
-226,14-May,14-Jul,14-Jul,98,Oman,98,92,,,,,,,,108.8,2015
-227,14-May,14-Oct,14-Oct,99,Pakistan,99,93,0.723,0.016,0.13,0.76,0.093,0.146,24494.8,73.7,2015
-228,14-May,14-Jul,14-May,100,Panama,100,94,0.949,0.049,0.047,0.686,0.054,0.26,328.58,102,2015
-229,14-May,14-Jul,14-May,101,Papua New Guinea,101,95,,,,,,,,78.6,2015
-230,14-May,14-Oct,14-Oct,102,Paraguay,102,96,0.942,0.095,0.104,0.55,0.104,0.346,720.36,89.1,2015
-231,14-May,14-Jul,14-May,103,Peru,103,97,0.793,0.194,0.228,,,,12971.06,95.9,2015
-232,14-May,14-Jul,14-May,104,Philippines,104,98,0.937,0.078,0.075,0.541,0.053,0.405,15496.77,101,2015
-233,,,,105,Pitcairn Islands,105,99,,,,,,,,,2015
-234,14-Jun,14-Jul,14-Jun,107,Rwanda,107,100,0.858,0.04,0.044,,,,1183.85,66.6,2015
-235,14-May,14-Jul,14-May,111,S,111,105,0.688,0.137,0.154,,,,62.18,92.4,2015
-236,N/A,N/A,N/A,108,"Saint Helena, Ascensi",108,101,,,,,,,,,2015
-237,14-May,14-Jul,14-May,109,Saint Lucia,109,102,0.997,0.082,0.075,,,,20.17,107.6,2015
-238,14-May,14-Jul,14-May,110,Saint Vincent and the Grenadines,110,103,,,,,,,,100.5,2015
-239,14-May,14-Jul,14-May,112,Samoa,112,104,,,,,,,,100.5,2015
-240,14-May,14-Jul,14-May,113,Senegal,113,106,0.548,0.052,0.103,0.859,0.032,0.109,3771.48,59,2015
-241,14-May,14-Jul,14-May,114,Serbia,114,107,0.925,0.067,0.06,,,,540.45,101.9,2015
-242,14-May,14-Jul,14-May,115,Seychelles,115,108,,,,,,,,112.1,2015
-243,14-May,14-Jul,14-May,116,Sierra Leone,116,109,0.67,0.433,0.513,,,,8971.42,69.5,2015
-244,14-May,14-Jul,14-May,117,Solomon Islands,117,110,,,,,,,,87.3,2015
-245,14-May,14-Jul,14-May,118,Somalia,118,111,0.489,0.202,0.398,,,,10128.63,,2015
-246,14-May,14-Jul,14-Jul,119,South Africa,119,112,,,,0,0,0,,,2015
-247,14-Jun,14-Jun,14-Oct,120,South Sudan,120,113,0.315,0.109,0.456,0.602,0.016,0.382,4636.24,36.7,2015
-248,14-May,14-Jul,14-May,122,Sri Lanka,122,114,0.978,0.104,0.092,0.67,0.16,0.171,3028.65,98,2015
-249,14-May,14-Jul,14-May,123,Suriname,123,115,0.958,0.066,0.064,,,,66.71,93.7,2015
-250,14-May,14-Jul,14-May,124,Swaziland,124,116,0.925,0.13,0.117,,,,353.68,79,2015
-251,14-May,14-Jul,14-May,126,Tanzania,126,117,0.741,0.216,0.251,,,,31574.42,73.7,2015
-252,14-May,14-Jul,14-May,127,Thailand,127,118,0.963,0.144,0.13,,,,13022.67,,2015
-253,14-Jul,14-Oct,14-Oct,128,Timor-Leste,128,119,0.697,0.126,0.199,0.976,0.014,0.01,262.68,98.4,2015
-254,14-May,14-Jul,14-May,129,Togo,129,120,0.853,0.355,0.357,,,,6161.32,85.1,2015
-255,N/A,N/A,N/A,130,Tokelau,130,121,,,,,,,,,2015
-256,14-May,14-Jul,14-May,131,Tonga,131,122,,,,,,,,110.9,2015
-257,14-May,14-Jul,14-May,132,Tunisia,132,123,0.942,0.028,0.03,,,,503.64,96.9,2015
-258,14-Jun,14-Jun,14-Jun,133,Turkey,133,124,0.924,0.016,0.026,0.571,0.158,0.271,3202.54,99.8,2015
-259,14-May,14-Jul,14-May,135,Tuvalu,135,125,,,,,,,,93.2,2015
-260,14-May,14-Jul,14-May,136,Uganda,136,126,0.887,0.344,0.309,0.954,0.015,0.031,30341.26,55.6,2015
-261,14-May,14-Jul,14-May,137,Ukraine,137,127,0.965,0.05,0.044,,,,1827.14,110.4,2015
-262,14-May,14-Jul,14-May,138,Uruguay,138,128,0.978,0.065,0.061,0.284,0.125,0.591,319.55,104.3,2015
-263,14-May,14-Jul,14-May,139,Uzbekistan,139,129,0.841,0.05,0.043,,,,2440.95,95.7,2015
-264,14-May,14-Jul,14-May,140,Vanuatu,140,130,,,,,,,,93.8,2015
-265,14-May,14-Oct,14-Oct,141,Venezuela,141,131,0.96,0.041,0.051,0.323,0.12,0.557,1386.41,96.2,2015
-266,N/A,N/A,N/A,143,Wallis and Futuna,143,132,,,,,,,,,2015
-267,14-May,14-Jul,14-May,144,West Bank and the Gaza Strip,144,133,,,,,,,,96.9,2015
-268,N/A,N/A,N/A,145,Western Sahara,145,134,,,,,,,,,2015
-269,14-May,14-Jul,14-May,146,Yemen,146,135,0.68,0.103,0.136,0.7,0.022,0.278,8348.66,69.2,2015
-270,14-May,14-Jul,14-May,147,Zambia,147,136,0.652,0.276,0.281,0.918,0.012,0.07,9927.22,81,2015
-271,14-May,14-Jul,14-Jul,148,Zimbabwe,148,137,,,,,,,,89.2,2015
-272,14-May,14-Jul,14-May,149,Afghanistan,1,138,0.418,0.046,0.075,,,,6739.49,,2014
-273,14-May,14-Jul,14-May,150,Albania,2,139,0.925098415,0.052431843,0.045686205,0.874708223,0.028846253,0.096445524,236.65,,2014
-274,,,,151,Algeria,3,140,,,,,,,,100.2,2014
-275,14-May,14-Jul,14-May,152,Angola,4,141,0.654,0.221,0.257,,,,6944.58,54.3,2014
-276,,,,153,Anguilla,5,142,,,,,,,,78.7,2014
-277,14-May,14-Jul,14-May,154,Argentina,6,143,0.989,0.067,0.065,,,,3958.69,109.3,2014
-278,14-May,14-Jul,14-May,155,Armenia,7,144,0.8983,0.099,0.081,,,,304.938745,100.1,2014
-279,14-Jun,14-Jul,14-May,156,Azerbaijan,8,145,0.943,0.0485,0.045,0.919,0.008,0.072,700.335,92,2014
-280,,,,157,Bahrain,9,146,,,,,,,,,2014
-281,14-May,14-Jul,14-May,158,Bangladesh,10,147,0.811944552,0.0682,0.101,0.45547939,0.185,0.36,37175.4,74.6,2014
-282,14-May,14-Jul,14-May,159,Belize,11,148,0.935,0.089035523,0.083,,,,69.3395,116.1,2014
-283,14-May,14-Jul,14-May,160,Benin,12,149,0.71,0.163,0.209,,,,6800.04,70.5,2014
-284,14-May,14-Jul,14-May,161,Bhutan,13,150,0.847021664,0.033,0.038,,,,63.3811,101.3,2014
-285,14-Jul,14-Jul,14-Jul,162,Bolivia,14,151,0.962,0.187,0.202,0.709402611,0.079,0.212,3885.41,92.3,2014
-286,14-May,14-Jul,14-May,163,Bosnia and Herzegovina,15,152,0.837,0.106,0.089,,,,440.17,,2014
-287,,,,164,Botswana,16,153,,,,,,,,94.7,2014
-288,14-May,14-Jul,14-May,165,Brazil,17,154,0.971642305,0.040450198,0.034751169,0.5643,0.0986,0.3371,11164.99,,2014
-289,,,,166,British Indian Ocean Territories,18,155,,,,,,,,,2014
-290,,,,167,British Virgin Islands,19,156,,,,,,,,,2014
-291,14-May,14-Jul,14-May,168,Burkina Faso,20,157,0.419064043,0.217152346,0.421,,,,21167.518,57.6,2014
-292,14-May,14-Jul,14-May,170,Burundi,22,158,0.6087,0.2603,0.2717,,,,6331.2611,62.2,2014
-293,14-May,14-Jul,14-May,186,C,38,173,0.635,0.215,0.315,,,,16827.5384,61.2,2014
-294,14-May,14-Oct,14-Oct,171,Cabo Verde,23,159,0.901,0.0173,0.032,0.792,0.072,0.137,23.92,99,2014
-295,14-May,14-Jul,14-May,172,Cambodia,24,160,0.854,0.091,0.094,0.621,0.157,0.222,2765.828,98.1,2014
-296,14-May,14-Jul,14-May,173,Cameroon,25,161,0.797,0.527173788,0.562,,,,,72.8,2014
-297,14-May,14-Jul,14-May,174,Central African Republic,26,162,0.631,0.28,0.31,,,,3737.416,45.3,2014
-298,14-May,14-Jul,14-May,175,Chad,27,163,0.477,0.184,0.296,,,,10732.823,35.3,2014
-299,14-May,14-Jul,14-May,176,Chile,28,164,0.995,0.045,0.038,0.293,0.103,0.604,940.25,97.3,2014
-300,,,,178,Christmas Island,30,165,,,,,,,,,2014
-301,,,,179,Cocos (Keeling) Islands,31,166,,,,,,,,,2014
-302,14-May,14-Jul,14-May,180,Colombia,32,167,0.932180174,0.059261483,0.059284256,0.391722311,0.201772425,0.406505264,5140.93,105,2014
-303,14-May,14-Jul,14-May,181,Comoros,33,168,0.815,0.208,0.23,,,,421.4468,79.8,2014
-304,14-May,14-Jul,14-May,182,"Congo, Democratic Republic of the",34,169,0.671055307,0.162378167,0.169337389,,,,33278.059,72.8,2014
-305,14-May,14-Jul,14-May,183,"Congo, Republic of the",35,170,0.902,0.299,0.279,,,,2861.37,73,2014
-306,,,,184,Cook Islands,36,171,,,,,,,,,2014
-307,14-May,14-Jul,14-May,185,Costa Rica,37,172,0.922,0.042,0.044,,,,344.9368,95.2,2014
-308,14-May,14-Jul,14-May,187,Djibouti,39,174,0.674,0.102,0.123,,,,236.93,52,2014
-309,,,,188,Dominica,40,175,,,,,,,,104,2014
-310,14-May,14-Oct,14-Oct,189,Dominican Republic,41,176,0.961216067,0.04828533,0.053,0.291066545,0.085,0.624393801,548.5,90.3,2014
-311,14-May,14-Jul,14-May,190,Ecuador,42,177,0.968592641,0.024301536,0.027229398,0.709851685,0.080519147,0.209629168,756.8866,110.9,2014
-312,14-Jun,14-Jul,14-May,191,Egypt,43,178,0.881,0.063,0.067,,,,9934.17,107,2014
-313,14-May,14-Jul,14-May,192,El Salvador,44,179,0.922,0.061541602,0.063,0.5597,0.1041,0.3362,849.27,101,2014
-314,,,,193,Eritrea,45,180,,,,,,,,31.2,2014
-315,14-May,14-Jul,14-May,194,Ethiopia,46,181,0.54,0.1695,0.22,,,,55453.19,47.4,2014
-316,,,,195,Falkland Islands (Islas Malvinas),47,182,,,,,,,,,2014
-317,,,,196,Fiji,48,183,,,,,,,,103.6,2014
-318,14-May,14-Jul,14-May,197,Gabon,49,184,0.944,0.233,0.223,,,,830.7348,,2014
-319,14-May,14-Jul,14-May,198,Gambia,50,185,0.657,0.296,0.364,,,,1809.54,70.3,2014
-320,14-May,14-Jul,14-May,199,Georgia,51,186,0.921,0.315,0.291,,,,1723.78,108.1,2014
-321,14-May,14-Jul,14-May,200,Ghana,52,187,0.831,0.398,0.435,,,,27315.96,98.5,2014
-322,,,,201,Grenada,53,188,,,,,,,,,2014
-323,14-Jul,14-Jul,14-Jul,202,Guatemala,54,189,0.901,0.146,0.192,0.671,0.084,0.245,5975.61,87.7,2014
-324,14-May,14-Jul,14-May,203,Guinea,56,190,0.496,0.192,0.323,,,,11520.636,61.5,2014
-325,14-May,14-Jul,14-May,204,Guinea-Bissau,55,191,0.569,0.346,0.473,,,,2197.34,64,2014
-326,14-May,14-Jul,14-May,205,Guyana,57,192,0.945,0.232,0.23,,,,447.87,85.3,2014
-327,14-May,14-Jul,14-May,206,Haiti,58,193,0.924,0.349,0.344,,,,8159.931,,2014
-328,,,,207,Heard and McDonald Islands,59,194,,,,,,,,,2014
-329,14-May,14-Jul,14-May,208,Honduras,60,195,0.846424869,0.044,0.078,0.653,0.123,0.224,1535.3554,100.1,2014
-330,14-May,14-Jul,14-May,209,India,61,196,0.907,0.003,0.014,0.564235446,0.331,0.104,32532.016,96.5,2014
-331,14-Oct,14-Oct,14-Oct,210,Indonesia,62,197,0.924,0.021,0.037,0.6159,0.12,0.2646,8163.63,104.5,2014
-332,,,,211,Iran,63,198,,,,,,,,,2014
-333,14-May,14-Jul,14-May,212,Iraq,64,199,0.75008971,0.042373395,0.053174021,,,,4543.3,66.3,2014
-334,14-May,14-Jul,14-May,213,Jamaica,65,200,0.994,0.062,0.054,,,,282.9792,88,2014
-335,14-May,14-Jul,14-May,214,Jordan,66,201,0.949,0.007,0.008,0.405,0.112,0.484,112.55,92.8,2014
-336,14-May,14-Jul,14-May,215,Kazakhstan,67,202,0.907,0.036,0.032,,,,796.9,102.2,2014
-337,14-May,14-Jul,14-Jun,216,Kenya,68,203,0.749,0.3233,0.325,,,,29433.1,90.7,2014
-338,,,,217,Kiribati,69,204,,,,,,,,115.2,2014
-339,,,,218,Kosovo,70,205,,,,,,,,,2014
-340,14-May,14-Jul,14-May,219,Kyrgyz Republic,71,206,0.84,0.048,0.045,,,,483.05,97.7,2014
-341,,,,220,Lebanon,72,207,,,,,,,,86.2,2014
-342,14-May,14-Jul,14-May,221,Lesotho,73,208,0.807,0.253,0.281,,,,1246.323,72.5,2014
-343,14-May,14-Jul,14-May,222,Liberia,74,209,0.75931631,0.140048327,0.165611788,0.784194696,0.04225203,0.173959637,1363.401,65.2,2014
-344,14-May,14-Jul,14-May,223,Macedonia,75,210,0.868,0.194587119,0.183,,,,441.6058,74.5,2014
-345,14-May,14-Jul,14-May,224,Madagascar,76,211,0.691,0.154,0.221,0.874,0.042,0.084,12069.92,69.5,2014
-346,14-May,14-Jul,14-May,225,Malawi,77,212,0.813,0.222436351,0.206,,,,8853.328,74.2,2014
-347,14-May,14-Jul,14-May,227,Maldives,79,213,0.7945,0.0397,0.039,,,,23.642094,109.9,2014
-348,14-May,14-Jul,14-May,228,Mali,80,214,0.46,0.134,0.251,,,,12162.997,58.7,2014
-349,14-May,14-Jul,14-May,229,Mauritania,81,215,0.486,0.108,0.182,,,,1729.36,68.7,2014
-350,,,,230,Mauritius,82,216,,,,,,,,99.3,2014
-351,14-May,14-Jul,14-May,232,"Moldova, Republic of",84,217,0.920988534,0.289636122,0.242773309,0.972649128,0.005625209,0.021725663,1021.047,89.6,2014
-352,14-May,14-Jul,14-May,233,Mongolia,85,218,0.876262947,0.150998062,0.137591567,0.858116689,0.024895781,0.11698753,602.4567,130.2,2014
-353,14-May,14-Jul,14-May,234,Montenegro,86,219,0.877,0.144,0.129,,,,128.67,101,2014
-354,,,,235,Montserrat,87,220,,,,,,,,,2014
-355,14-Jun,14-Oct,14-Oct,236,Morocco,88,221,0.829,0.007,0.045,,,,1501.78,98.9,2014
-356,14-May,14-Jul,14-May,237,Mozambique,89,222,0.695,0.224,0.225,,,,15265.5977,52.2,2014
-357,,,,238,Namibia,90,223,,,,,,,,85.4,2014
-358,14-May,14-Jul,14-May,239,Nepal,91,224,0.895479865,0.351627337,0.33669431,0.888284309,0.080743517,0.030972174,20971.628,99.8,2014
-359,14-May,14-Oct,14-Oct,240,Nicaragua,92,225,0.87771058,0.252731188,0.310946624,0.578,0.087,0.335,2188.9179,80.4,2014
-360,14-Jul,14-Jul,14-May,241,Niger,93,226,0.48,0.221,0.429,,,,25161.914,49.3,2014
-361,14-May,14-Jul,14-May,242,Nigeria,94,227,0.762321014,0.26840873,0.311,,,,139247.39,76,2014
-362,,,,243,Niue,95,228,,,,,,,,115.4,2014
-363,,,,244,Norfolk Island,96,229,,,,,,,,,2014
-364,,,,246,Oman,98,230,,,,,,,,103.7,2014
-365,14-May,14-Oct,14-Oct,247,Pakistan,99,231,0.722786848,0.016317361,0.129981497,0.760490798,0.093248151,0.145888107,24494.8,71.9,2014
-366,14-May,14-Jul,14-May,248,Panama,100,232,0.952,0.037,0.037,0.656,0.063,0.28,255.45,97.7,2014
-367,,,,249,Papua New Guinea,101,233,,,,,,,,78.1,2014
-368,14-May,14-Oct,14-Oct,250,Paraguay,102,234,0.903,0.121,0.153,0.608,0.071,0.321,1130.72,86,2014
-369,14-Jun,14-Jul,14-Jun,251,Peru,103,235,0.794,0.14433219,0.193833363,,,,10146.88,91,2014
-370,14-May,14-Jul,14-May,252,Philippines,104,236,0.937,0.077875552,0.075020066,0.541442276,0.053,0.405,15496.7663,91.3,2014
-371,,,,253,Pitcairn Islands,105,237,,,,,,,,,2014
-372,,,,254,Russia,106,238,,,,,,,,97.1,2014
-373,14-May,14-Jul,14-May,255,Rwanda,107,239,0.791,0.175694591,0.161,,,,4821.803,57.7,2014
-374,14-May,14-Jul,14-May,260,S,111,244,0.688,0.137,0.154,,,,62.18,104,2014
-375,,,,256,"Saint Helena, Ascensi",108,240,,,,,,,,,2014
-376,14-May,14-Jul,14-May,257,Saint Lucia,109,241,0.997,0.082,0.075,,,,20.17215,91.6,2014
-377,,,,258,Saint Vincent and the Grenadines,110,242,,,,,,,,98.9,2014
-378,,,,259,Samoa,112,243,,,,,,,,102.4,2014
-379,14-May,14-Jul,14-May,261,Senegal,113,245,0.548,0.051993164,0.102865384,0.859287105,0.031861133,0.108851761,3771.476,60.5,2014
-380,14-May,14-Jul,14-May,262,Serbia,114,246,0.925,0.067,0.06,,,,540.45,93.2,2014
-381,,,,263,Seychelles,115,247,,,,,,,,104.5,2014
-382,14-May,14-Jul,14-May,264,Sierra Leone,116,248,0.67,0.433,0.513,,,,8971.424,72.4,2014
-383,,,,265,Solomon Islands,117,249,,,,,,,,85.4,2014
-384,14-May,14-Jul,14-May,266,Somalia,118,250,0.489,0.202,0.398,,,,10128.63,,2014
-385,,,,267,South Africa,119,251,,,,,,,,98.5,2014
-386,14-Jun,14-Oct,14-Oct,268,South Sudan,120,252,0.315,0.109,0.456,0.602,0.016,0.382,4636.24,37.4,2014
-387,14-May,14-Jul,14-May,269,Sri Lanka,122,253,0.978,0.104,0.0917,0.6697,0.1598,0.171,3028.6463,96.9,2014
-388,14-May,14-Jul,14-May,270,Suriname,123,254,0.95788079,0.06601695,0.064453925,,,,66.71261,87.7,2014
-389,14-May,14-Jul,14-May,271,Swaziland,124,255,0.925402987,0.129909598,0.117297586,,,,353.68022,76.8,2014
-390,14-May,14-Jul,14-May,273,Tanzania,126,256,0.741,0.216372927,0.251,,,,31574.424,80.8,2014
-391,14-May,14-Jul,14-May,274,Thailand,127,257,0.963,0.144,0.13,,,,13022.67,,2014
-392,14-Jul,14-Oct,14-Oct,275,Timor-Leste,128,258,0.697,0.126,0.199,0.976,0.014,0.01,262.68,71,2014
-393,14-May,14-Jul,14-May,276,Togo,129,259,0.853,0.354907412,0.357,,,,6161.323,77.4,2014
-394,,,,277,Tokelau,130,260,,,,,,,,,2014
-395,,,,278,Tonga,131,261,,,,,,,,98.6,2014
-396,14-May,14-Jul,14-May,279,Tunisia,132,262,0.942,0.028,0.03,,,,503.6421,101.7,2014
-397,14-Jun,14-Jun,14-Jun,280,Turkey,133,263,0.924,0.016,0.026,0.571,0.158,0.271,3202.544,101.4,2014
-398,,,,282,Tuvalu,135,264,,,,,,,,99.2,2014
-399,14-May,14-Jul,14-May,283,Uganda,136,265,0.887,0.343622919,0.309,0.954014793,0.015441196,0.030544011,30341.262,53.1,2014
-400,14-May,14-Jul,14-May,284,Ukraine,137,266,0.965,0.05,0.044,,,,1827.141,102.8,2014
-401,14-May,14-Jul,14-May,285,Uruguay,138,267,0.978,0.065,0.061,0.284,0.125,0.591,319.5465,104.3,2014
-402,14-May,14-Jul,14-May,286,Uzbekistan,139,268,0.841,0.05,0.043,,,,2440.95,91.8,2014
-403,,,,287,Vanuatu,140,269,,,,,,,,83.6,2014
-404,14-May,14-Oct,14-Oct,288,Venezuela,141,270,0.96,0.041,0.051,0.323419558,0.12,0.556595642,1386.41,96,2014
-405,,,,290,Wallis and Futuna,143,271,,,,,,,,,2014
-406,,,,291,West Bank and the Gaza Strip,144,272,,,,,,,,90.2,2014
-407,,,,292,Western Sahara,145,273,,,,,,,,,2014
-408,14-May,14-Jul,14-May,293,Yemen,146,274,0.679614436,0.103013145,0.135694494,0.699946631,0.022144539,0.27790883,8348.658,69.8,2014
-409,14-May,14-Jul,14-May,294,Zambia,147,275,0.652,0.276,0.281,0.918,0.012,0.07,9927.21681,91.3,2014
-410,,,,295,Zimbabwe,148,276,,,,,,,,,2014
+,Unnamed: 0,age_range_of_children_attending_school,age_range_of_children_working_and_studying,age_range_of_working_children,assessment_id,country,country_id,id,percent_of_children_attending_school,percent_of_children_working_and_studying,percent_of_working_children,percent_of_working_children_agriculture,percent_of_working_children_industry,percent_of_working_children_services,population_of_working_children,primary_completion_rate,year
+0,0,14-May,14-Jul,14-May,1105,Afghanistan,1,277,0.418,0.046,0.075,,,,673949,,2016
+1,1,14-May,14-Jul,14-May,1106,Albania,2,278,0.925,0.052,0.046,0.875,0.029,0.096,23665,1.064,2016
+2,2,14-May,14-Jul,14-May,1107,Algeria,3,279,0.923,0.072,0.067,,,,413729,1.058,2016
+3,3,14-May,14-Jul,14-May,1108,Angola,4,280,0.654,0.221,0.257,,,,694458,0.497,2016
+4,4,14-May,14-Jul,14-May,1109,Anguilla,5,281,,,,,,,,,2016
+5,5,14-May,14-Jul,14-May,1110,Argentina,6,282,0.985,0.048,0.042,,,,258286,1.018,2016
+6,6,14-May,14-Jul,14-May,1111,Armenia,7,283,0.954,0.086,0.07,0.939,0.005,0.057,24602,0.991,2016
+7,7,14-Jun,14-Jul,14-May,1112,Azerbaijan,8,284,0.943,0.049,0.045,0.919,0.008,0.072,70034,1.033,2016
+8,8,14-May,14-Jul,14-May,1113,Bahrain,9,285,,,,,,,,,2016
+9,9,14-May,14-Jul,14-May,1114,Bangladesh,10,286,0.894,0.019,0.043,0.397,0.294,0.309,1326411,0.985,2016
+10,10,14-May,14-Jul,14-May,1115,Belize,11,287,0.945,0.012,0.016,0.246,0.105,0.649,1405,1.044,2016
+11,11,14-May,14-Jul,14-May,1116,Benin,12,288,0.71,0.163,0.209,,,,680004,0.78,2016
+12,12,14-May,14-Jul,14-May,1117,Bhutan,13,289,0.847,0.033,0.038,,,,6338,0.97,2016
+13,13,14-May,14-Jul,14-Jul,1118,Bolivia,14,290,0.937,0.187,0.202,0.79,0.074,0.136,355206,0.905,2016
+14,14,14-May,14-Jul,14-May,1119,Bosnia and Herzegovina,15,291,0.837,0.106,0.089,,,,44017,,2016
+15,15,14-May,14-Jul,14-May,1120,Botswana,16,292,,,,,,,,0.997,2016
+16,16,14-May,14-Jul,14-May,1121,Brazil,17,293,0.978,0.034,0.029,0.556,0.104,0.339,897018,,2016
+17,17,14-May,14-Jul,14-May,1122,British Virgin Islands,19,294,,,,,,,,0.881,2016
+18,18,14-May,14-Jul,14-May,1123,Burkina Faso,20,295,0.419,0.217,0.421,,,,2116752,0.616,2016
+19,19,14-May,14-Jul,14-May,1124,Burma,21,296,,,,,,,,0.851,2016
+20,20,14-May,14-Jul,14-May,1125,Burundi,22,297,0.609,0.26,0.272,,,,633126,0.617,2016
+21,21,14-May,14-Jul,14-May,1140,C,38,312,0.635,0.215,0.315,,,,1682754,0.63,2016
+22,22,14-May,14-Oct,14-Oct,1126,Cabo Verde,23,298,0.901,0.017,0.032,0.792,0.072,0.137,2392,1.022,2016
+23,23,14-May,14-Jul,14-May,1127,Cambodia,24,299,0.854,0.091,0.094,0.621,0.157,0.222,276583,0.952,2016
+24,24,14-May,14-Jul,14-May,1128,Cameroon,25,300,0.797,0.527,0.562,,,,,0.739,2016
+25,25,14-May,14-Jul,14-May,1129,Central African Republic,26,301,0.631,0.28,0.31,,,,373742,0.444,2016
+26,26,14-May,14-Jul,14-May,1130,Chad,27,302,0.495,0.284,0.488,,,,,0.381,2016
+27,27,14-May,14-Jul,14-May,1131,Chile,28,303,0.995,0.045,0.038,0.293,0.103,0.604,94025,0.95,2016
+28,28,,,,1132,Christmas Island,30,304,,,,,,,,,2016
+29,29,,,,1133,Cocos (Keeling) Islands,31,305,,,,,,,,,2016
+30,30,14-May,14-Jul,14-May,1134,Colombia,32,306,0.947,0.048,0.046,0.436,0.154,0.41,392515,1.005,2016
+31,31,14-May,14-Jul,14-May,1135,Comoros,33,307,0.815,0.208,0.23,,,,42145,0.764,2016
+32,32,14-May,14-Jul,14-May,1136,"Congo, Democratic Republic of the",34,308,0.773,0.371,0.358,,,,,0.668,2016
+33,33,14-May,14-Jul,14-May,1137,"Congo, Republic of the",35,309,0.902,0.299,0.279,,,,286137,0.743,2016
+34,34,14-May,14-Jul,14-May,1138,Cook Islands,36,310,,,,,,,,0.938,2016
+35,35,14-May,14-Jul,14-May,1139,Costa Rica,37,311,0.922,0.042,0.044,,,,34494,0.995,2016
+36,36,14-May,14-Jul,14-May,1141,Djibouti,39,313,0.674,0.102,0.123,,,,23693,0.643,2016
+37,37,14-May,14-Jul,14-May,1142,Dominica,40,314,,,,,,,,1.111,2016
+38,38,14-Oct,14-Oct,14-Oct,1143,Dominican Republic,41,315,0.984,0.02,0.021,0.281,0.086,0.634,21968,0.942,2016
+39,39,14-May,14-Jul,14-May,1144,Ecuador,42,316,0.975,0.038,0.035,0.823,0.039,0.138,115930,1.088,2016
+40,40,14-Oct,14-Oct,14-Oct,1145,Egypt,43,317,0.938,0.013,0.029,0.532,0.165,0.304,246179,1.038,2016
+41,41,14-May,14-Jul,14-May,1146,El Salvador,44,318,0.923,0.061,0.059,0.475,0.142,0.382,68431,1.046,2016
+42,42,14-May,14-Jul,14-May,1147,Eritrea,45,319,,,,,,,,0.391,2016
+43,43,14-May,14-Jul,14-May,1148,Ethiopia,46,320,0.54,0.17,0.22,,,,5545319,0.537,2016
+44,44,,,,1149,Falkland Islands (Islas Malvinas),47,321,,,,,,,,,2016
+45,45,14-May,14-Jul,14-May,1150,Fiji,48,322,,,,,,,,1.064,2016
+46,46,14-May,14-Jul,14-May,1151,Gabon,49,323,0.944,0.233,0.223,,,,83073,,2016
+47,47,14-May,14-Jul,14-May,1152,Gambia,50,324,0.657,0.296,0.364,,,,180954,0.705,2016
+48,48,14-May,14-Jul,14-May,1153,Georgia,51,325,0.969,0.037,0.029,0.955,0.023,0.022,13547,1.207,2016
+49,49,14-May,14-Jul,14-May,1154,Ghana,52,326,0.917,0.253,0.247,0.787,0.037,0.176,1721914,1.011,2016
+50,50,,,,1155,Grenada,53,327,,,,,,,,,2016
+51,51,14-Jul,14-Jul,14-Jul,1156,Guatemala,54,328,0.899,0.035,0.063,0.588,0.093,0.32,193917,0.866,2016
+52,52,14-May,14-Jul,14-May,1157,Guinea,56,329,0.496,0.192,0.323,,,,1152064,0.618,2016
+53,53,14-May,14-Jul,14-May,1158,Guinea-Bissau,55,330,0.681,0.484,0.574,,,,,0.622,2016
+54,54,14-May,14-Jul,14-May,1159,Guyana,57,331,0.971,0.221,0.201,,,,,0.841,2016
+55,55,14-May,14-Jul,14-May,1160,Haiti,58,332,0.924,0.349,0.344,,,,815993,,2016
+56,56,14-May,14-Jul,14-May,1161,Honduras,60,333,0.877,0.061,0.086,0.575,0.103,0.322,158891,0.925,2016
+57,57,14-May,14-Jul,14-May,1162,India,61,334,0.907,0.003,0.014,0.564,0.331,0.104,3253202,0.975,2016
+58,58,14-Oct,14-Oct,14-Oct,1163,Indonesia,62,335,0.924,0.021,0.037,0.616,0.12,0.265,816363,1.029,2016
+59,59,14-May,14-Jul,14-May,1164,Iraq,64,336,0.75,0.042,0.053,,,,454330,0.667,2016
+60,60,14-May,14-Jul,14-May,1165,Jamaica,65,337,0.994,0.062,0.054,,,,28298,,2016
+61,61,14-May,14-Jul,14-May,1166,Jordan,66,338,0.949,0.007,0.008,0.405,0.112,0.484,11255,0.91,2016
+62,62,14-May,14-Jul,14-May,1167,Kazakhstan,67,339,0.907,0.036,0.032,,,,76690,1.092,2016
+63,63,14-May,14-Jul,14-May,1168,Kenya,68,340,0.858,0.23,0.356,,,,3736030,1.052,2016
+64,64,14-May,14-Jul,14-May,1169,Kiribati,69,341,,,,,,,,1.124,2016
+65,65,14-May,14-Jul,14-May,1170,Kosovo,70,342,0.954,0.131,0.117,,,,324764,,2016
+66,66,14-May,14-Jul,14-May,1171,Kyrgyz Republic,71,343,0.865,0.41,0.339,0.99,0.003,0.008,397407,1.05,2016
+67,67,14-May,14-Jul,14-May,1172,Lebanon,72,344,,,,,,,,0.719,2016
+68,68,14-May,14-Jul,14-May,1173,Lesotho,73,345,0.807,0.253,0.281,,,,124632,0.768,2016
+69,69,14-May,14-Jul,14-May,1174,Liberia,74,346,0.759,0.14,0.166,0.784,0.042,0.174,136340,0.588,2016
+70,70,14-May,14-Jul,14-May,1175,Macedonia,75,347,0.868,0.195,0.183,,,,44161,0.883,2016
+71,71,14-May,14-Jul,14-May,1176,Madagascar,76,348,0.691,0.154,0.221,0.874,0.042,0.084,1206992,0.693,2016
+72,72,14-May,14-Jul,14-May,1177,Malawi,77,349,0.896,0.391,0.34,,,,,0.793,2016
+73,73,14-May,14-Jul,14-May,1178,Maldives,79,350,0.795,0.04,0.039,,,,2364,1.144,2016
+74,74,14-May,14-Jul,14-May,1179,Mali,80,351,0.46,0.134,0.251,,,,1216300,0.509,2016
+75,75,14-May,14-Jul,14-May,1180,Mauritania,81,352,0.535,0.082,0.125,,,,131552,0.683,2016
+76,76,14-May,14-Jul,14-May,1181,Mauritius,82,353,,,,,,,,1.011,2016
+77,77,14-May,14-Jul,14-May,1182,"Moldova, Republic of",84,354,0.921,0.29,0.243,0.973,0.006,0.022,102105,0.909,2016
+78,78,14-May,14-Jul,14-May,1183,Mongolia,85,355,0.876,0.151,0.138,,,,60246,0.983,2016
+79,79,14-May,14-Jul,14-May,1184,Montenegro,86,356,0.916,0.199,0.183,,,,77591,0.926,2016
+80,80,14-May,14-Jul,14-May,1185,Montserrat,87,357,,,,,,,,0.689,2016
+81,81,14-Jun,14-Oct,14-Oct,1186,Morocco,88,358,0.829,0.007,0.045,,,,150178,1.029,2016
+82,82,14-May,14-Jul,14-May,1187,Mozambique,89,359,0.695,0.224,0.225,,,,1526560,0.479,2016
+83,83,14-May,14-Jul,14-May,1188,Namibia,90,360,,,,,,,,0.865,2016
+84,84,14-May,14-Jul,14-May,1189,Nepal,91,361,0.917,0.391,0.372,,,,6755852,1.102,2016
+85,85,14-Oct,14-Oct,14-Oct,1190,Nicaragua,92,362,0.883,0.403,0.477,0.535,0.087,0.378,342076,0.854,2016
+86,86,14-Jul,14-Jul,14-May,1191,Niger,93,363,0.48,0.221,0.429,,,,2516191,0.69,2016
+87,87,14-May,14-Jul,14-May,1192,Nigeria,94,364,0.762,0.268,0.311,,,,13924739,0.76,2016
+88,88,14-May,14-Jul,14-May,1193,Niue,95,365,,,,,,,,,2016
+89,89,,,,1194,Norfolk Island,96,366,,,,,,,,,2016
+90,90,14-May,14-Jul,14-May,1195,Oman,98,367,,,,,,,,1.052,2016
+91,91,14-May,14-Jul,14-May,1196,Pakistan,99,368,,,,,,,,,2016
+92,92,14-May,14-Jul,14-May,1197,Panama,100,369,0.949,0.049,0.047,0.686,0.054,0.26,32858,1.02,2016
+93,93,14-May,14-Jul,14-May,1198,Papua New Guinea,101,370,,,,,,,,0.786,2016
+94,94,14-May,14-Oct,14-Oct,1199,Paraguay,102,371,0.942,0.095,0.104,0.55,0.104,0.346,72036,0.891,2016
+95,95,14-May,14-Jul,14-May,1200,Peru,103,372,0.976,0.25,0.218,0.638,0.061,0.302,1261484,0.994,2016
+96,96,14-May,14-Jul,14-May,1201,Philippines,104,373,0.937,0.078,0.075,0.541,0.053,0.405,1549677,1.01,2016
+97,97,14-Jun,14-Jul,14-Jun,1202,Rwanda,107,374,0.886,0.046,0.052,0.69,0.087,0.223,151257,0.605,2016
+98,98,14-May,14-Jul,14-May,1205,S,111,377,0.892,0.249,0.226,,,,,0.829,2016
+99,99,,,,1215,"Saint Helena, Ascensi",108,387,,,,,,,,,2016
+100,100,14-May,14-Jul,14-May,1203,Saint Lucia,109,375,0.997,0.082,0.075,,,,2017,1.076,2016
+101,101,14-May,14-Jul,14-May,1216,Saint Vincent and the Grenadines,110,388,,,,,,,,0.982,2016
+102,102,14-May,14-Jul,14-May,1204,Samoa,112,376,,,,,,,,1.035,2016
+103,103,14-May,14-Jul,14-May,1206,Senegal,113,378,0.53,0.139,0.223,,,,4255365,0.572,2016
+104,104,14-May,14-Jul,14-May,1207,Serbia,114,379,0.977,0.174,0.151,,,,725227,1.01,2016
+105,105,14-May,14-Jul,14-May,1208,Seychelles,115,380,,,,,,,,1.088,2016
+106,106,14-May,14-Jul,14-May,1209,Sierra Leone,116,381,0.67,0.433,0.513,,,,897142,0.66,2016
+107,107,14-May,14-Jul,14-May,1210,Solomon Islands,117,382,,,,,,,,0.886,2016
+108,108,14-May,14-Jul,14-May,1211,Somalia,118,383,,,,,,,,,2016
+109,109,14-May,14-Jul,14-Jul,1212,South Africa,119,384,,,,,,,,,2016
+110,110,14-Jun,14-Oct,14-Oct,1213,South Sudan,120,385,0.315,0.109,0.456,0.602,0.382,0.016,463624,0.367,2016
+111,111,14-May,14-Jul,14-May,1214,Sri Lanka,122,386,0.978,0.104,0.092,0.67,0.16,0.171,302865,0.98,2016
+112,112,14-May,14-Jul,14-May,1217,Suriname,123,389,0.958,0.066,0.064,,,,6671,0.946,2016
+113,113,14-May,14-Jul,14-May,1218,Swaziland,124,390,0.925,0.13,0.117,,,,35368,0.79,2016
+114,114,14-May,14-Jul,14-May,1219,Tanzania,126,391,0.743,0.246,0.293,0.941,0.01,0.049,3573467,0.737,2016
+115,115,14-May,14-Jul,14-May,1220,Thailand,127,392,0.963,0.144,0.13,,,,1302267,0.933,2016
+116,116,14-Jul,14-Oct,14-Oct,1221,Timor-Leste,128,393,0.697,0.126,0.199,0.976,0.014,0.01,26268,1.061,2016
+117,117,14-May,14-Jul,14-May,1222,Togo,129,394,0.861,0.295,0.296,,,,,0.843,2016
+118,118,14-May,14-Jul,14-May,1223,Tokelau,130,395,,,,,,,,,2016
+119,119,14-May,14-Jul,14-May,1224,Tonga,131,396,,,,,,,,1.109,2016
+120,120,14-May,14-Jul,14-May,1225,Tunisia,132,397,0.942,0.028,0.03,,,,50364,0.997,2016
+121,121,14-Jun,14-Jun,14-Jun,1226,Turkey,133,398,0.924,0.016,0.026,0.571,0.158,0.271,320254,0.998,2016
+122,122,14-May,14-Jul,14-May,1227,Tuvalu,135,399,,,,,,,,0.978,2016
+123,123,14-May,14-Jul,14-May,1228,Uganda,136,400,0.887,0.344,0.309,0.954,0.015,0.031,3034126,0.531,2016
+124,124,14-May,14-Jul,14-May,1229,Ukraine,137,401,0.965,0.05,0.044,,,,182714,1.104,2016
+125,125,14-May,14-Jul,14-May,1230,Uruguay,138,402,0.978,0.065,0.061,0.284,0.125,0.591,31955,1.033,2016
+126,126,14-May,14-Jul,14-May,1231,Uzbekistan,139,403,0.841,0.05,0.043,,,,244095,0.989,2016
+127,127,14-May,14-Jul,14-May,1232,Vanuatu,140,404,,,,,,,,0.938,2016
+128,128,14-Oct,14-Oct,14-Oct,1233,Venezuela,141,405,0.962,0.027,0.039,0.309,0.118,0.573,108124,0.952,2016
+129,129,,,,1234,Wallis and Futuna,143,406,,,,,,,,,2016
+130,130,14-May,14-Jul,14-May,1235,West Bank and the Gaza Strip,144,407,,,,,,,,0.955,2016
+131,131,,,,1236,Western Sahara,145,408,,,,,,,,,2016
+132,132,14-May,14-Jul,14-May,1237,Yemen,146,409,0.68,0.103,0.136,0.7,0.022,0.278,834866,0.692,2016
+133,133,14-May,14-Jul,14-May,1238,Zambia,147,410,0.652,0.276,0.281,0.918,0.012,0.07,992722,0.81,2016
+134,134,14-May,14-May,14-May,1239,Zimbabwe,148,411,,,,,,,,0.902,2016
+135,135,14-May,14-Jul,14-May,1,Afghanistan,1,1,0.418,0.046,0.075,,,,6739.49,,2015
+136,136,14-May,14-Jul,14-May,2,Albania,2,2,0.925,0.052,0.046,0.875,0.029,0.096,236.65,107.8,2015
+137,137,14-May,14-Jul,14-May,3,Algeria,3,3,,,,,,,,108.6,2015
+138,138,14-May,14-Jul,14-May,4,Angola,4,4,0.654,0.221,0.257,,,,6944.58,49.7,2015
+139,139,14-May,14-Jul,14-May,5,Anguilla,5,5,,,,,,,,,2015
+140,140,14-May,14-Jul,14-May,6,Argentina,6,6,0.985,0.048,0.042,,,,2582.86,100.9,2015
+141,141,14-May,14-Jul,14-May,7,Armenia,7,7,0.898,0.099,0.081,,,,304.94,100.1,2015
+142,142,14-Jun,14-Jul,14-May,8,Azerbaijan,8,8,0.943,0.049,0.045,0.919,0.008,0.072,700.34,98.1,2015
+143,143,14-May,14-Jul,14-May,9,Bahrain,9,9,,,,,,,,,2015
+144,144,14-May,14-Jul,14-May,10,Bangladesh,10,10,0.812,0.068,0.043,0.397,0.294,0.309,13264.11,73.5,2015
+145,145,14-May,14-Jul,14-May,11,Belize,11,11,0.945,0.012,0.016,0.246,0.105,0.649,14.05,102.1,2015
+146,146,14-May,14-Jul,14-May,12,Benin,12,12,0.71,0.163,0.209,,,,6800.04,76.3,2015
+147,147,14-May,14-Jul,14-May,13,Bhutan,13,13,0.847,0.033,0.038,,,,63.38,97,2015
+148,148,14-May,14-Jul,14-Jul,14,Bolivia,14,14,0.937,0.187,0.202,0.79,0.074,0.136,3552.06,96,2015
+149,149,14-May,14-Jul,14-May,15,Bosnia and Herzegovina,15,15,0.837,0.106,0.089,,,,440.17,,2015
+150,150,14-May,14-May,14-May,16,Botswana,16,16,,,,,,,,99.7,2015
+151,151,14-May,14-Jul,14-May,17,Brazil,17,17,0.976,0.031,0.027,0.553,0.093,0.354,8396.2,,2015
+152,152,,,,18,British Indian Ocean Territories,18,18,,,,,,,,,2015
+153,153,,,,19,British Virgin Islands,19,19,,,,,,,,,2015
+154,154,14-May,14-Jul,14-May,20,Burkina Faso,20,20,0.419,0.217,0.421,,,,21167.52,60.5,2015
+155,155,14-May,14-Jul,14-May,22,Burundi,22,21,0.609,0.26,0.272,,,,6331.26,66.6,2015
+156,156,14-May,14-Jul,14-May,38,C,38,36,0.635,0.215,0.315,,,,16827.54,56.9,2015
+157,157,14-May,14-Oct,14-Oct,23,Cabo Verde,23,22,0.901,0.017,0.032,0.792,0.072,0.137,23.92,99.8,2015
+158,158,14-May,14-Jul,14-May,24,Cambodia,24,23,0.854,0.091,0.094,0.621,0.157,0.222,2765.83,96.3,2015
+159,159,14-May,14-Jul,14-May,25,Cameroon,25,24,0.797,0.527,0.562,,,,,72.2,2015
+160,160,14-May,14-Jul,14-May,26,Central African Republic,26,25,0.631,0.28,0.31,,,,3737.42,44.4,2015
+161,161,14-May,14-Jul,14-May,27,Chad,27,26,0.477,0.184,0.296,,,,10732.82,38.1,2015
+162,162,14-May,14-Jul,14-May,28,Chile,28,27,0.995,0.045,0.038,0.293,0.103,0.604,940.25,96.6,2015
+163,163,,,,30,Christmas Island,30,28,,,,,,,,,2015
+164,164,,,,31,Cocos (Keeling) Islands,31,29,,,,,,,,,2015
+165,165,14-May,14-Jul,14-May,32,Colombia,32,30,0.947,0.048,0.046,0.436,0.154,0.41,3925.15,100.6,2015
+166,166,14-May,14-Jul,14-May,33,Comoros,33,31,0.815,0.208,0.23,,,,421.45,73.6,2015
+167,167,14-May,14-Jul,14-May,34,"Congo, Democratic Republic of the",34,32,0.671,0.162,0.169,,,,33278.06,66.8,2015
+168,168,14-May,14-Jul,14-May,35,"Congo, Republic of the",35,33,0.902,0.299,0.279,,,,2861.37,74.3,2015
+169,169,,,,36,Cook Islands,36,34,,,,,,,,103.5,2015
+170,170,14-May,14-Jul,14-May,37,Costa Rica,37,35,0.922,0.042,0.044,,,,344.94,98.7,2015
+171,171,14-May,14-Jul,14-May,39,Djibouti,39,37,0.674,0.102,0.123,,,,236.93,63.7,2015
+172,172,,,,40,Dominica,40,38,,,,,,,,,2015
+173,173,14-May,14-Oct,14-Oct,41,Dominican Republic,41,39,0.961,0.048,0.053,0.291,0.085,0.624,548.5,90.9,2015
+174,174,14-May,14-Jul,14-May,42,Ecuador,42,40,0.969,0.024,0.027,0.71,0.081,0.21,756.89,112.6,2015
+175,175,14-Jun,14-Jul,14-May,43,Egypt,43,41,0.881,0.063,0.067,,,,9934.17,103.8,2015
+176,176,14-May,14-Jul,14-May,44,El Salvador,44,42,0.924,0.066,0.065,0.503,0.122,0.375,807.04,106.8,2015
+177,177,14-May,14-Jul,14-May,45,Eritrea,45,43,,,,,,,,36.8,2015
+178,178,14-May,14-Jul,14-May,46,Ethiopia,46,44,0.54,0.17,0.22,,,,55453.19,47.4,2015
+179,179,,,,47,Falkland Islands (Islas Malvinas),47,45,,,,,,,,,2015
+180,180,14-May,14-Jul,14-May,48,Fiji,48,46,,,,,,,,102.9,2015
+181,181,14-May,14-Jul,14-May,49,Gabon,49,47,0.944,0.233,0.223,,,,830.73,,2015
+182,182,14-May,14-Jul,14-May,50,Gambia,50,48,0.657,0.296,0.364,,,,1809.54,67.3,2015
+183,183,14-May,14-Jul,14-May,51,Georgia,51,49,0.921,0.315,0.291,,,,1723.78,116.5,2015
+184,184,14-May,14-Jul,14-May,52,Ghana,52,50,0.917,0.253,0.247,0.787,0.037,0.176,17219.14,101.1,2015
+185,185,,,,53,Grenada,53,51,,,,,,,,94.5,2015
+186,186,14-Jul,14-Jul,14-Jul,54,Guatemala,54,52,0.884,0.079,0.106,0.644,0.103,0.253,3119.4,86.6,2015
+187,187,14-May,14-Jul,14-May,56,Guinea,56,53,0.496,0.192,0.323,,,,11520.64,49.5,2015
+188,188,14-May,14-Jul,14-May,55,Guinea-Bissau,55,54,0.569,0.346,0.473,,,,2197.34,62.2,2015
+189,189,14-May,14-Jul,14-May,57,Guyana,57,55,0.945,0.232,0.23,,,,447.87,84.1,2015
+190,190,14-May,14-Jul,14-May,58,Haiti,58,56,0.924,0.349,0.344,,,,8159.93,,2015
+191,191,,,,59,Heard and McDonald Islands,59,57,,,,,,,,,2015
+192,192,14-May,14-Jul,14-May,60,Honduras,60,58,0.846,0.044,0.078,0.653,0.123,0.224,1535.36,90.7,2015
+193,193,14-May,14-Jul,14-May,61,India,61,59,0.907,0.003,0.014,0.564,0.331,0.104,32532.02,96.2,2015
+194,194,14-Oct,14-Oct,14-Oct,62,Indonesia,62,60,0.924,0.021,0.037,0.616,0.12,0.265,8163.63,100.6,2015
+195,195,14-May,14-Jul,14-May,64,Iraq,64,61,0.75,0.042,0.053,,,,4543.3,66.7,2015
+196,196,14-May,14-Jul,14-May,65,Jamaica,65,62,0.994,0.062,0.054,0,0,0,282.98,96.6,2015
+197,197,14-May,14-Jul,14-May,66,Jordan,66,63,0.949,0.007,0.008,0.405,0.112,0.484,112.55,86,2015
+198,198,14-May,14-Jul,14-May,67,Kazakhstan,67,64,0.907,0.036,0.032,,,,796.9,113,2015
+199,199,14-May,14-Jul,14-Jun,68,Kenya,68,65,0.749,0.323,0.325,,,,29433.1,103.5,2015
+200,200,14-May,14-Jul,14-May,69,Kiribati,69,66,,,,,,,,112.4,2015
+201,201,14-May,14-Jul,14-May,70,Kosovo,70,67,,,,,,,,,2015
+202,202,14-May,14-Jul,14-May,71,Kyrgyz Republic,71,68,0.865,0.41,0.339,0.99,0.003,0.008,3974.07,105,2015
+203,203,14-May,14-Jul,14-May,72,Lebanon,72,69,,,,,,,,78.1,2015
+204,204,14-May,14-Jul,14-May,73,Lesotho,73,70,0.807,0.253,0.281,0,0,0,1246.32,75.7,2015
+205,205,14-May,14-Jul,14-May,74,Liberia,74,71,0.759,0.14,0.166,0.784,0.042,0.174,1363.4,58.8,2015
+206,206,14-May,14-Jul,14-May,75,Macedonia,75,72,0.868,0.195,0.183,,,,441.61,89.9,2015
+207,207,14-May,14-Jul,14-May,76,Madagascar,76,73,0.691,0.154,0.221,0.874,0.042,0.084,12069.92,68.8,2015
+208,208,14-May,14-Jul,14-May,77,Malawi,77,74,0.813,0.222,0.206,,,,8853.33,79.3,2015
+209,209,14-May,14-Jul,14-May,79,Maldives,79,75,0.795,0.04,0.039,,,,23.64,114.4,2015
+210,210,14-May,14-Jul,14-May,80,Mali,80,76,0.46,0.134,0.251,,,,12163,53.1,2015
+211,211,14-May,14-Jul,14-May,81,Mauritania,81,77,0.486,0.108,0.182,,,,1729.36,67.5,2015
+212,212,14-May,14-Jul,14-May,82,Mauritius,82,78,,,,,,,,97.5,2015
+213,213,14-May,14-Jul,14-May,84,"Moldova, Republic of",84,79,0.921,0.29,0.243,0.973,0.006,0.022,1021.05,93,2015
+214,214,14-May,14-Jul,14-May,85,Mongolia,85,80,0.876,0.151,0.138,0.858,0.025,0.117,602.46,109.9,2015
+215,215,14-May,14-Jul,14-May,86,Montenegro,86,81,0.877,0.144,0.129,,,,128.67,92.6,2015
+216,216,,,,87,Montserrat,87,82,,,,,,,,68.9,2015
+217,217,14-Jun,14-Oct,14-Oct,88,Morocco,88,83,0.829,0.007,0.045,,,,1501.78,101.7,2015
+218,218,14-May,14-Jul,14-May,89,Mozambique,89,84,0.695,0.224,0.225,,,,15265.6,47.6,2015
+219,219,14-May,14-Jul,14-May,90,Namibia,90,85,,,,,,,,86.5,2015
+220,220,14-May,14-Jul,14-May,91,Nepal,91,86,0.895,0.352,0.337,0.888,0.081,0.031,20971.63,105.7,2015
+221,221,14-Oct,14-Oct,14-Oct,92,Nicaragua,92,87,0.883,0.403,0.477,0.535,0.087,0.378,3420.76,85.4,2015
+222,222,14-Jul,14-Jul,14-May,93,Niger,93,88,0.48,0.221,0.429,,,,25161.91,58.6,2015
+223,223,14-May,14-Jul,14-May,94,Nigeria,94,89,0.762,0.268,0.311,,,,139247.39,76,2015
+224,224,,,,95,Niue,95,90,,,,,,,,,2015
+225,225,,,,96,Norfolk Island,96,91,,,,,,,,,2015
+226,226,14-May,14-Jul,14-Jul,98,Oman,98,92,,,,,,,,108.8,2015
+227,227,14-May,14-Oct,14-Oct,99,Pakistan,99,93,0.723,0.016,0.13,0.76,0.093,0.146,24494.8,73.7,2015
+228,228,14-May,14-Jul,14-May,100,Panama,100,94,0.949,0.049,0.047,0.686,0.054,0.26,328.58,102,2015
+229,229,14-May,14-Jul,14-May,101,Papua New Guinea,101,95,,,,,,,,78.6,2015
+230,230,14-May,14-Oct,14-Oct,102,Paraguay,102,96,0.942,0.095,0.104,0.55,0.104,0.346,720.36,89.1,2015
+231,231,14-May,14-Jul,14-May,103,Peru,103,97,0.793,0.194,0.228,,,,12971.06,95.9,2015
+232,232,14-May,14-Jul,14-May,104,Philippines,104,98,0.937,0.078,0.075,0.541,0.053,0.405,15496.77,101,2015
+233,233,,,,105,Pitcairn Islands,105,99,,,,,,,,,2015
+234,234,14-Jun,14-Jul,14-Jun,107,Rwanda,107,100,0.858,0.04,0.044,,,,1183.85,66.6,2015
+235,235,14-May,14-Jul,14-May,111,S,111,105,0.688,0.137,0.154,,,,62.18,92.4,2015
+236,236,,,,108,"Saint Helena, Ascensi",108,101,,,,,,,,,2015
+237,237,14-May,14-Jul,14-May,109,Saint Lucia,109,102,0.997,0.082,0.075,,,,20.17,107.6,2015
+238,238,14-May,14-Jul,14-May,110,Saint Vincent and the Grenadines,110,103,,,,,,,,100.5,2015
+239,239,14-May,14-Jul,14-May,112,Samoa,112,104,,,,,,,,100.5,2015
+240,240,14-May,14-Jul,14-May,113,Senegal,113,106,0.548,0.052,0.103,0.859,0.032,0.109,3771.48,59,2015
+241,241,14-May,14-Jul,14-May,114,Serbia,114,107,0.925,0.067,0.06,,,,540.45,101.9,2015
+242,242,14-May,14-Jul,14-May,115,Seychelles,115,108,,,,,,,,112.1,2015
+243,243,14-May,14-Jul,14-May,116,Sierra Leone,116,109,0.67,0.433,0.513,,,,8971.42,69.5,2015
+244,244,14-May,14-Jul,14-May,117,Solomon Islands,117,110,,,,,,,,87.3,2015
+245,245,14-May,14-Jul,14-May,118,Somalia,118,111,0.489,0.202,0.398,,,,10128.63,,2015
+246,246,14-May,14-Jul,14-Jul,119,South Africa,119,112,,,,0,0,0,,,2015
+247,247,14-Jun,14-Jun,14-Oct,120,South Sudan,120,113,0.315,0.109,0.456,0.602,0.016,0.382,4636.24,36.7,2015
+248,248,14-May,14-Jul,14-May,122,Sri Lanka,122,114,0.978,0.104,0.092,0.67,0.16,0.171,3028.65,98,2015
+249,249,14-May,14-Jul,14-May,123,Suriname,123,115,0.958,0.066,0.064,,,,66.71,93.7,2015
+250,250,14-May,14-Jul,14-May,124,Swaziland,124,116,0.925,0.13,0.117,,,,353.68,79,2015
+251,251,14-May,14-Jul,14-May,126,Tanzania,126,117,0.741,0.216,0.251,,,,31574.42,73.7,2015
+252,252,14-May,14-Jul,14-May,127,Thailand,127,118,0.963,0.144,0.13,,,,13022.67,,2015
+253,253,14-Jul,14-Oct,14-Oct,128,Timor-Leste,128,119,0.697,0.126,0.199,0.976,0.014,0.01,262.68,98.4,2015
+254,254,14-May,14-Jul,14-May,129,Togo,129,120,0.853,0.355,0.357,,,,6161.32,85.1,2015
+255,255,,,,130,Tokelau,130,121,,,,,,,,,2015
+256,256,14-May,14-Jul,14-May,131,Tonga,131,122,,,,,,,,110.9,2015
+257,257,14-May,14-Jul,14-May,132,Tunisia,132,123,0.942,0.028,0.03,,,,503.64,96.9,2015
+258,258,14-Jun,14-Jun,14-Jun,133,Turkey,133,124,0.924,0.016,0.026,0.571,0.158,0.271,3202.54,99.8,2015
+259,259,14-May,14-Jul,14-May,135,Tuvalu,135,125,,,,,,,,93.2,2015
+260,260,14-May,14-Jul,14-May,136,Uganda,136,126,0.887,0.344,0.309,0.954,0.015,0.031,30341.26,55.6,2015
+261,261,14-May,14-Jul,14-May,137,Ukraine,137,127,0.965,0.05,0.044,,,,1827.14,110.4,2015
+262,262,14-May,14-Jul,14-May,138,Uruguay,138,128,0.978,0.065,0.061,0.284,0.125,0.591,319.55,104.3,2015
+263,263,14-May,14-Jul,14-May,139,Uzbekistan,139,129,0.841,0.05,0.043,,,,2440.95,95.7,2015
+264,264,14-May,14-Jul,14-May,140,Vanuatu,140,130,,,,,,,,93.8,2015
+265,265,14-May,14-Oct,14-Oct,141,Venezuela,141,131,0.96,0.041,0.051,0.323,0.12,0.557,1386.41,96.2,2015
+266,266,,,,143,Wallis and Futuna,143,132,,,,,,,,,2015
+267,267,14-May,14-Jul,14-May,144,West Bank and the Gaza Strip,144,133,,,,,,,,96.9,2015
+268,268,,,,145,Western Sahara,145,134,,,,,,,,,2015
+269,269,14-May,14-Jul,14-May,146,Yemen,146,135,0.68,0.103,0.136,0.7,0.022,0.278,8348.66,69.2,2015
+270,270,14-May,14-Jul,14-May,147,Zambia,147,136,0.652,0.276,0.281,0.918,0.012,0.07,9927.22,81,2015
+271,271,14-May,14-Jul,14-Jul,148,Zimbabwe,148,137,,,,,,,,89.2,2015
+272,272,14-May,14-Jul,14-May,149,Afghanistan,1,138,0.418,0.046,0.075,,,,6739.49,,2014
+273,273,14-May,14-Jul,14-May,150,Albania,2,139,0.925098415,0.052431843,0.045686205,0.874708223,0.028846253,0.096445524,236.65,,2014
+274,274,,,,151,Algeria,3,140,,,,,,,,100.2,2014
+275,275,14-May,14-Jul,14-May,152,Angola,4,141,0.654,0.221,0.257,,,,6944.58,54.3,2014
+276,276,,,,153,Anguilla,5,142,,,,,,,,78.7,2014
+277,277,14-May,14-Jul,14-May,154,Argentina,6,143,0.989,0.067,0.065,,,,3958.69,109.3,2014
+278,278,14-May,14-Jul,14-May,155,Armenia,7,144,0.8983,0.099,0.081,,,,304.938745,100.1,2014
+279,279,14-Jun,14-Jul,14-May,156,Azerbaijan,8,145,0.943,0.0485,0.045,0.919,0.008,0.072,700.335,92,2014
+280,280,,,,157,Bahrain,9,146,,,,,,,,,2014
+281,281,14-May,14-Jul,14-May,158,Bangladesh,10,147,0.811944552,0.0682,0.101,0.45547939,0.185,0.36,37175.4,74.6,2014
+282,282,14-May,14-Jul,14-May,159,Belize,11,148,0.935,0.089035523,0.083,,,,69.3395,116.1,2014
+283,283,14-May,14-Jul,14-May,160,Benin,12,149,0.71,0.163,0.209,,,,6800.04,70.5,2014
+284,284,14-May,14-Jul,14-May,161,Bhutan,13,150,0.847021664,0.033,0.038,,,,63.3811,101.3,2014
+285,285,14-Jul,14-Jul,14-Jul,162,Bolivia,14,151,0.962,0.187,0.202,0.709402611,0.079,0.212,3885.41,92.3,2014
+286,286,14-May,14-Jul,14-May,163,Bosnia and Herzegovina,15,152,0.837,0.106,0.089,,,,440.17,,2014
+287,287,,,,164,Botswana,16,153,,,,,,,,94.7,2014
+288,288,14-May,14-Jul,14-May,165,Brazil,17,154,0.971642305,0.040450198,0.034751169,0.5643,0.0986,0.3371,11164.99,,2014
+289,289,,,,166,British Indian Ocean Territories,18,155,,,,,,,,,2014
+290,290,,,,167,British Virgin Islands,19,156,,,,,,,,,2014
+291,291,14-May,14-Jul,14-May,168,Burkina Faso,20,157,0.419064043,0.217152346,0.421,,,,21167.518,57.6,2014
+292,292,14-May,14-Jul,14-May,170,Burundi,22,158,0.6087,0.2603,0.2717,,,,6331.2611,62.2,2014
+293,293,14-May,14-Jul,14-May,186,C,38,173,0.635,0.215,0.315,,,,16827.5384,61.2,2014
+294,294,14-May,14-Oct,14-Oct,171,Cabo Verde,23,159,0.901,0.0173,0.032,0.792,0.072,0.137,23.92,99,2014
+295,295,14-May,14-Jul,14-May,172,Cambodia,24,160,0.854,0.091,0.094,0.621,0.157,0.222,2765.828,98.1,2014
+296,296,14-May,14-Jul,14-May,173,Cameroon,25,161,0.797,0.527173788,0.562,,,,,72.8,2014
+297,297,14-May,14-Jul,14-May,174,Central African Republic,26,162,0.631,0.28,0.31,,,,3737.416,45.3,2014
+298,298,14-May,14-Jul,14-May,175,Chad,27,163,0.477,0.184,0.296,,,,10732.823,35.3,2014
+299,299,14-May,14-Jul,14-May,176,Chile,28,164,0.995,0.045,0.038,0.293,0.103,0.604,940.25,97.3,2014
+300,300,,,,178,Christmas Island,30,165,,,,,,,,,2014
+301,301,,,,179,Cocos (Keeling) Islands,31,166,,,,,,,,,2014
+302,302,14-May,14-Jul,14-May,180,Colombia,32,167,0.932180174,0.059261483,0.059284256,0.391722311,0.201772425,0.406505264,5140.93,105,2014
+303,303,14-May,14-Jul,14-May,181,Comoros,33,168,0.815,0.208,0.23,,,,421.4468,79.8,2014
+304,304,14-May,14-Jul,14-May,182,"Congo, Democratic Republic of the",34,169,0.671055307,0.162378167,0.169337389,,,,33278.059,72.8,2014
+305,305,14-May,14-Jul,14-May,183,"Congo, Republic of the",35,170,0.902,0.299,0.279,,,,2861.37,73,2014
+306,306,,,,184,Cook Islands,36,171,,,,,,,,,2014
+307,307,14-May,14-Jul,14-May,185,Costa Rica,37,172,0.922,0.042,0.044,,,,344.9368,95.2,2014
+308,308,14-May,14-Jul,14-May,187,Djibouti,39,174,0.674,0.102,0.123,,,,236.93,52,2014
+309,309,,,,188,Dominica,40,175,,,,,,,,104,2014
+310,310,14-May,14-Oct,14-Oct,189,Dominican Republic,41,176,0.961216067,0.04828533,0.053,0.291066545,0.085,0.624393801,548.5,90.3,2014
+311,311,14-May,14-Jul,14-May,190,Ecuador,42,177,0.968592641,0.024301536,0.027229398,0.709851685,0.080519147,0.209629168,756.8866,110.9,2014
+312,312,14-Jun,14-Jul,14-May,191,Egypt,43,178,0.881,0.063,0.067,,,,9934.17,107,2014
+313,313,14-May,14-Jul,14-May,192,El Salvador,44,179,0.922,0.061541602,0.063,0.5597,0.1041,0.3362,849.27,101,2014
+314,314,,,,193,Eritrea,45,180,,,,,,,,31.2,2014
+315,315,14-May,14-Jul,14-May,194,Ethiopia,46,181,0.54,0.1695,0.22,,,,55453.19,47.4,2014
+316,316,,,,195,Falkland Islands (Islas Malvinas),47,182,,,,,,,,,2014
+317,317,,,,196,Fiji,48,183,,,,,,,,103.6,2014
+318,318,14-May,14-Jul,14-May,197,Gabon,49,184,0.944,0.233,0.223,,,,830.7348,,2014
+319,319,14-May,14-Jul,14-May,198,Gambia,50,185,0.657,0.296,0.364,,,,1809.54,70.3,2014
+320,320,14-May,14-Jul,14-May,199,Georgia,51,186,0.921,0.315,0.291,,,,1723.78,108.1,2014
+321,321,14-May,14-Jul,14-May,200,Ghana,52,187,0.831,0.398,0.435,,,,27315.96,98.5,2014
+322,322,,,,201,Grenada,53,188,,,,,,,,,2014
+323,323,14-Jul,14-Jul,14-Jul,202,Guatemala,54,189,0.901,0.146,0.192,0.671,0.084,0.245,5975.61,87.7,2014
+324,324,14-May,14-Jul,14-May,203,Guinea,56,190,0.496,0.192,0.323,,,,11520.636,61.5,2014
+325,325,14-May,14-Jul,14-May,204,Guinea-Bissau,55,191,0.569,0.346,0.473,,,,2197.34,64,2014
+326,326,14-May,14-Jul,14-May,205,Guyana,57,192,0.945,0.232,0.23,,,,447.87,85.3,2014
+327,327,14-May,14-Jul,14-May,206,Haiti,58,193,0.924,0.349,0.344,,,,8159.931,,2014
+328,328,,,,207,Heard and McDonald Islands,59,194,,,,,,,,,2014
+329,329,14-May,14-Jul,14-May,208,Honduras,60,195,0.846424869,0.044,0.078,0.653,0.123,0.224,1535.3554,100.1,2014
+330,330,14-May,14-Jul,14-May,209,India,61,196,0.907,0.003,0.014,0.564235446,0.331,0.104,32532.016,96.5,2014
+331,331,14-Oct,14-Oct,14-Oct,210,Indonesia,62,197,0.924,0.021,0.037,0.6159,0.12,0.2646,8163.63,104.5,2014
+332,332,,,,211,Iran,63,198,,,,,,,,,2014
+333,333,14-May,14-Jul,14-May,212,Iraq,64,199,0.75008971,0.042373395,0.053174021,,,,4543.3,66.3,2014
+334,334,14-May,14-Jul,14-May,213,Jamaica,65,200,0.994,0.062,0.054,,,,282.9792,88,2014
+335,335,14-May,14-Jul,14-May,214,Jordan,66,201,0.949,0.007,0.008,0.405,0.112,0.484,112.55,92.8,2014
+336,336,14-May,14-Jul,14-May,215,Kazakhstan,67,202,0.907,0.036,0.032,,,,796.9,102.2,2014
+337,337,14-May,14-Jul,14-Jun,216,Kenya,68,203,0.749,0.3233,0.325,,,,29433.1,90.7,2014
+338,338,,,,217,Kiribati,69,204,,,,,,,,115.2,2014
+339,339,,,,218,Kosovo,70,205,,,,,,,,,2014
+340,340,14-May,14-Jul,14-May,219,Kyrgyz Republic,71,206,0.84,0.048,0.045,,,,483.05,97.7,2014
+341,341,,,,220,Lebanon,72,207,,,,,,,,86.2,2014
+342,342,14-May,14-Jul,14-May,221,Lesotho,73,208,0.807,0.253,0.281,,,,1246.323,72.5,2014
+343,343,14-May,14-Jul,14-May,222,Liberia,74,209,0.75931631,0.140048327,0.165611788,0.784194696,0.04225203,0.173959637,1363.401,65.2,2014
+344,344,14-May,14-Jul,14-May,223,Macedonia,75,210,0.868,0.194587119,0.183,,,,441.6058,74.5,2014
+345,345,14-May,14-Jul,14-May,224,Madagascar,76,211,0.691,0.154,0.221,0.874,0.042,0.084,12069.92,69.5,2014
+346,346,14-May,14-Jul,14-May,225,Malawi,77,212,0.813,0.222436351,0.206,,,,8853.328,74.2,2014
+347,347,14-May,14-Jul,14-May,227,Maldives,79,213,0.7945,0.0397,0.039,,,,23.642094,109.9,2014
+348,348,14-May,14-Jul,14-May,228,Mali,80,214,0.46,0.134,0.251,,,,12162.997,58.7,2014
+349,349,14-May,14-Jul,14-May,229,Mauritania,81,215,0.486,0.108,0.182,,,,1729.36,68.7,2014
+350,350,,,,230,Mauritius,82,216,,,,,,,,99.3,2014
+351,351,14-May,14-Jul,14-May,232,"Moldova, Republic of",84,217,0.920988534,0.289636122,0.242773309,0.972649128,0.005625209,0.021725663,1021.047,89.6,2014
+352,352,14-May,14-Jul,14-May,233,Mongolia,85,218,0.876262947,0.150998062,0.137591567,0.858116689,0.024895781,0.11698753,602.4567,130.2,2014
+353,353,14-May,14-Jul,14-May,234,Montenegro,86,219,0.877,0.144,0.129,,,,128.67,101,2014
+354,354,,,,235,Montserrat,87,220,,,,,,,,,2014
+355,355,14-Jun,14-Oct,14-Oct,236,Morocco,88,221,0.829,0.007,0.045,,,,1501.78,98.9,2014
+356,356,14-May,14-Jul,14-May,237,Mozambique,89,222,0.695,0.224,0.225,,,,15265.5977,52.2,2014
+357,357,,,,238,Namibia,90,223,,,,,,,,85.4,2014
+358,358,14-May,14-Jul,14-May,239,Nepal,91,224,0.895479865,0.351627337,0.33669431,0.888284309,0.080743517,0.030972174,20971.628,99.8,2014
+359,359,14-May,14-Oct,14-Oct,240,Nicaragua,92,225,0.87771058,0.252731188,0.310946624,0.578,0.087,0.335,2188.9179,80.4,2014
+360,360,14-Jul,14-Jul,14-May,241,Niger,93,226,0.48,0.221,0.429,,,,25161.914,49.3,2014
+361,361,14-May,14-Jul,14-May,242,Nigeria,94,227,0.762321014,0.26840873,0.311,,,,139247.39,76,2014
+362,362,,,,243,Niue,95,228,,,,,,,,115.4,2014
+363,363,,,,244,Norfolk Island,96,229,,,,,,,,,2014
+364,364,,,,246,Oman,98,230,,,,,,,,103.7,2014
+365,365,14-May,14-Oct,14-Oct,247,Pakistan,99,231,0.722786848,0.016317361,0.129981497,0.760490798,0.093248151,0.145888107,24494.8,71.9,2014
+366,366,14-May,14-Jul,14-May,248,Panama,100,232,0.952,0.037,0.037,0.656,0.063,0.28,255.45,97.7,2014
+367,367,,,,249,Papua New Guinea,101,233,,,,,,,,78.1,2014
+368,368,14-May,14-Oct,14-Oct,250,Paraguay,102,234,0.903,0.121,0.153,0.608,0.071,0.321,1130.72,86,2014
+369,369,14-Jun,14-Jul,14-Jun,251,Peru,103,235,0.794,0.14433219,0.193833363,,,,10146.88,91,2014
+370,370,14-May,14-Jul,14-May,252,Philippines,104,236,0.937,0.077875552,0.075020066,0.541442276,0.053,0.405,15496.7663,91.3,2014
+371,371,,,,253,Pitcairn Islands,105,237,,,,,,,,,2014
+372,372,,,,254,Russia,106,238,,,,,,,,97.1,2014
+373,373,14-May,14-Jul,14-May,255,Rwanda,107,239,0.791,0.175694591,0.161,,,,4821.803,57.7,2014
+374,374,14-May,14-Jul,14-May,260,S,111,244,0.688,0.137,0.154,,,,62.18,104,2014
+375,375,,,,256,"Saint Helena, Ascensi",108,240,,,,,,,,,2014
+376,376,14-May,14-Jul,14-May,257,Saint Lucia,109,241,0.997,0.082,0.075,,,,20.17215,91.6,2014
+377,377,,,,258,Saint Vincent and the Grenadines,110,242,,,,,,,,98.9,2014
+378,378,,,,259,Samoa,112,243,,,,,,,,102.4,2014
+379,379,14-May,14-Jul,14-May,261,Senegal,113,245,0.548,0.051993164,0.102865384,0.859287105,0.031861133,0.108851761,3771.476,60.5,2014
+380,380,14-May,14-Jul,14-May,262,Serbia,114,246,0.925,0.067,0.06,,,,540.45,93.2,2014
+381,381,,,,263,Seychelles,115,247,,,,,,,,104.5,2014
+382,382,14-May,14-Jul,14-May,264,Sierra Leone,116,248,0.67,0.433,0.513,,,,8971.424,72.4,2014
+383,383,,,,265,Solomon Islands,117,249,,,,,,,,85.4,2014
+384,384,14-May,14-Jul,14-May,266,Somalia,118,250,0.489,0.202,0.398,,,,10128.63,,2014
+385,385,,,,267,South Africa,119,251,,,,,,,,98.5,2014
+386,386,14-Jun,14-Oct,14-Oct,268,South Sudan,120,252,0.315,0.109,0.456,0.602,0.016,0.382,4636.24,37.4,2014
+387,387,14-May,14-Jul,14-May,269,Sri Lanka,122,253,0.978,0.104,0.0917,0.6697,0.1598,0.171,3028.6463,96.9,2014
+388,388,14-May,14-Jul,14-May,270,Suriname,123,254,0.95788079,0.06601695,0.064453925,,,,66.71261,87.7,2014
+389,389,14-May,14-Jul,14-May,271,Swaziland,124,255,0.925402987,0.129909598,0.117297586,,,,353.68022,76.8,2014
+390,390,14-May,14-Jul,14-May,273,Tanzania,126,256,0.741,0.216372927,0.251,,,,31574.424,80.8,2014
+391,391,14-May,14-Jul,14-May,274,Thailand,127,257,0.963,0.144,0.13,,,,13022.67,,2014
+392,392,14-Jul,14-Oct,14-Oct,275,Timor-Leste,128,258,0.697,0.126,0.199,0.976,0.014,0.01,262.68,71,2014
+393,393,14-May,14-Jul,14-May,276,Togo,129,259,0.853,0.354907412,0.357,,,,6161.323,77.4,2014
+394,394,,,,277,Tokelau,130,260,,,,,,,,,2014
+395,395,,,,278,Tonga,131,261,,,,,,,,98.6,2014
+396,396,14-May,14-Jul,14-May,279,Tunisia,132,262,0.942,0.028,0.03,,,,503.6421,101.7,2014
+397,397,14-Jun,14-Jun,14-Jun,280,Turkey,133,263,0.924,0.016,0.026,0.571,0.158,0.271,3202.544,101.4,2014
+398,398,,,,282,Tuvalu,135,264,,,,,,,,99.2,2014
+399,399,14-May,14-Jul,14-May,283,Uganda,136,265,0.887,0.343622919,0.309,0.954014793,0.015441196,0.030544011,30341.262,53.1,2014
+400,400,14-May,14-Jul,14-May,284,Ukraine,137,266,0.965,0.05,0.044,,,,1827.141,102.8,2014
+401,401,14-May,14-Jul,14-May,285,Uruguay,138,267,0.978,0.065,0.061,0.284,0.125,0.591,319.5465,104.3,2014
+402,402,14-May,14-Jul,14-May,286,Uzbekistan,139,268,0.841,0.05,0.043,,,,2440.95,91.8,2014
+403,403,,,,287,Vanuatu,140,269,,,,,,,,83.6,2014
+404,404,14-May,14-Oct,14-Oct,288,Venezuela,141,270,0.96,0.041,0.051,0.323419558,0.12,0.556595642,1386.41,96,2014
+405,405,,,,290,Wallis and Futuna,143,271,,,,,,,,,2014
+406,406,,,,291,West Bank and the Gaza Strip,144,272,,,,,,,,90.2,2014
+407,407,,,,292,Western Sahara,145,273,,,,,,,,,2014
+408,408,14-May,14-Jul,14-May,293,Yemen,146,274,0.679614436,0.103013145,0.135694494,0.699946631,0.022144539,0.27790883,8348.658,69.8,2014
+409,409,14-May,14-Jul,14-May,294,Zambia,147,275,0.652,0.276,0.281,0.918,0.012,0.07,9927.21681,91.3,2014
+410,410,,,,295,Zimbabwe,148,276,,,,,,,,,2014
