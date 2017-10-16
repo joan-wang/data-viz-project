@@ -59,7 +59,7 @@ ggplot(data=countries_stats_2016, aes(x=percent_of_working_children, y=net_expor
   scale_x_continuous(labels = scales::percent) + 
   scale_y_continuous(labels = scales::percent) 
 ```
-
+https://github.com/joan-wang/data-viz-project/tree/master/short_paper
 One may wonder if child labor is related to the level of net exports in a country. Do countries that primarily export goods to other countries utilize child labor to meet those demands? Although the answer to this question requires further research, the scatterplot above suggests that there is no immediate association between net exports (as a % of GDP) and child labor in a country. 
 
 ### Goods Produced by Child or Forced Labor
@@ -104,6 +104,9 @@ ggplot(data=na.omit(assessments), aes(x=advancement_level, group=year, fill=year
 ```
 
 The Department of Labor's reports on Child and Forced Labor note the actions that each country has taken each year to address this issue. A few countries have made moderate or significant advancements to eliminate the worst forms of child labor. However, most countries have made little to no advancement in efforts to reduce child labor in the past three years.
+
+
+
 
 
 ```{r error=FALSE, warning=FALSE, message=FALSE, fig.width=10,fig.height=22}

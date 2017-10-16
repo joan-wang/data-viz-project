@@ -24,9 +24,7 @@ ggplot(data=stats_2016, aes(x=percent_of_working_children, y=percent_of_children
        caption = "Source: United States Department of Labor (DOL), Sweat & Toil Dataset") + 
   theme(plot.title = element_text(size=11)) + 
   scale_x_continuous(labels = scales::percent) + 
-  scale_y_continuous(labels = scales::percent) + 
-  theme_hc() + 
-  scale_colour_hc()
+  scale_y_continuous(labels = scales::percent) 
 
 # Scatter Plot
 countries_stats_2016 = left_join(countries, filter(rename(statistics, "name_DOL" = country), year == 2016), by="name_DOL")
@@ -44,23 +42,6 @@ ggplot(data=countries_stats_2016, aes(x=percent_of_working_children, y=net_expor
   scale_y_continuous(labels = scales::percent) 
   
 
-
-# Bubble Chart
-stats_2016 <- filter(statistics, year == 2016)
-ggplot(data=stats_2016, aes(x=percent_of_working_children, y=percent_of_children_attending_school)) +
-  geom_point(na.rm=TRUE, aes(size=population_of_working_children)) +
-  geom_smooth(model = lm) +
-  labs(title = "Do working children attend school?",
-       subtitle = "Relationship between percent of children working vs attending school in a country in 2016",
-       x = "Percent of working children",
-       y = "Percent of children attending school",
-       size = "Population of working children",
-       caption = "Source: United States Department of Labor (DOL), Sweat & Toil Dataset") + 
-  theme(plot.title = element_text(size=11)) + 
-  scale_x_continuous(labels = scales::percent) + 
-  scale_y_continuous(labels = scales::percent) + 
-  theme_hc() + 
-  scale_colour_hc()
 
 # Bar Chart
 assessments$year <-factor(assessments$year)
